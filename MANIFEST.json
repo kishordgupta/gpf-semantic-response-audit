@@ -7,17 +7,21 @@
     "bytes": 176,
     "sha256": "ccbdef4a0110f15325446813dac821f04dc683b8a012e30839a808e108621edc"
   },
+  "CITATION.md": {
+    "bytes": 1709,
+    "sha256": "71a1c5e1c3551e9f2a25dd68319453cba6886c5d86e2bc3639b0a9f0c688691a"
+  },
   "DATASET_CARD.md": {
-    "bytes": 8746,
-    "sha256": "222ea67786a8b5c33ff80bc76e826a17ec27656738541389cd1ce20b442bb53a"
+    "bytes": 9815,
+    "sha256": "b9b9f224b32acea637400a257843e9cba580b65a3d36c5ff5bee4fb20f32e3e9"
   },
   "DATA_DICTIONARY.md": {
-    "bytes": 9238,
-    "sha256": "ff5ad07f9682ed0d0980af428743f1bce224ce25478b25efbb6df4d6fb79511c"
+    "bytes": 9272,
+    "sha256": "a4e69ec503efeffba498999f235ec45ee6e96571d762e68bc4442ae874a4a183"
   },
   "README.md": {
-    "bytes": 9705,
-    "sha256": "956a3a6ae35e1c748791e67510a221109e14ff3df621049b8214e265d50636ed"
+    "bytes": 11404,
+    "sha256": "0914f9b99a800a4aa18304036f290c096ac59938ce1cf7e57d9a7be39a3051b5"
   },
   "RIGHTS.md": {
     "bytes": 1044,
@@ -75,9 +79,17 @@
     "bytes": 205117,
     "sha256": "7f126f4aaf8d03ecf848d1580165f51fa53fb6a69d07aee81a7c278d43d8ab39"
   },
+  "kaggle/DATA_CARD.md": {
+    "bytes": 19830,
+    "sha256": "f558b7ac269e11de2701c4309fd0e101817b995c6a1cc3600c6030771e55f6c5"
+  },
   "lexical_features.py": {
     "bytes": 1493,
     "sha256": "98d34e72887f8ed0efa481474386ee4725f5fe34456dd4df04bcb198b22fec6e"
+  },
+  "notebooks/GPF_Starter.ipynb": {
+    "bytes": 98615,
+    "sha256": "ee933159b5b676aa08a5b3093fac969d8d91c443332d8b930cdc66d39d1bc90b"
   },
   "report/README.md": {
     "bytes": 1203,
@@ -114,6 +126,10 @@
   "reproduce.py": {
     "bytes": 662,
     "sha256": "17b19861a011627b1f1246b927339c06ac83c70a1f19bb4c8ac7789527d8743d"
+  },
+  "requirements-starter.txt": {
+    "bytes": 316,
+    "sha256": "2736547160444a93a639acc0ce004dbe6ed63b73061cad1eedac58bfa693f139"
   },
   "requirements.txt": {
     "bytes": 168,

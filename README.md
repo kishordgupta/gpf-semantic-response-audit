@@ -8,6 +8,10 @@ This is a research snapshot. The dataset and dashboard contain publisher article
 
 ## Read and explore
 
+- [Kaggle dataset and detailed data card](https://www.kaggle.com/datasets/kishor1123/gpf-matched-news-7056-responses-from-12-models)
+- [Run the public starter notebook on Kaggle](https://www.kaggle.com/code/kishor1123/gpf-matched-news-starter-analysis-and-validation): explore the attached dataset, validate its checksum and coverage, and generate summary tables.
+- [ResearchGate preprint](https://www.researchgate.net/publication/414852735_GPF_Matched-News_Dataset_Semantic_Variation_Across_Models_and_Identity_Prompts)
+- [Starter Jupyter notebook](notebooks/GPF_Starter.ipynb): load and validate the CSV, summarize models and Y groups, filter records, compare responses to the same prompt, and export simple summaries. See [starter requirements](requirements-starter.txt).
 - The editable report is maintained separately in Overleaf.
 - [Full analysis report PDF](report/main.pdf)
 - [Offline interactive dashboard](dashboard/index.html): download the HTML and open it in a browser. GitHub's file viewer does not execute HTML. No server or external service is needed.
@@ -15,6 +19,14 @@ This is a research snapshot. The dataset and dashboard contain publisher article
 - [All 28 column definitions](DATA_DICTIONARY.md) and [dataset card](DATASET_CARD.md)
 - [Data quality audit](results/data_quality.md), [flagged rows](results/flagged_rows.csv), and [validation record](results/validation.json)
 - [Complete downloadable analysis package](GPF_Analysis_Complete.zip)
+
+## Please cite the preprint
+
+If you use this dataset, notebook, code, dashboard, or analysis in research, teaching, or another project, please cite the following ResearchGate preprint and link to the Kaggle dataset. This helps the community find the original data, study design, and interpretation limits.
+
+**Haque, Mohd Ariful, and Gupta, Kishor Datta. (2026). _GPF Matched-News Dataset: Semantic Variation Across Models and Identity Prompts_. ResearchGate preprint. [Read and cite the paper](https://www.researchgate.net/publication/414852735_GPF_Matched-News_Dataset_Semantic_Variation_Across_Models_and_Identity_Prompts).**
+
+[Citation text and BibTeX](CITATION.md) are provided for reuse. The paper is a preprint, and no DOI has been assigned. Please identify the dataset version and any filtering or cleaning applied in your work. Citation does not replace the third-party rights conditions in [RIGHTS.md](RIGHTS.md).
 
 ## Main findings
 

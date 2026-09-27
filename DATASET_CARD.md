@@ -1,5 +1,11 @@
 # GPF matched-news response dataset card
 
+## Dataset access and citation
+
+The release is available as a [Kaggle dataset](https://www.kaggle.com/datasets/kishor1123/gpf-matched-news-7056-responses-from-12-models), with an expanded [Kaggle data card](kaggle/DATA_CARD.md), a [public runnable starter notebook on Kaggle](https://www.kaggle.com/code/kishor1123/gpf-matched-news-starter-analysis-and-validation), and the [starter notebook source](notebooks/GPF_Starter.ipynb). The [public GitHub repository](https://github.com/kishordgupta/gpf-semantic-response-audit) contains the full analysis and offline dashboard.
+
+**If you use these data or accompanying artifacts, please cite:** Haque, Mohd Ariful, and Gupta, Kishor Datta. (2026). *GPF Matched-News Dataset: Semantic Variation Across Models and Identity Prompts*. [ResearchGate preprint](https://www.researchgate.net/publication/414852735_GPF_Matched-News_Dataset_Semantic_Variation_Across_Models_and_Identity_Prompts). See [CITATION.md](CITATION.md) for BibTeX. Please also link to the Kaggle dataset and identify the version and any transformations used.
+
 ## Purpose and snapshot
 
 This research snapshot supports descriptive, matched-prompt comparisons of model responses to synthetic identity-conditioned questions about two supplied news articles. It is a small controlled stimulus corpus, not a representative sample of people, news, or model behavior. The dataset is the user's selected **28-column, 7,056-row CSV**, preserved byte-for-byte at `data/responses.csv`. The descriptive report and dashboard distinguish observed semantic variation from harmful bias or factual accuracy.
