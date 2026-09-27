@@ -1,0 +1,8 @@
+# Local dependencies for the lightweight starter notebook.
+# Kaggle normally provides these; the notebook itself installs/downloads nothing.
+pandas>=2.2,<4
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+# Optional lexical comparison only:
+scikit-learn>=1.4,<2
+# A Jupyter UI/kernel is required only for interactive notebook use.
