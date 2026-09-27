@@ -2,7 +2,7 @@
 
 A matched-prompt analysis of **7,056 recorded responses**, covering **12 model streams**, **42 Y identity labels in six dimensions**, **seven question families**, and **two news articles**. Every model has a response for each of the same 588 prompt cells. The canonical CSV preserves the requested 28 columns, full prompts, exact responses, and source links.
 
-**Authors:** Kishor Datta Gupta and Mohd Ariful Haque.
+**Authors:** Mohd Ariful Haque and Kishor Datta Gupta.
 
 This is a research snapshot. The dataset and dashboard contain publisher article text; see [RIGHTS.md](RIGHTS.md). Recorded model labels are not independently verified backend checkpoints. Distances describe text variation, not factual accuracy, discrimination, or a model quality ranking.
 

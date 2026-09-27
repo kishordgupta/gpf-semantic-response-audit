@@ -3,22 +3,27 @@
   "compile": "Tectonic -X compile report/main.tex --outdir report --keep-logs --only-cached",
   "status": "pass",
   "overfull_box_warnings": 0,
-  "visual_review": "Updated title page rendered and inspected; all 24 body pages text-equivalent to the previously reviewed report after footer page-number normalization.",
+  "visual_review": "Title page previously inspected; updated reproducibility/access pages rendered and inspected after public-release wording correction.",
   "exact_quote_checks": 16,
   "case_count": 8,
   "pair_rows": 66,
   "Y_labels": 42,
   "schema_columns": 28,
-  "pdf_sha256": "7c654db624832b986fd1833cbe42687f753b4d937262f01796fd1aae0fce982f",
+  "pdf_sha256": "c383cfcdef75fb7390f882009c409568be1853aa87eecf656ea7d8eb764216f5",
   "independent_review_fixes": [
     "Describe largest absolute pair-mean change accurately",
     "Case1 explicitly notes both models prescribe emotions, including GPT closing imperative",
     "Family/article table sample-size header explicitly identifies full-data counts"
   ],
   "authors": [
-    "Kishor Datta Gupta",
-    "Mohd Ariful Haque"
+    "Mohd Ariful Haque",
+    "Kishor Datta Gupta"
   ],
   "table_of_contents": false,
-  "body_pages_unchanged": 24
+  "title_date_shown": false,
+  "github_url_in_pdf": true,
+  "github_link_pages": [
+    17
+  ],
+  "repository_visibility_statement": "public; third-party redistribution-rights caveat preserved"
 }

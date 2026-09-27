@@ -1,6 +1,6 @@
 # Scientific report
 
-**Authors:** Kishor Datta Gupta and Mohd Ariful Haque.
+**Authors:** Mohd Ariful Haque and Kishor Datta Gupta.
 
 Read the [full report PDF](main.pdf). The editable report is maintained separately in Overleaf; the project identifier is not included in this release.
 
