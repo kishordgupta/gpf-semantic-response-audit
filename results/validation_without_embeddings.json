@@ -1,0 +1,245 @@
+{
+  "status": "pass",
+  "checks_passed": 49,
+  "require_artifacts": true,
+  "validation_mode": "published_artifacts_without_embeddings",
+  "limitations": [
+    "Published-artifact mode checks semantic matrices against reported tables; it does not recompute semantic encoder outputs or verify saved tokenizer behavior by running tokenizers."
+  ],
+  "input_sha256": "c459043e9fb30eb653541d3a0ebaddb10735512025ed57190c0cb12966dd89da",
+  "checks": [
+    {
+      "check": "Dataset SHA256 agrees with analysis and audit",
+      "pass": true
+    },
+    {
+      "check": "Dataset is 7056 rows \u00d7 28 specified columns",
+      "pass": true
+    },
+    {
+      "check": "12 unique models, 588 complete exact prompt cells",
+      "pass": true
+    },
+    {
+      "check": "Observation keys are unique and responses nonempty",
+      "pass": true
+    },
+    {
+      "check": "mpnet: embedding text hash matches dataset",
+      "pass": true
+    },
+    {
+      "check": "minilm: embedding text hash matches dataset",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: embedding text hash matches dataset",
+      "pass": true
+    },
+    {
+      "check": "TF-IDF input and ordered vocabulary checksums match frozen baseline",
+      "pass": true
+    },
+    {
+      "check": "Prompt-pair table complete",
+      "pass": true
+    },
+    {
+      "check": "Pairwise summary complete",
+      "pass": true
+    },
+    {
+      "check": "mpnet: matrix finite and in cosine-distance bounds",
+      "pass": true
+    },
+    {
+      "check": "mpnet: every summary mean equals its 588 distances",
+      "pass": true
+    },
+    {
+      "check": "mpnet: confidence intervals ordered and bounded",
+      "pass": true
+    },
+    {
+      "check": "mpnet: long-form CSV equals distance matrix",
+      "pass": true
+    },
+    {
+      "check": "minilm: matrix finite and in cosine-distance bounds",
+      "pass": true
+    },
+    {
+      "check": "minilm: every summary mean equals its 588 distances",
+      "pass": true
+    },
+    {
+      "check": "minilm: confidence intervals ordered and bounded",
+      "pass": true
+    },
+    {
+      "check": "minilm: long-form CSV equals distance matrix",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: matrix finite and in cosine-distance bounds",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: every summary mean equals its 588 distances",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: confidence intervals ordered and bounded",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: long-form CSV equals distance matrix",
+      "pass": true
+    },
+    {
+      "check": "tfidf: matrix finite and in cosine-distance bounds",
+      "pass": true
+    },
+    {
+      "check": "tfidf: all 38808 distances independently recomputed",
+      "pass": true,
+      "details": {
+        "max_absolute_error": 4.440892098500626e-16
+      }
+    },
+    {
+      "check": "tfidf: every summary mean equals its 588 distances",
+      "pass": true
+    },
+    {
+      "check": "tfidf: confidence intervals ordered and bounded",
+      "pass": true
+    },
+    {
+      "check": "tfidf: long-form CSV equals distance matrix",
+      "pass": true
+    },
+    {
+      "check": "pairwise_by_y: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 11088,
+        "expected_rows": 11088
+      }
+    },
+    {
+      "check": "pairwise_by_family: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 1848,
+        "expected_rows": 1848
+      }
+    },
+    {
+      "check": "pairwise_by_article: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 528,
+        "expected_rows": 528
+      }
+    },
+    {
+      "check": "identity_sensitivity: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 288,
+        "expected_rows": 288
+      }
+    },
+    {
+      "check": "y_importance: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 2016,
+        "expected_rows": 2016
+      }
+    },
+    {
+      "check": "length_sensitivity: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 264,
+        "expected_rows": 264
+      }
+    },
+    {
+      "check": "source_proximity: expected table coverage",
+      "pass": true,
+      "details": {
+        "rows": 7056,
+        "expected_rows": 7056
+      }
+    },
+    {
+      "check": "Y-level distance averages equal corresponding dimension pairwise means",
+      "pass": true
+    },
+    {
+      "check": "Five suspect observations explicitly retained and flagged",
+      "pass": true
+    },
+    {
+      "check": "Tokenizer chunks never exceed model sequence length",
+      "pass": true
+    },
+    {
+      "check": "mpnet: saved chunk validation agrees with published metadata",
+      "pass": true
+    },
+    {
+      "check": "minilm: saved chunk validation agrees with published metadata",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: saved chunk validation agrees with published metadata",
+      "pass": true
+    },
+    {
+      "check": "Screened comparison is balanced 583 complete cells",
+      "pass": true
+    },
+    {
+      "check": "mpnet: screened means equal independently selected matrix rows",
+      "pass": true
+    },
+    {
+      "check": "minilm: screened means equal independently selected matrix rows",
+      "pass": true
+    },
+    {
+      "check": "mpnet_masked: screened means equal independently selected matrix rows",
+      "pass": true
+    },
+    {
+      "check": "tfidf: screened means equal independently selected matrix rows",
+      "pass": true
+    },
+    {
+      "check": "cases.json: selected quotations and distances match canonical rows",
+      "pass": true,
+      "details": {
+        "cases": 13
+      }
+    },
+    {
+      "check": "cases_screened.json: selected quotations and distances match canonical rows",
+      "pass": true,
+      "details": {
+        "cases": 16
+      }
+    },
+    {
+      "check": "Standalone HTML dashboard exists",
+      "pass": true
+    },
+    {
+      "check": "Compiled report PDF exists",
+      "pass": true
+    }
+  ]
+}

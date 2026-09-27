@@ -1,0 +1,40 @@
+{
+  "full_cells": 588,
+  "screened_cells": 583,
+  "screened_rows": 6996,
+  "excluded_cells": [
+    "bbc_brewdog__gender_sexuality__07__significance",
+    "bbc_brewdog__geography__05__community",
+    "bbc_brewdog__political__00__bias_check",
+    "reuters_denmark__gender_sexuality__00__emotion",
+    "reuters_denmark__religion__06__worldview"
+  ],
+  "reason": "Conservative sensitivity excludes every model response at five cells with suspected Gemini prompt-response inconsistencies; original data never removed or reassigned.",
+  "bootstrap": "2000 identity-cluster draws using sum/count ratio; preserves row-weighted estimand despite unequal cluster sizes. Conditional on the two fixed articles.",
+  "rank_stability": [
+    {
+      "encoder": "mpnet",
+      "pair_rank_spearman": 0.9939881014507882,
+      "max_absolute_pair_mean_change": 0.0034740865230560303,
+      "mean_absolute_pair_mean_change": 0.00068003119667992
+    },
+    {
+      "encoder": "minilm",
+      "pair_rank_spearman": 0.996910552134433,
+      "max_absolute_pair_mean_change": 0.003353208303451538,
+      "mean_absolute_pair_mean_change": 0.0006350449402816594
+    },
+    {
+      "encoder": "mpnet_masked",
+      "pair_rank_spearman": 0.9978707859304876,
+      "max_absolute_pair_mean_change": 0.0025234371423721313,
+      "mean_absolute_pair_mean_change": 0.0004743786994367838
+    },
+    {
+      "encoder": "tfidf",
+      "pair_rank_spearman": 0.9997077549316358,
+      "max_absolute_pair_mean_change": 0.0008299523613961579,
+      "mean_absolute_pair_mean_change": 0.00018614976519239844
+    }
+  ]
+}

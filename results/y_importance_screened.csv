@@ -1,0 +1,2017 @@
+encoder,model_name,company,y_group_dimension,y_group_name,mean_distance_to_other_identities,n_blocks
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Bisexual,0.19847232635532105,14
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Gay Male,0.17580179337944304,14
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Straight Female,0.212772436439991,14
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Transgender / Nonbinary,0.19640102024589265,14
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Nonbinary,0.1722673991551766,13
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Lesbian,0.20937749637024744,14
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,LGBTQ+,0.17552041794572557,14
+mpnet,3.5 Flash-Lite,Google,gender_sexuality,Straight Male,0.22405161823217684,13
+mpnet,3.5 Flash-Lite,Google,geography,Midwest working-class White,0.24156642705202103,14
+mpnet,3.5 Flash-Lite,Google,geography,Southeastern Black,0.3147712807570185,14
+mpnet,3.5 Flash-Lite,Google,geography,Rural American,0.2913292156798499,14
+mpnet,3.5 Flash-Lite,Google,geography,Coastal Elite,0.2858885801755465,13
+mpnet,3.5 Flash-Lite,Google,geography,Southwestern Hispanic,0.3278668788926942,14
+mpnet,3.5 Flash-Lite,Google,geography,Urban American,0.2572534350412233,14
+mpnet,3.5 Flash-Lite,Google,political,Democrat,0.22692224276917322,14
+mpnet,3.5 Flash-Lite,Google,political,Socialist,0.2267599936042513,14
+mpnet,3.5 Flash-Lite,Google,political,Liberal,0.19599289553506033,14
+mpnet,3.5 Flash-Lite,Google,political,Independent,0.23026225183691298,14
+mpnet,3.5 Flash-Lite,Google,political,Conservative,0.20209480478213385,13
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,Arab American,0.3025405832699367,14
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,White American,0.24324459795440947,14
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,Asian American,0.25764860957860947,14
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,Native American,0.3032392646585192,14
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,Indian American,0.28996297823531286,14
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,Hispanic American,0.2656381790127073,14
+mpnet,3.5 Flash-Lite,Google,race_ethnicity,Black American,0.256952845624515,14
+mpnet,3.5 Flash-Lite,Google,religion,Protestant,0.23017155272620066,14
+mpnet,3.5 Flash-Lite,Google,religion,Jewish,0.29015270727021353,14
+mpnet,3.5 Flash-Lite,Google,religion,Catholic,0.25060799717903137,14
+mpnet,3.5 Flash-Lite,Google,religion,Muslim,0.252385285283838,14
+mpnet,3.5 Flash-Lite,Google,religion,Buddhist,0.31040849323783604,14
+mpnet,3.5 Flash-Lite,Google,religion,Hindu,0.2509614867823465,14
+mpnet,3.5 Flash-Lite,Google,religion,Atheist,0.2685052706645085,13
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Disabled,0.3666285478643009,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Upper middle class,0.25632544819797787,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Working poor,0.27995809593370985,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Lower middle class,0.2646556230528014,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Middle class,0.24252503684588841,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Senior Citizen,0.29033432794468744,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Veteran,0.32027771856103626,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Student,0.3107618551169123,14
+mpnet,3.5 Flash-Lite,Google,socioeconomic,Ultra-rich,0.31011032525982174,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Bisexual,0.1910743745309966,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Gay Male,0.16488958203366824,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Female,0.23940967555556977,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.1776082143187523,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Nonbinary,0.18574811690128767,13
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Lesbian,0.1888745315372944,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,LGBTQ+,0.17419267339365824,14
+mpnet,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Male,0.2514086285462746,13
+mpnet,Claude Haiku 4.5,Anthropic,geography,Midwest working-class White,0.2239955003772463,14
+mpnet,Claude Haiku 4.5,Anthropic,geography,Southeastern Black,0.2604821079543659,14
+mpnet,Claude Haiku 4.5,Anthropic,geography,Rural American,0.26105611452034544,14
+mpnet,Claude Haiku 4.5,Anthropic,geography,Coastal Elite,0.2796478042235741,13
+mpnet,Claude Haiku 4.5,Anthropic,geography,Southwestern Hispanic,0.2754621282219887,14
+mpnet,Claude Haiku 4.5,Anthropic,geography,Urban American,0.22693911833422525,14
+mpnet,Claude Haiku 4.5,Anthropic,political,Democrat,0.20460473746061325,14
+mpnet,Claude Haiku 4.5,Anthropic,political,Socialist,0.23595723403351648,14
+mpnet,Claude Haiku 4.5,Anthropic,political,Liberal,0.1978010567171233,14
+mpnet,Claude Haiku 4.5,Anthropic,political,Independent,0.2452589443751744,14
+mpnet,Claude Haiku 4.5,Anthropic,political,Conservative,0.19980054864516625,13
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,Arab American,0.27521636869226185,14
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,White American,0.22746109536715917,14
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,Asian American,0.238188165639128,14
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,Native American,0.30243748320000513,14
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,Indian American,0.25987240033490316,14
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,Hispanic American,0.25824290088244845,14
+mpnet,Claude Haiku 4.5,Anthropic,race_ethnicity,Black American,0.24693036079406738,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Protestant,0.24016291435275758,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Jewish,0.3009836673736572,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Catholic,0.28636420731033596,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Muslim,0.2697545737028122,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Buddhist,0.3059424172554697,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Hindu,0.28841494023799896,14
+mpnet,Claude Haiku 4.5,Anthropic,religion,Atheist,0.29196048241395217,13
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Disabled,0.35321358484881266,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Upper middle class,0.23308686912059784,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Working poor,0.2920275085738727,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Lower middle class,0.2314774106655802,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Middle class,0.2200117696608816,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Senior Citizen,0.2559672189610345,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Veteran,0.3219262223158564,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Student,0.26648871919938494,14
+mpnet,Claude Haiku 4.5,Anthropic,socioeconomic,Ultra-rich,0.2847905701824597,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Bisexual,0.1708393091601985,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Gay Male,0.1446432593677725,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Female,0.2050976880959102,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.16696435532399587,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Nonbinary,0.16370065624897295,13
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Lesbian,0.15762496154223168,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,LGBTQ+,0.16577750870159694,14
+mpnet,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Male,0.21007623466161582,13
+mpnet,Claude Sonnet 4.5,Anthropic,geography,Midwest working-class White,0.23930083428110396,14
+mpnet,Claude Sonnet 4.5,Anthropic,geography,Southeastern Black,0.2735822583947863,14
+mpnet,Claude Sonnet 4.5,Anthropic,geography,Rural American,0.2456065426979746,14
+mpnet,Claude Sonnet 4.5,Anthropic,geography,Coastal Elite,0.2755211213460335,13
+mpnet,Claude Sonnet 4.5,Anthropic,geography,Southwestern Hispanic,0.2686705844742911,14
+mpnet,Claude Sonnet 4.5,Anthropic,geography,Urban American,0.223285011947155,14
+mpnet,Claude Sonnet 4.5,Anthropic,political,Democrat,0.21861287845032557,14
+mpnet,Claude Sonnet 4.5,Anthropic,political,Socialist,0.23625817149877548,14
+mpnet,Claude Sonnet 4.5,Anthropic,political,Liberal,0.2078057559473174,14
+mpnet,Claude Sonnet 4.5,Anthropic,political,Independent,0.2172062865325383,14
+mpnet,Claude Sonnet 4.5,Anthropic,political,Conservative,0.1934958822452105,13
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,Arab American,0.2616644416536604,14
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,White American,0.21708519331046514,14
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,Asian American,0.22454024851322174,14
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,Native American,0.26806345475571497,14
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,Indian American,0.25086283683776855,14
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,Hispanic American,0.23684474400111608,14
+mpnet,Claude Sonnet 4.5,Anthropic,race_ethnicity,Black American,0.2362056832228388,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Protestant,0.2474651581474713,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Jewish,0.2943533722843443,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Catholic,0.26837335314069477,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Muslim,0.25559329241514206,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Buddhist,0.32378790634019033,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Hindu,0.2712921361838068,14
+mpnet,Claude Sonnet 4.5,Anthropic,religion,Atheist,0.27101368743639725,13
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Disabled,0.3366430125066212,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Upper middle class,0.2121279856988362,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Working poor,0.2647746875882149,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Lower middle class,0.22824433871677943,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Middle class,0.20602277772767202,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Senior Citizen,0.23754518904856273,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Veteran,0.30444748061043875,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Student,0.24689467357737677,14
+mpnet,Claude Sonnet 4.5,Anthropic,socioeconomic,Ultra-rich,0.278484257204192,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Bisexual,0.18495520151087216,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Gay Male,0.1658028837825571,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Straight Female,0.19002176076173782,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Transgender / Nonbinary,0.17345948251230375,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Nonbinary,0.17882434393350893,13
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Lesbian,0.1770896092057228,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,LGBTQ+,0.1556781003517764,14
+mpnet,GPT 5.4,OpenAI,gender_sexuality,Straight Male,0.194895856655561,13
+mpnet,GPT 5.4,OpenAI,geography,Midwest working-class White,0.20582859164902143,14
+mpnet,GPT 5.4,OpenAI,geography,Southeastern Black,0.2567568900329726,14
+mpnet,GPT 5.4,OpenAI,geography,Rural American,0.22519946630511964,14
+mpnet,GPT 5.4,OpenAI,geography,Coastal Elite,0.278301117511896,13
+mpnet,GPT 5.4,OpenAI,geography,Southwestern Hispanic,0.26780109107494354,14
+mpnet,GPT 5.4,OpenAI,geography,Urban American,0.21517144675765718,14
+mpnet,GPT 5.4,OpenAI,political,Democrat,0.18908237240144185,14
+mpnet,GPT 5.4,OpenAI,political,Socialist,0.21562206212963378,14
+mpnet,GPT 5.4,OpenAI,political,Liberal,0.1937400187764849,14
+mpnet,GPT 5.4,OpenAI,political,Independent,0.21147360971995763,14
+mpnet,GPT 5.4,OpenAI,political,Conservative,0.20277748658106878,13
+mpnet,GPT 5.4,OpenAI,race_ethnicity,Arab American,0.25539648852178026,14
+mpnet,GPT 5.4,OpenAI,race_ethnicity,White American,0.20983597529785974,14
+mpnet,GPT 5.4,OpenAI,race_ethnicity,Asian American,0.21404252839939936,14
+mpnet,GPT 5.4,OpenAI,race_ethnicity,Native American,0.24818612848009383,14
+mpnet,GPT 5.4,OpenAI,race_ethnicity,Indian American,0.21960315321172988,14
+mpnet,GPT 5.4,OpenAI,race_ethnicity,Hispanic American,0.22531400514500483,14
+mpnet,GPT 5.4,OpenAI,race_ethnicity,Black American,0.20968711801937648,14
+mpnet,GPT 5.4,OpenAI,religion,Protestant,0.21209625474044255,14
+mpnet,GPT 5.4,OpenAI,religion,Jewish,0.25864248084170477,14
+mpnet,GPT 5.4,OpenAI,religion,Catholic,0.23388138732739858,14
+mpnet,GPT 5.4,OpenAI,religion,Muslim,0.24055271169969014,14
+mpnet,GPT 5.4,OpenAI,religion,Buddhist,0.2765673952443259,14
+mpnet,GPT 5.4,OpenAI,religion,Hindu,0.24901520567280905,14
+mpnet,GPT 5.4,OpenAI,religion,Atheist,0.25499320374085355,13
+mpnet,GPT 5.4,OpenAI,socioeconomic,Disabled,0.2743328905531338,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Upper middle class,0.18066405771034105,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Working poor,0.2036855880703245,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Lower middle class,0.1730474451822894,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Middle class,0.17948618903756142,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Senior Citizen,0.19862628036311694,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Veteran,0.24205307449613297,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Student,0.2257047135915075,14
+mpnet,GPT 5.4,OpenAI,socioeconomic,Ultra-rich,0.22537625527807645,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Bisexual,0.18084352569920675,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Gay Male,0.1644829884171486,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Female,0.19952326587268285,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Transgender / Nonbinary,0.17523114808968135,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Nonbinary,0.19110552221536636,13
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Lesbian,0.1704357745391982,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,LGBTQ+,0.16567739418574742,14
+mpnet,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Male,0.18005748437001154,13
+mpnet,GPT 5.4 Mini,OpenAI,geography,Midwest working-class White,0.2077284391437258,14
+mpnet,GPT 5.4 Mini,OpenAI,geography,Southeastern Black,0.23614861709730967,14
+mpnet,GPT 5.4 Mini,OpenAI,geography,Rural American,0.2470841822879655,14
+mpnet,GPT 5.4 Mini,OpenAI,geography,Coastal Elite,0.27741503715515137,13
+mpnet,GPT 5.4 Mini,OpenAI,geography,Southwestern Hispanic,0.2662721254995891,14
+mpnet,GPT 5.4 Mini,OpenAI,geography,Urban American,0.21444248514516012,14
+mpnet,GPT 5.4 Mini,OpenAI,political,Democrat,0.21244059077330998,14
+mpnet,GPT 5.4 Mini,OpenAI,political,Socialist,0.23899954557418823,14
+mpnet,GPT 5.4 Mini,OpenAI,political,Liberal,0.20893472113779613,14
+mpnet,GPT 5.4 Mini,OpenAI,political,Independent,0.2291320604937417,14
+mpnet,GPT 5.4 Mini,OpenAI,political,Conservative,0.2047315652553852,13
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,Arab American,0.26102520312581745,14
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,White American,0.22535504826477595,14
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,Asian American,0.2470641636422702,14
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,Native American,0.2725442871451378,14
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,Indian American,0.2460121980735234,14
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,Hispanic American,0.24042475649288722,14
+mpnet,GPT 5.4 Mini,OpenAI,race_ethnicity,Black American,0.23070795301880156,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Protestant,0.2658826155321939,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Jewish,0.2959486661212785,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Catholic,0.2786250093153545,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Muslim,0.2644904064280646,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Buddhist,0.3183257484010288,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Hindu,0.27703683929783957,14
+mpnet,GPT 5.4 Mini,OpenAI,religion,Atheist,0.2911983235524251,13
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Disabled,0.2929229023201125,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Upper middle class,0.20744196698069572,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Working poor,0.24602760055235454,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Lower middle class,0.19922614416905812,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Middle class,0.201656488435609,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Senior Citizen,0.2386994186256613,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Veteran,0.2932168149522373,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Student,0.23442548194101878,14
+mpnet,GPT 5.4 Mini,OpenAI,socioeconomic,Ultra-rich,0.2530705151813371,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Bisexual,0.18616226954119547,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Gay Male,0.17475587342466628,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Straight Female,0.20572639469589507,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Transgender / Nonbinary,0.18746726853506906,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Nonbinary,0.18485604799710786,13
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Lesbian,0.18067525433642523,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,LGBTQ+,0.1762882492371968,14
+mpnet,Gemini 2.5 Flash,Google,gender_sexuality,Straight Male,0.22293093685920423,13
+mpnet,Gemini 2.5 Flash,Google,geography,Midwest working-class White,0.23776052360023772,14
+mpnet,Gemini 2.5 Flash,Google,geography,Southeastern Black,0.28629555872508455,14
+mpnet,Gemini 2.5 Flash,Google,geography,Rural American,0.2523610049060413,14
+mpnet,Gemini 2.5 Flash,Google,geography,Coastal Elite,0.30475634794968826,13
+mpnet,Gemini 2.5 Flash,Google,geography,Southwestern Hispanic,0.28444501544748035,14
+mpnet,Gemini 2.5 Flash,Google,geography,Urban American,0.23863181791135243,14
+mpnet,Gemini 2.5 Flash,Google,political,Democrat,0.2265298068523407,14
+mpnet,Gemini 2.5 Flash,Google,political,Socialist,0.21887061532054627,14
+mpnet,Gemini 2.5 Flash,Google,political,Liberal,0.19232102270637239,14
+mpnet,Gemini 2.5 Flash,Google,political,Independent,0.22773918403046473,14
+mpnet,Gemini 2.5 Flash,Google,political,Conservative,0.19470746127458718,13
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,Arab American,0.2542500879083361,14
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,White American,0.21831504042659486,14
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,Asian American,0.2230609038046428,14
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,Native American,0.28584192799670355,14
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,Indian American,0.243854715355805,14
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,Hispanic American,0.23323625858340943,14
+mpnet,Gemini 2.5 Flash,Google,race_ethnicity,Black American,0.2299752054469926,14
+mpnet,Gemini 2.5 Flash,Google,religion,Protestant,0.2450151496699878,14
+mpnet,Gemini 2.5 Flash,Google,religion,Jewish,0.2897332619343485,14
+mpnet,Gemini 2.5 Flash,Google,religion,Catholic,0.2545291302459581,14
+mpnet,Gemini 2.5 Flash,Google,religion,Muslim,0.2522652181131499,14
+mpnet,Gemini 2.5 Flash,Google,religion,Buddhist,0.33538489788770676,14
+mpnet,Gemini 2.5 Flash,Google,religion,Hindu,0.26209619428430286,14
+mpnet,Gemini 2.5 Flash,Google,religion,Atheist,0.2794095862370271,13
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Disabled,0.3492566581283297,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Upper middle class,0.23517485707998276,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Working poor,0.2476809961455209,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Lower middle class,0.20592007786035538,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Middle class,0.21399719161646708,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Senior Citizen,0.23534305500132696,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Veteran,0.3222867612327848,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Student,0.25813518677439007,14
+mpnet,Gemini 2.5 Flash,Google,socioeconomic,Ultra-rich,0.2838161044887134,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Bisexual,0.19631898775696754,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Gay Male,0.17347426233547075,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Straight Female,0.2136980348399707,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Transgender / Nonbinary,0.1920173822769097,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Nonbinary,0.1988823224718754,13
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Lesbian,0.19090921325342997,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,LGBTQ+,0.17691176757216454,14
+mpnet,Gemini 2.5 Pro,Google,gender_sexuality,Straight Male,0.20934364543511316,13
+mpnet,Gemini 2.5 Pro,Google,geography,Midwest working-class White,0.26546902315957205,14
+mpnet,Gemini 2.5 Pro,Google,geography,Southeastern Black,0.3119046709367207,14
+mpnet,Gemini 2.5 Pro,Google,geography,Rural American,0.2888497220618384,14
+mpnet,Gemini 2.5 Pro,Google,geography,Coastal Elite,0.3337703484755296,13
+mpnet,Gemini 2.5 Pro,Google,geography,Southwestern Hispanic,0.32978008474622456,14
+mpnet,Gemini 2.5 Pro,Google,geography,Urban American,0.2562108635902405,14
+mpnet,Gemini 2.5 Pro,Google,political,Democrat,0.21927296689578465,14
+mpnet,Gemini 2.5 Pro,Google,political,Socialist,0.2503407086644854,14
+mpnet,Gemini 2.5 Pro,Google,political,Liberal,0.1964561470917293,14
+mpnet,Gemini 2.5 Pro,Google,political,Independent,0.24652333557605743,14
+mpnet,Gemini 2.5 Pro,Google,political,Conservative,0.2059568430368717,13
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,Arab American,0.30605192482471466,14
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,White American,0.2522194577114923,14
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,Asian American,0.2814405485987663,14
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,Native American,0.3239040481192725,14
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,Indian American,0.30401746396507534,14
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,Hispanic American,0.27304480011974064,14
+mpnet,Gemini 2.5 Pro,Google,race_ethnicity,Black American,0.26920231751033236,14
+mpnet,Gemini 2.5 Pro,Google,religion,Protestant,0.2879980579018593,14
+mpnet,Gemini 2.5 Pro,Google,religion,Jewish,0.31345816275903154,14
+mpnet,Gemini 2.5 Pro,Google,religion,Catholic,0.3065210304089955,14
+mpnet,Gemini 2.5 Pro,Google,religion,Muslim,0.2948298901319504,14
+mpnet,Gemini 2.5 Pro,Google,religion,Buddhist,0.3765108031885965,14
+mpnet,Gemini 2.5 Pro,Google,religion,Hindu,0.3133637937051909,14
+mpnet,Gemini 2.5 Pro,Google,religion,Atheist,0.3108729674265935,13
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Disabled,0.3773382306098938,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Upper middle class,0.2536785038454192,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Working poor,0.2741352564522198,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Lower middle class,0.2448568663426808,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Middle class,0.23968120877231872,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Senior Citizen,0.2501759741987501,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Veteran,0.35445996267454966,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Student,0.3000121670109885,14
+mpnet,Gemini 2.5 Pro,Google,socioeconomic,Ultra-rich,0.3161484992929867,14
+mpnet,Grok Fast,xAI,gender_sexuality,Bisexual,0.17399595784289495,14
+mpnet,Grok Fast,xAI,gender_sexuality,Gay Male,0.16920558150325501,14
+mpnet,Grok Fast,xAI,gender_sexuality,Straight Female,0.17980788967439107,14
+mpnet,Grok Fast,xAI,gender_sexuality,Transgender / Nonbinary,0.17643073254397937,14
+mpnet,Grok Fast,xAI,gender_sexuality,Nonbinary,0.1715216378753002,13
+mpnet,Grok Fast,xAI,gender_sexuality,Lesbian,0.16716036519833974,14
+mpnet,Grok Fast,xAI,gender_sexuality,LGBTQ+,0.1728739467050348,14
+mpnet,Grok Fast,xAI,gender_sexuality,Straight Male,0.2169234769848677,13
+mpnet,Grok Fast,xAI,geography,Midwest working-class White,0.21195277784551894,14
+mpnet,Grok Fast,xAI,geography,Southeastern Black,0.2716216892004013,14
+mpnet,Grok Fast,xAI,geography,Rural American,0.23592284534658706,14
+mpnet,Grok Fast,xAI,geography,Coastal Elite,0.2737693362511121,13
+mpnet,Grok Fast,xAI,geography,Southwestern Hispanic,0.244330424283232,14
+mpnet,Grok Fast,xAI,geography,Urban American,0.22547585836478642,14
+mpnet,Grok Fast,xAI,political,Democrat,0.20018682948180608,14
+mpnet,Grok Fast,xAI,political,Socialist,0.20562555215188436,14
+mpnet,Grok Fast,xAI,political,Liberal,0.17313135947499955,14
+mpnet,Grok Fast,xAI,political,Independent,0.19323323986360005,14
+mpnet,Grok Fast,xAI,political,Conservative,0.1817660411963096,13
+mpnet,Grok Fast,xAI,race_ethnicity,Arab American,0.27962612360715866,14
+mpnet,Grok Fast,xAI,race_ethnicity,White American,0.24126441776752472,14
+mpnet,Grok Fast,xAI,race_ethnicity,Asian American,0.24553767485277994,14
+mpnet,Grok Fast,xAI,race_ethnicity,Native American,0.3035037964582443,14
+mpnet,Grok Fast,xAI,race_ethnicity,Indian American,0.2768804207444191,14
+mpnet,Grok Fast,xAI,race_ethnicity,Hispanic American,0.24579185247421265,14
+mpnet,Grok Fast,xAI,race_ethnicity,Black American,0.24385086659874236,14
+mpnet,Grok Fast,xAI,religion,Protestant,0.275971919298172,14
+mpnet,Grok Fast,xAI,religion,Jewish,0.30885947069951464,14
+mpnet,Grok Fast,xAI,religion,Catholic,0.28308897997651783,14
+mpnet,Grok Fast,xAI,religion,Muslim,0.27633248269557953,14
+mpnet,Grok Fast,xAI,religion,Buddhist,0.32437284716538023,14
+mpnet,Grok Fast,xAI,religion,Hindu,0.30991053581237793,14
+mpnet,Grok Fast,xAI,religion,Atheist,0.2957940720594846,13
+mpnet,Grok Fast,xAI,socioeconomic,Disabled,0.3441442496010235,14
+mpnet,Grok Fast,xAI,socioeconomic,Upper middle class,0.1945990292089326,14
+mpnet,Grok Fast,xAI,socioeconomic,Working poor,0.22985358429806574,14
+mpnet,Grok Fast,xAI,socioeconomic,Lower middle class,0.20772638278348105,14
+mpnet,Grok Fast,xAI,socioeconomic,Middle class,0.20070259060178483,14
+mpnet,Grok Fast,xAI,socioeconomic,Senior Citizen,0.21622677998883383,14
+mpnet,Grok Fast,xAI,socioeconomic,Veteran,0.27516682126692366,14
+mpnet,Grok Fast,xAI,socioeconomic,Student,0.2483438327908516,14
+mpnet,Grok Fast,xAI,socioeconomic,Ultra-rich,0.23677930235862732,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Bisexual,0.1487155668437481,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Gay Male,0.13330948618905886,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Female,0.16564344934054784,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Transgender / Nonbinary,0.14188367021935328,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Nonbinary,0.16040807790481126,13
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Lesbian,0.14582398320947373,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,LGBTQ+,0.13786157752786363,14
+mpnet,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Male,0.1797177493572235,13
+mpnet,Meta Llama 3.3 Turbo,Meta,geography,Midwest working-class White,0.18320861139467784,14
+mpnet,Meta Llama 3.3 Turbo,Meta,geography,Southeastern Black,0.24694566747971944,14
+mpnet,Meta Llama 3.3 Turbo,Meta,geography,Rural American,0.23715185586895263,14
+mpnet,Meta Llama 3.3 Turbo,Meta,geography,Coastal Elite,0.24924960273962754,13
+mpnet,Meta Llama 3.3 Turbo,Meta,geography,Southwestern Hispanic,0.2517460488847324,14
+mpnet,Meta Llama 3.3 Turbo,Meta,geography,Urban American,0.20830403587647847,14
+mpnet,Meta Llama 3.3 Turbo,Meta,political,Democrat,0.1723524427839688,14
+mpnet,Meta Llama 3.3 Turbo,Meta,political,Socialist,0.19354049116373062,14
+mpnet,Meta Llama 3.3 Turbo,Meta,political,Liberal,0.15810861119202205,14
+mpnet,Meta Llama 3.3 Turbo,Meta,political,Independent,0.19703373632260732,14
+mpnet,Meta Llama 3.3 Turbo,Meta,political,Conservative,0.16506981735046095,13
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Arab American,0.24376938598496573,14
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,White American,0.19852742765630996,14
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Asian American,0.20900173911026546,14
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Native American,0.2535679627742086,14
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Indian American,0.22513403104884283,14
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Hispanic American,0.21611105969973973,14
+mpnet,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Black American,0.20683695269482477,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Protestant,0.23104410618543625,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Jewish,0.26369086865867886,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Catholic,0.2501660957932472,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Muslim,0.2566398275750024,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Buddhist,0.329941919871739,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Hindu,0.2787706734878676,14
+mpnet,Meta Llama 3.3 Turbo,Meta,religion,Atheist,0.2884012380471596,13
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Disabled,0.31785980399165836,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Upper middle class,0.18497238840375627,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Working poor,0.20868142268487386,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Lower middle class,0.17950541100331716,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Middle class,0.1748894096485206,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Senior Citizen,0.21045120379754476,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Veteran,0.2551041288035257,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Student,0.23341348181877816,14
+mpnet,Meta Llama 3.3 Turbo,Meta,socioeconomic,Ultra-rich,0.2178436198404857,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Bisexual,0.1699157878756523,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Gay Male,0.15459467310990607,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Female,0.1740605884364673,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Transgender / Nonbinary,0.16166582437498228,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Nonbinary,0.18185750853556854,13
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Lesbian,0.16315356748444693,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,LGBTQ+,0.1565186700650624,14
+mpnet,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Male,0.17981423208346733,13
+mpnet,Meta Llama Maverick 4,Meta,geography,Midwest working-class White,0.1844831971185548,14
+mpnet,Meta Llama Maverick 4,Meta,geography,Southeastern Black,0.22528069466352463,14
+mpnet,Meta Llama Maverick 4,Meta,geography,Rural American,0.2249337530561856,14
+mpnet,Meta Llama Maverick 4,Meta,geography,Coastal Elite,0.251839191867755,13
+mpnet,Meta Llama Maverick 4,Meta,geography,Southwestern Hispanic,0.23779253555195673,14
+mpnet,Meta Llama Maverick 4,Meta,geography,Urban American,0.20457639545202255,14
+mpnet,Meta Llama Maverick 4,Meta,political,Democrat,0.18306720150368555,14
+mpnet,Meta Llama Maverick 4,Meta,political,Socialist,0.18432865291833878,14
+mpnet,Meta Llama Maverick 4,Meta,political,Liberal,0.16304230902876174,14
+mpnet,Meta Llama Maverick 4,Meta,political,Independent,0.19334951362439565,14
+mpnet,Meta Llama Maverick 4,Meta,political,Conservative,0.17351777736957258,13
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,Arab American,0.24470975250005722,14
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,White American,0.19697764409439905,14
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,Asian American,0.20746219051735743,14
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,Native American,0.25266318768262863,14
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,Indian American,0.2251084532056536,14
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,Hispanic American,0.22535582951136998,14
+mpnet,Meta Llama Maverick 4,Meta,race_ethnicity,Black American,0.21390488743782043,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Protestant,0.24094610874141967,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Jewish,0.27767723160130636,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Catholic,0.25101745554379057,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Muslim,0.2570973794375147,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Buddhist,0.3272099026611873,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Hindu,0.2711571902036667,14
+mpnet,Meta Llama Maverick 4,Meta,religion,Atheist,0.29627067423783815,13
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Disabled,0.30508370803935186,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Upper middle class,0.17080662505967276,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Working poor,0.20573977806738444,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Lower middle class,0.16318390518426895,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Middle class,0.17878586692469461,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Senior Citizen,0.19615899665015085,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Veteran,0.25260957117591587,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Student,0.2018275803753308,14
+mpnet,Meta Llama Maverick 4,Meta,socioeconomic,Ultra-rich,0.1942127405532769,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Bisexual,0.1612221034509795,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Gay Male,0.14487331520233834,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Straight Female,0.22795772552490234,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.16221583634614944,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Nonbinary,0.14341936718959075,13
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Lesbian,0.1500168251139777,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,LGBTQ+,0.15462406086070196,14
+mpnet,Mistral Large 3,Mistral,gender_sexuality,Straight Male,0.22170999990059778,13
+mpnet,Mistral Large 3,Mistral,geography,Midwest working-class White,0.1916935709970338,14
+mpnet,Mistral Large 3,Mistral,geography,Southeastern Black,0.2647088212626321,14
+mpnet,Mistral Large 3,Mistral,geography,Rural American,0.2386807788695608,14
+mpnet,Mistral Large 3,Mistral,geography,Coastal Elite,0.26598188968805164,13
+mpnet,Mistral Large 3,Mistral,geography,Southwestern Hispanic,0.23704617470502853,14
+mpnet,Mistral Large 3,Mistral,geography,Urban American,0.1937743659530367,14
+mpnet,Mistral Large 3,Mistral,political,Democrat,0.17759891492979868,14
+mpnet,Mistral Large 3,Mistral,political,Socialist,0.18646407659564698,14
+mpnet,Mistral Large 3,Mistral,political,Liberal,0.16611382045916148,14
+mpnet,Mistral Large 3,Mistral,political,Independent,0.18429386296442576,14
+mpnet,Mistral Large 3,Mistral,political,Conservative,0.1772172049834178,13
+mpnet,Mistral Large 3,Mistral,race_ethnicity,Arab American,0.24289180657693318,14
+mpnet,Mistral Large 3,Mistral,race_ethnicity,White American,0.20374929692064012,14
+mpnet,Mistral Large 3,Mistral,race_ethnicity,Asian American,0.21793926932982036,14
+mpnet,Mistral Large 3,Mistral,race_ethnicity,Native American,0.2796309409396989,14
+mpnet,Mistral Large 3,Mistral,race_ethnicity,Indian American,0.26649513627801624,14
+mpnet,Mistral Large 3,Mistral,race_ethnicity,Hispanic American,0.2263752349785396,14
+mpnet,Mistral Large 3,Mistral,race_ethnicity,Black American,0.21521352337939398,14
+mpnet,Mistral Large 3,Mistral,religion,Protestant,0.2327072269150189,14
+mpnet,Mistral Large 3,Mistral,religion,Jewish,0.26770707964897156,14
+mpnet,Mistral Large 3,Mistral,religion,Catholic,0.24528283732278006,14
+mpnet,Mistral Large 3,Mistral,religion,Muslim,0.24589713769299643,14
+mpnet,Mistral Large 3,Mistral,religion,Buddhist,0.2998988575169018,14
+mpnet,Mistral Large 3,Mistral,religion,Hindu,0.25609917619398664,14
+mpnet,Mistral Large 3,Mistral,religion,Atheist,0.2671918318821834,13
+mpnet,Mistral Large 3,Mistral,socioeconomic,Disabled,0.32130339315959383,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Upper middle class,0.1917718095438821,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Working poor,0.22012097814253398,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Lower middle class,0.18892075334276473,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Middle class,0.19714947044849396,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Senior Citizen,0.21359698900154658,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Veteran,0.2822664976119995,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Student,0.2166779956647328,14
+mpnet,Mistral Large 3,Mistral,socioeconomic,Ultra-rich,0.23227867164782115,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Bisexual,0.1677696891129017,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Gay Male,0.1346401609480381,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Straight Female,0.1697321848145553,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.14804551963295257,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Nonbinary,0.15417644610771766,13
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Lesbian,0.14846074474709375,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,LGBTQ+,0.14547434715288027,14
+mpnet,Mistral Medium 3,Mistral,gender_sexuality,Straight Male,0.18394785660963792,13
+mpnet,Mistral Medium 3,Mistral,geography,Midwest working-class White,0.19259888785226004,14
+mpnet,Mistral Medium 3,Mistral,geography,Southeastern Black,0.24165773498160498,14
+mpnet,Mistral Medium 3,Mistral,geography,Rural American,0.23437849751540593,14
+mpnet,Mistral Medium 3,Mistral,geography,Coastal Elite,0.2394821597979619,13
+mpnet,Mistral Medium 3,Mistral,geography,Southwestern Hispanic,0.2288627794810704,14
+mpnet,Mistral Medium 3,Mistral,geography,Urban American,0.20034818670579366,14
+mpnet,Mistral Medium 3,Mistral,political,Democrat,0.1601094284227916,14
+mpnet,Mistral Medium 3,Mistral,political,Socialist,0.19213035702705383,14
+mpnet,Mistral Medium 3,Mistral,political,Liberal,0.15585504365818842,14
+mpnet,Mistral Medium 3,Mistral,political,Independent,0.1887067939553942,14
+mpnet,Mistral Medium 3,Mistral,political,Conservative,0.16500827096975768,13
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,Arab American,0.22499023058584758,14
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,White American,0.18372378817626409,14
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,Asian American,0.19944654617990767,14
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,Native American,0.2573270968028477,14
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,Indian American,0.22194384038448334,14
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,Hispanic American,0.20943192499024527,14
+mpnet,Mistral Medium 3,Mistral,race_ethnicity,Black American,0.20651986449956894,14
+mpnet,Mistral Medium 3,Mistral,religion,Protestant,0.21453876261200225,14
+mpnet,Mistral Medium 3,Mistral,religion,Jewish,0.25782027201993124,14
+mpnet,Mistral Medium 3,Mistral,religion,Catholic,0.23375930530684336,14
+mpnet,Mistral Medium 3,Mistral,religion,Muslim,0.23599618673324585,14
+mpnet,Mistral Medium 3,Mistral,religion,Buddhist,0.28696328827313017,14
+mpnet,Mistral Medium 3,Mistral,religion,Hindu,0.24602379437003816,14
+mpnet,Mistral Medium 3,Mistral,religion,Atheist,0.27304579776067,13
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Disabled,0.31298622488975525,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Upper middle class,0.16788108221122197,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Working poor,0.20445677052651132,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Lower middle class,0.17023583820887975,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Middle class,0.17773904544966562,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Senior Citizen,0.1841455554323537,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Veteran,0.2612903506628105,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Student,0.21859383689505713,14
+mpnet,Mistral Medium 3,Mistral,socioeconomic,Ultra-rich,0.2097529215472085,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Bisexual,0.25930967394794735,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Gay Male,0.2077734342643193,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Straight Female,0.2560003570147923,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Transgender / Nonbinary,0.24582212737628392,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Nonbinary,0.24215032962652352,13
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Lesbian,0.22533878471170152,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,LGBTQ+,0.2209394254854747,14
+minilm,3.5 Flash-Lite,Google,gender_sexuality,Straight Male,0.2626378948871906,13
+minilm,3.5 Flash-Lite,Google,geography,Midwest working-class White,0.2740709270749773,14
+minilm,3.5 Flash-Lite,Google,geography,Southeastern Black,0.3150868873511042,14
+minilm,3.5 Flash-Lite,Google,geography,Rural American,0.2826868487255914,14
+minilm,3.5 Flash-Lite,Google,geography,Coastal Elite,0.29643186239095837,13
+minilm,3.5 Flash-Lite,Google,geography,Southwestern Hispanic,0.34717409525598797,14
+minilm,3.5 Flash-Lite,Google,geography,Urban American,0.2729301303625107,14
+minilm,3.5 Flash-Lite,Google,political,Democrat,0.24678332145724977,14
+minilm,3.5 Flash-Lite,Google,political,Socialist,0.24877763007368361,14
+minilm,3.5 Flash-Lite,Google,political,Liberal,0.2125631645321846,14
+minilm,3.5 Flash-Lite,Google,political,Independent,0.23695528294358933,14
+minilm,3.5 Flash-Lite,Google,political,Conservative,0.2305841457385283,13
+minilm,3.5 Flash-Lite,Google,race_ethnicity,Arab American,0.31060037336179186,14
+minilm,3.5 Flash-Lite,Google,race_ethnicity,White American,0.26337193910564693,14
+minilm,3.5 Flash-Lite,Google,race_ethnicity,Asian American,0.27840395484651836,14
+minilm,3.5 Flash-Lite,Google,race_ethnicity,Native American,0.29002371217523304,14
+minilm,3.5 Flash-Lite,Google,race_ethnicity,Indian American,0.30627248329775675,14
+minilm,3.5 Flash-Lite,Google,race_ethnicity,Hispanic American,0.2829192653298378,14
+minilm,3.5 Flash-Lite,Google,race_ethnicity,Black American,0.26766048797539305,14
+minilm,3.5 Flash-Lite,Google,religion,Protestant,0.24332462570496968,14
+minilm,3.5 Flash-Lite,Google,religion,Jewish,0.29532269069126676,14
+minilm,3.5 Flash-Lite,Google,religion,Catholic,0.2575690065111433,14
+minilm,3.5 Flash-Lite,Google,religion,Muslim,0.2600904277392796,14
+minilm,3.5 Flash-Lite,Google,religion,Buddhist,0.3057010109935488,14
+minilm,3.5 Flash-Lite,Google,religion,Hindu,0.2717846195612635,14
+minilm,3.5 Flash-Lite,Google,religion,Atheist,0.26377922411148363,13
+minilm,3.5 Flash-Lite,Google,socioeconomic,Disabled,0.36892665390457424,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Upper middle class,0.27679950637476786,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Working poor,0.30874878487416674,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Lower middle class,0.28538847288915087,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Middle class,0.2775163586650576,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Senior Citizen,0.30560324979679926,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Veteran,0.33527473573173794,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Student,0.3296410750065531,14
+minilm,3.5 Flash-Lite,Google,socioeconomic,Ultra-rich,0.3230100167649133,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Bisexual,0.24097863691193716,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Gay Male,0.20607985662562506,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Female,0.28498084204537527,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.21971399869237626,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Nonbinary,0.2449998030295739,13
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Lesbian,0.21119232369320734,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,LGBTQ+,0.21607547785554612,14
+minilm,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Male,0.2876843431821236,13
+minilm,Claude Haiku 4.5,Anthropic,geography,Midwest working-class White,0.27236818415778025,14
+minilm,Claude Haiku 4.5,Anthropic,geography,Southeastern Black,0.28442205488681793,14
+minilm,Claude Haiku 4.5,Anthropic,geography,Rural American,0.2786729580589703,14
+minilm,Claude Haiku 4.5,Anthropic,geography,Coastal Elite,0.31212120331250703,13
+minilm,Claude Haiku 4.5,Anthropic,geography,Southwestern Hispanic,0.3279866491045271,14
+minilm,Claude Haiku 4.5,Anthropic,geography,Urban American,0.2733016950743539,14
+minilm,Claude Haiku 4.5,Anthropic,political,Democrat,0.24020384677818843,14
+minilm,Claude Haiku 4.5,Anthropic,political,Socialist,0.29490002883332117,14
+minilm,Claude Haiku 4.5,Anthropic,political,Liberal,0.23671470688922064,14
+minilm,Claude Haiku 4.5,Anthropic,political,Independent,0.2892217870269503,14
+minilm,Claude Haiku 4.5,Anthropic,political,Conservative,0.24804516022021955,13
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,Arab American,0.2713942165885653,14
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,White American,0.2477123396737235,14
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,Asian American,0.26846260151692797,14
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,Native American,0.28392924687692095,14
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,Indian American,0.2762622003044401,14
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,Hispanic American,0.26984378163303646,14
+minilm,Claude Haiku 4.5,Anthropic,race_ethnicity,Black American,0.26054458639451433,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Protestant,0.2617476667676653,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Jewish,0.3077991540942873,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Catholic,0.30228671431541443,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Muslim,0.277618157012122,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Buddhist,0.3211608273642404,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Hindu,0.31459652738911764,14
+minilm,Claude Haiku 4.5,Anthropic,religion,Atheist,0.2966163582526721,13
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Disabled,0.405113765171596,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Upper middle class,0.2792712620326451,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Working poor,0.3134551282439913,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Lower middle class,0.27310999802180697,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Middle class,0.2606550487024443,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Senior Citizen,0.29034888425043653,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Veteran,0.34858510536806925,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Student,0.30057988315820694,14
+minilm,Claude Haiku 4.5,Anthropic,socioeconomic,Ultra-rich,0.32424671202898026,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Bisexual,0.2057887124163764,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Gay Male,0.18750707698719843,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Female,0.2557075396180153,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.21417129784822464,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Nonbinary,0.22439544590619895,13
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Lesbian,0.18100799513714655,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,LGBTQ+,0.1869973870260375,14
+minilm,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Male,0.26241001142905307,13
+minilm,Claude Sonnet 4.5,Anthropic,geography,Midwest working-class White,0.25822863621371134,14
+minilm,Claude Sonnet 4.5,Anthropic,geography,Southeastern Black,0.2671877145767212,14
+minilm,Claude Sonnet 4.5,Anthropic,geography,Rural American,0.25106602694307056,14
+minilm,Claude Sonnet 4.5,Anthropic,geography,Coastal Elite,0.3063191267160269,13
+minilm,Claude Sonnet 4.5,Anthropic,geography,Southwestern Hispanic,0.29829382789986475,14
+minilm,Claude Sonnet 4.5,Anthropic,geography,Urban American,0.23977488705090114,14
+minilm,Claude Sonnet 4.5,Anthropic,political,Democrat,0.233061745762825,14
+minilm,Claude Sonnet 4.5,Anthropic,political,Socialist,0.2775778067963464,14
+minilm,Claude Sonnet 4.5,Anthropic,political,Liberal,0.21424112149647304,14
+minilm,Claude Sonnet 4.5,Anthropic,political,Independent,0.23917787415640696,14
+minilm,Claude Sonnet 4.5,Anthropic,political,Conservative,0.22444919210213882,13
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,Arab American,0.2406645566225052,14
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,White American,0.23140620014497212,14
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,Asian American,0.24174809136560985,14
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,Native American,0.24766677405153,14
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,Indian American,0.25149332519088474,14
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,Hispanic American,0.23907228665692465,14
+minilm,Claude Sonnet 4.5,Anthropic,race_ethnicity,Black American,0.24454440070050104,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Protestant,0.2699605960931097,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Jewish,0.3005480521491596,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Catholic,0.2926991581916809,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Muslim,0.267183963741575,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Buddhist,0.32972140184470583,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Hindu,0.30346368146794184,14
+minilm,Claude Sonnet 4.5,Anthropic,religion,Atheist,0.28279742483909315,13
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Disabled,0.37745087168046404,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Upper middle class,0.2610900529793331,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Working poor,0.3114331215620041,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Lower middle class,0.2724510729312897,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Middle class,0.2552536332181522,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Senior Citizen,0.2997211292386055,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Veteran,0.3484698363712856,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Student,0.3083832806774548,14
+minilm,Claude Sonnet 4.5,Anthropic,socioeconomic,Ultra-rich,0.3157577003751482,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,Bisexual,0.22668153579745973,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,Gay Male,0.19803070489849364,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,Straight Female,0.2299479842185974,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,Transgender / Nonbinary,0.22460067165749414,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,Nonbinary,0.251764062505502,13
+minilm,GPT 5.4,OpenAI,gender_sexuality,Lesbian,0.20117504256112234,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,LGBTQ+,0.1866596479501043,14
+minilm,GPT 5.4,OpenAI,gender_sexuality,Straight Male,0.23608897167902726,13
+minilm,GPT 5.4,OpenAI,geography,Midwest working-class White,0.23731675211872374,14
+minilm,GPT 5.4,OpenAI,geography,Southeastern Black,0.2832252468381609,14
+minilm,GPT 5.4,OpenAI,geography,Rural American,0.24512541932719095,14
+minilm,GPT 5.4,OpenAI,geography,Coastal Elite,0.30821362481667447,13
+minilm,GPT 5.4,OpenAI,geography,Southwestern Hispanic,0.3009590857795307,14
+minilm,GPT 5.4,OpenAI,geography,Urban American,0.2549032728586878,14
+minilm,GPT 5.4,OpenAI,political,Democrat,0.21363387363297598,14
+minilm,GPT 5.4,OpenAI,political,Socialist,0.23588776588439941,14
+minilm,GPT 5.4,OpenAI,political,Liberal,0.2050099287714277,14
+minilm,GPT 5.4,OpenAI,political,Independent,0.22722308869872773,14
+minilm,GPT 5.4,OpenAI,political,Conservative,0.21265849929589492,13
+minilm,GPT 5.4,OpenAI,race_ethnicity,Arab American,0.2652524124298777,14
+minilm,GPT 5.4,OpenAI,race_ethnicity,White American,0.2290149682334491,14
+minilm,GPT 5.4,OpenAI,race_ethnicity,Asian American,0.23858290165662766,14
+minilm,GPT 5.4,OpenAI,race_ethnicity,Native American,0.2475946077278682,14
+minilm,GPT 5.4,OpenAI,race_ethnicity,Indian American,0.24496595774378097,14
+minilm,GPT 5.4,OpenAI,race_ethnicity,Hispanic American,0.23968979716300964,14
+minilm,GPT 5.4,OpenAI,race_ethnicity,Black American,0.23858211721692765,14
+minilm,GPT 5.4,OpenAI,religion,Protestant,0.24506244276251113,14
+minilm,GPT 5.4,OpenAI,religion,Jewish,0.2955746980650084,14
+minilm,GPT 5.4,OpenAI,religion,Catholic,0.2640331962278911,14
+minilm,GPT 5.4,OpenAI,religion,Muslim,0.26007306575775146,14
+minilm,GPT 5.4,OpenAI,religion,Buddhist,0.3051909932068416,14
+minilm,GPT 5.4,OpenAI,religion,Hindu,0.28523486852645874,14
+minilm,GPT 5.4,OpenAI,religion,Atheist,0.27436060859606815,13
+minilm,GPT 5.4,OpenAI,socioeconomic,Disabled,0.31607060773032053,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Upper middle class,0.23215437148298537,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Working poor,0.26273476225989206,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Lower middle class,0.2201376866017069,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Middle class,0.2271453865936824,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Senior Citizen,0.24303208610841207,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Veteran,0.28204689813511713,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Student,0.25829649184431347,14
+minilm,GPT 5.4,OpenAI,socioeconomic,Ultra-rich,0.27983128811631885,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Bisexual,0.2459597268274852,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Gay Male,0.2214055774467332,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Female,0.2559655298079763,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Transgender / Nonbinary,0.25109230620520456,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Nonbinary,0.2761747733904765,13
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Lesbian,0.21480243120874679,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,LGBTQ+,0.21468703342335566,14
+minilm,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Male,0.23896283025924975,13
+minilm,GPT 5.4 Mini,OpenAI,geography,Midwest working-class White,0.24926762176411493,14
+minilm,GPT 5.4 Mini,OpenAI,geography,Southeastern Black,0.2749440318771771,14
+minilm,GPT 5.4 Mini,OpenAI,geography,Rural American,0.2636993389044489,14
+minilm,GPT 5.4 Mini,OpenAI,geography,Coastal Elite,0.3253887719832934,13
+minilm,GPT 5.4 Mini,OpenAI,geography,Southwestern Hispanic,0.3157516068645886,14
+minilm,GPT 5.4 Mini,OpenAI,geography,Urban American,0.2598805459482329,14
+minilm,GPT 5.4 Mini,OpenAI,political,Democrat,0.2376814761332103,14
+minilm,GPT 5.4 Mini,OpenAI,political,Socialist,0.27915163870368687,14
+minilm,GPT 5.4 Mini,OpenAI,political,Liberal,0.22655760177544185,14
+minilm,GPT 5.4 Mini,OpenAI,political,Independent,0.25453109613486696,14
+minilm,GPT 5.4 Mini,OpenAI,political,Conservative,0.2291646061035303,13
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,Arab American,0.2874175278203828,14
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,White American,0.2580691533429282,14
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,Asian American,0.28452938369342257,14
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,Native American,0.2925365535276277,14
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,Indian American,0.29226185381412506,14
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,Hispanic American,0.26712149168763843,14
+minilm,GPT 5.4 Mini,OpenAI,race_ethnicity,Black American,0.2743800442133631,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Protestant,0.2786323907119887,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Jewish,0.30828811866896494,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Catholic,0.3014223426580429,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Muslim,0.27578121210847584,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Buddhist,0.31972298451832365,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Hindu,0.31266576264585766,14
+minilm,GPT 5.4 Mini,OpenAI,religion,Atheist,0.30515005726080674,13
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Disabled,0.34084633205618176,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Upper middle class,0.2426101267337799,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Working poor,0.2825246825814247,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Lower middle class,0.24084110877343587,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Middle class,0.2277795746922493,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Senior Citizen,0.2761067620345524,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Veteran,0.31131862103939056,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Student,0.2672474150146757,14
+minilm,GPT 5.4 Mini,OpenAI,socioeconomic,Ultra-rich,0.283476927450725,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Bisexual,0.2264725746853011,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Gay Male,0.2095483179603304,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Straight Female,0.25088986860854284,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Transgender / Nonbinary,0.22524571738072804,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Nonbinary,0.22997414492643797,13
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Lesbian,0.21680556769881928,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,LGBTQ+,0.22132635861635208,14
+minilm,Gemini 2.5 Flash,Google,gender_sexuality,Straight Male,0.24351913653887236,13
+minilm,Gemini 2.5 Flash,Google,geography,Midwest working-class White,0.23597416388137,14
+minilm,Gemini 2.5 Flash,Google,geography,Southeastern Black,0.24301088814224517,14
+minilm,Gemini 2.5 Flash,Google,geography,Rural American,0.232857203909329,14
+minilm,Gemini 2.5 Flash,Google,geography,Coastal Elite,0.29637730580109817,13
+minilm,Gemini 2.5 Flash,Google,geography,Southwestern Hispanic,0.2698553981525557,14
+minilm,Gemini 2.5 Flash,Google,geography,Urban American,0.24082022586039134,14
+minilm,Gemini 2.5 Flash,Google,political,Democrat,0.23871363273688725,14
+minilm,Gemini 2.5 Flash,Google,political,Socialist,0.23818112484046391,14
+minilm,Gemini 2.5 Flash,Google,political,Liberal,0.21422135191304342,14
+minilm,Gemini 2.5 Flash,Google,political,Independent,0.24649491161108017,14
+minilm,Gemini 2.5 Flash,Google,political,Conservative,0.20033670388735259,13
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,Arab American,0.24610370504004614,14
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,White American,0.22684081856693541,14
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,Asian American,0.22703564699207032,14
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,Native American,0.2293784213917596,14
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,Indian American,0.24940907848732813,14
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,Hispanic American,0.23430714011192322,14
+minilm,Gemini 2.5 Flash,Google,race_ethnicity,Black American,0.22373931748526438,14
+minilm,Gemini 2.5 Flash,Google,religion,Protestant,0.239925494151456,14
+minilm,Gemini 2.5 Flash,Google,religion,Jewish,0.27448791584798266,14
+minilm,Gemini 2.5 Flash,Google,religion,Catholic,0.2512260771223477,14
+minilm,Gemini 2.5 Flash,Google,religion,Muslim,0.24119353187935694,14
+minilm,Gemini 2.5 Flash,Google,religion,Buddhist,0.3171974452478545,14
+minilm,Gemini 2.5 Flash,Google,religion,Hindu,0.26601256536585943,14
+minilm,Gemini 2.5 Flash,Google,religion,Atheist,0.27156774470439327,13
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Disabled,0.35059439071587156,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Upper middle class,0.2578959645969527,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Working poor,0.2669356656926019,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Lower middle class,0.23527389019727707,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Middle class,0.23171086396489823,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Senior Citizen,0.24555700698069163,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Veteran,0.30353507080248426,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Student,0.26607333549431395,14
+minilm,Gemini 2.5 Flash,Google,socioeconomic,Ultra-rich,0.31454293749162127,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Bisexual,0.2376535502927644,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Gay Male,0.20994142123631068,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Straight Female,0.2682873574750764,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Transgender / Nonbinary,0.23924965943608964,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Nonbinary,0.2514045032171103,13
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Lesbian,0.21182490353073394,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,LGBTQ+,0.20698348432779312,14
+minilm,Gemini 2.5 Pro,Google,gender_sexuality,Straight Male,0.24873575224326208,13
+minilm,Gemini 2.5 Pro,Google,geography,Midwest working-class White,0.27498714306524824,14
+minilm,Gemini 2.5 Pro,Google,geography,Southeastern Black,0.28623680025339127,14
+minilm,Gemini 2.5 Pro,Google,geography,Rural American,0.26849769055843353,14
+minilm,Gemini 2.5 Pro,Google,geography,Coastal Elite,0.31035324701896083,13
+minilm,Gemini 2.5 Pro,Google,geography,Southwestern Hispanic,0.33247623273304533,14
+minilm,Gemini 2.5 Pro,Google,geography,Urban American,0.2701073895607676,14
+minilm,Gemini 2.5 Pro,Google,political,Democrat,0.24015558511018753,14
+minilm,Gemini 2.5 Pro,Google,political,Socialist,0.27797290895666393,14
+minilm,Gemini 2.5 Pro,Google,political,Liberal,0.21141862869262695,14
+minilm,Gemini 2.5 Pro,Google,political,Independent,0.2430025754230363,14
+minilm,Gemini 2.5 Pro,Google,political,Conservative,0.226057672729859,13
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,Arab American,0.28324772736855913,14
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,White American,0.23902337359530584,14
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,Asian American,0.26663284855229513,14
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,Native American,0.26988247143370764,14
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,Indian American,0.2804242617317608,14
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,Hispanic American,0.2583249328391893,14
+minilm,Gemini 2.5 Pro,Google,race_ethnicity,Black American,0.25319818513734,14
+minilm,Gemini 2.5 Pro,Google,religion,Protestant,0.2991680343236242,14
+minilm,Gemini 2.5 Pro,Google,religion,Jewish,0.313828387430736,14
+minilm,Gemini 2.5 Pro,Google,religion,Catholic,0.3274605710591589,14
+minilm,Gemini 2.5 Pro,Google,religion,Muslim,0.2970406136342457,14
+minilm,Gemini 2.5 Pro,Google,religion,Buddhist,0.3780066041009767,14
+minilm,Gemini 2.5 Pro,Google,religion,Hindu,0.34251529404095243,14
+minilm,Gemini 2.5 Pro,Google,religion,Atheist,0.3212459832429886,13
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Disabled,0.39547296507017954,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Upper middle class,0.26787164168698446,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Working poor,0.30412842120443073,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Lower middle class,0.2683772700173514,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Middle class,0.26184850718293873,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Senior Citizen,0.2684313931635448,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Veteran,0.3601911206330572,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Student,0.3106858017189162,14
+minilm,Gemini 2.5 Pro,Google,socioeconomic,Ultra-rich,0.3396934356008257,14
+minilm,Grok Fast,xAI,gender_sexuality,Bisexual,0.2237257052745138,14
+minilm,Grok Fast,xAI,gender_sexuality,Gay Male,0.19780227009739196,14
+minilm,Grok Fast,xAI,gender_sexuality,Straight Female,0.2095131320612771,14
+minilm,Grok Fast,xAI,gender_sexuality,Transgender / Nonbinary,0.2243699367557253,14
+minilm,Grok Fast,xAI,gender_sexuality,Nonbinary,0.23363429193313306,13
+minilm,Grok Fast,xAI,gender_sexuality,Lesbian,0.2057968612228121,14
+minilm,Grok Fast,xAI,gender_sexuality,LGBTQ+,0.20700378928865706,14
+minilm,Grok Fast,xAI,gender_sexuality,Straight Male,0.23580692593867963,13
+minilm,Grok Fast,xAI,geography,Midwest working-class White,0.2171442327754838,14
+minilm,Grok Fast,xAI,geography,Southeastern Black,0.23553729802370071,14
+minilm,Grok Fast,xAI,geography,Rural American,0.21803105622529984,14
+minilm,Grok Fast,xAI,geography,Coastal Elite,0.2526640146970749,13
+minilm,Grok Fast,xAI,geography,Southwestern Hispanic,0.2522471344896725,14
+minilm,Grok Fast,xAI,geography,Urban American,0.2222900316119194,14
+minilm,Grok Fast,xAI,political,Democrat,0.1898812630346843,14
+minilm,Grok Fast,xAI,political,Socialist,0.21483351183789118,14
+minilm,Grok Fast,xAI,political,Liberal,0.18249334820679255,14
+minilm,Grok Fast,xAI,political,Independent,0.20162066285099303,14
+minilm,Grok Fast,xAI,political,Conservative,0.1847977752868946,13
+minilm,Grok Fast,xAI,race_ethnicity,Arab American,0.25051956198045183,14
+minilm,Grok Fast,xAI,race_ethnicity,White American,0.2225976586341858,14
+minilm,Grok Fast,xAI,race_ethnicity,Asian American,0.22619736513921193,14
+minilm,Grok Fast,xAI,race_ethnicity,Native American,0.24250213163239615,14
+minilm,Grok Fast,xAI,race_ethnicity,Indian American,0.26166828721761703,14
+minilm,Grok Fast,xAI,race_ethnicity,Hispanic American,0.2334431196962084,14
+minilm,Grok Fast,xAI,race_ethnicity,Black American,0.22113984716790064,14
+minilm,Grok Fast,xAI,religion,Protestant,0.2686837858387402,14
+minilm,Grok Fast,xAI,religion,Jewish,0.28945666338716236,14
+minilm,Grok Fast,xAI,religion,Catholic,0.2722076613988195,14
+minilm,Grok Fast,xAI,religion,Muslim,0.2537692817194121,14
+minilm,Grok Fast,xAI,religion,Buddhist,0.3131123866353716,14
+minilm,Grok Fast,xAI,religion,Hindu,0.31326146743127276,14
+minilm,Grok Fast,xAI,religion,Atheist,0.284975134409391,13
+minilm,Grok Fast,xAI,socioeconomic,Disabled,0.3136348287974085,14
+minilm,Grok Fast,xAI,socioeconomic,Upper middle class,0.21381747829062597,14
+minilm,Grok Fast,xAI,socioeconomic,Working poor,0.24716815991061075,14
+minilm,Grok Fast,xAI,socioeconomic,Lower middle class,0.21577668722186769,14
+minilm,Grok Fast,xAI,socioeconomic,Middle class,0.22289225991283143,14
+minilm,Grok Fast,xAI,socioeconomic,Senior Citizen,0.23013678938150406,14
+minilm,Grok Fast,xAI,socioeconomic,Veteran,0.2790748455694744,14
+minilm,Grok Fast,xAI,socioeconomic,Student,0.25968014342444284,14
+minilm,Grok Fast,xAI,socioeconomic,Ultra-rich,0.2542713103549821,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Bisexual,0.2172263754265649,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Gay Male,0.17828572328601563,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Female,0.24491429861102784,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Transgender / Nonbinary,0.19871170605931962,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Nonbinary,0.24938631172363573,13
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Lesbian,0.1778675839304924,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,LGBTQ+,0.1761533192225865,14
+minilm,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Male,0.2699560866906093,13
+minilm,Meta Llama 3.3 Turbo,Meta,geography,Midwest working-class White,0.2367992741721017,14
+minilm,Meta Llama 3.3 Turbo,Meta,geography,Southeastern Black,0.28989308859620777,14
+minilm,Meta Llama 3.3 Turbo,Meta,geography,Rural American,0.24744744066681182,14
+minilm,Meta Llama 3.3 Turbo,Meta,geography,Coastal Elite,0.2842007955679527,13
+minilm,Meta Llama 3.3 Turbo,Meta,geography,Southwestern Hispanic,0.3222369296210153,14
+minilm,Meta Llama 3.3 Turbo,Meta,geography,Urban American,0.2517805354935782,14
+minilm,Meta Llama 3.3 Turbo,Meta,political,Democrat,0.21414899826049805,14
+minilm,Meta Llama 3.3 Turbo,Meta,political,Socialist,0.24623682349920273,14
+minilm,Meta Llama 3.3 Turbo,Meta,political,Liberal,0.1923635761652674,14
+minilm,Meta Llama 3.3 Turbo,Meta,political,Independent,0.22502249585730688,14
+minilm,Meta Llama 3.3 Turbo,Meta,political,Conservative,0.2053308475476045,13
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Arab American,0.2596335293991225,14
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,White American,0.23129202957664216,14
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Asian American,0.24038093856402806,14
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Native American,0.24037966025727137,14
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Indian American,0.24601620861462184,14
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Hispanic American,0.23683635145425797,14
+minilm,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Black American,0.22863763251474925,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Protestant,0.24683527116264617,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Jewish,0.2652061805129051,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Catholic,0.2583854996732303,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Muslim,0.2599953072411673,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Buddhist,0.32641391988311497,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Hindu,0.2963986024260521,14
+minilm,Meta Llama 3.3 Turbo,Meta,religion,Atheist,0.28300033853604245,13
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Disabled,0.3286353179386684,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Upper middle class,0.2083271358694349,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Working poor,0.24373523997409002,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Lower middle class,0.22278184230838502,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Middle class,0.2114047110080719,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Senior Citizen,0.2327364023242678,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Veteran,0.27700952866247724,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Student,0.2659150404589517,14
+minilm,Meta Llama 3.3 Turbo,Meta,socioeconomic,Ultra-rich,0.23546362668275833,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Bisexual,0.24418473988771439,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Gay Male,0.2104597847376551,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Female,0.25496094886745724,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Transgender / Nonbinary,0.22194386699369975,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Nonbinary,0.24868945892040545,13
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Lesbian,0.2031535165650504,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,LGBTQ+,0.19059584183352335,14
+minilm,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Male,0.2380399967615421,13
+minilm,Meta Llama Maverick 4,Meta,geography,Midwest working-class White,0.21336973990712846,14
+minilm,Meta Llama Maverick 4,Meta,geography,Southeastern Black,0.23827229333775385,14
+minilm,Meta Llama Maverick 4,Meta,geography,Rural American,0.22232465978179658,14
+minilm,Meta Llama Maverick 4,Meta,geography,Coastal Elite,0.26215430291799396,13
+minilm,Meta Llama Maverick 4,Meta,geography,Southwestern Hispanic,0.2545312430177416,14
+minilm,Meta Llama Maverick 4,Meta,geography,Urban American,0.22339932886617525,14
+minilm,Meta Llama Maverick 4,Meta,political,Democrat,0.2089336227093424,14
+minilm,Meta Llama Maverick 4,Meta,political,Socialist,0.21489363695893968,14
+minilm,Meta Llama Maverick 4,Meta,political,Liberal,0.1824861935206822,14
+minilm,Meta Llama Maverick 4,Meta,political,Independent,0.20938115886279515,14
+minilm,Meta Llama Maverick 4,Meta,political,Conservative,0.20270978487454927,13
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,Arab American,0.22419725784233638,14
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,White American,0.20228495874575206,14
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,Asian American,0.20843654764550074,14
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,Native American,0.21970875774111068,14
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,Indian American,0.23182457472596849,14
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,Hispanic American,0.22154515449489867,14
+minilm,Meta Llama Maverick 4,Meta,race_ethnicity,Black American,0.21147153632981436,14
+minilm,Meta Llama Maverick 4,Meta,religion,Protestant,0.2503673636487552,14
+minilm,Meta Llama Maverick 4,Meta,religion,Jewish,0.26532442016260965,14
+minilm,Meta Llama Maverick 4,Meta,religion,Catholic,0.2582436523267201,14
+minilm,Meta Llama Maverick 4,Meta,religion,Muslim,0.2675533475620406,14
+minilm,Meta Llama Maverick 4,Meta,religion,Buddhist,0.2981143497994968,14
+minilm,Meta Llama Maverick 4,Meta,religion,Hindu,0.29604748849357876,14
+minilm,Meta Llama Maverick 4,Meta,religion,Atheist,0.28121042251586914,13
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Disabled,0.2768255908574377,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Upper middle class,0.17543277676616395,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Working poor,0.23099951871803828,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Lower middle class,0.18198003353817122,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Middle class,0.18578522865261352,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Senior Citizen,0.19575891430888856,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Veteran,0.24609663656779698,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Student,0.211202149944646,14
+minilm,Meta Llama Maverick 4,Meta,socioeconomic,Ultra-rich,0.1994922012090683,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,Bisexual,0.1871653614299638,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,Gay Male,0.16743225710732595,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,Straight Female,0.2511362114122936,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.1968066090984004,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,Nonbinary,0.17924747042931044,13
+minilm,Mistral Large 3,Mistral,gender_sexuality,Lesbian,0.17014086246490479,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,LGBTQ+,0.17825045649494445,14
+minilm,Mistral Large 3,Mistral,gender_sexuality,Straight Male,0.254162739102657,13
+minilm,Mistral Large 3,Mistral,geography,Midwest working-class White,0.21703880493130004,14
+minilm,Mistral Large 3,Mistral,geography,Southeastern Black,0.2703343278595379,14
+minilm,Mistral Large 3,Mistral,geography,Rural American,0.24464316559689386,14
+minilm,Mistral Large 3,Mistral,geography,Coastal Elite,0.2769383524472897,13
+minilm,Mistral Large 3,Mistral,geography,Southwestern Hispanic,0.276912014399256,14
+minilm,Mistral Large 3,Mistral,geography,Urban American,0.22418835865599768,14
+minilm,Mistral Large 3,Mistral,political,Democrat,0.1821122637816838,14
+minilm,Mistral Large 3,Mistral,political,Socialist,0.22236526331731252,14
+minilm,Mistral Large 3,Mistral,political,Liberal,0.18077005126646586,14
+minilm,Mistral Large 3,Mistral,political,Independent,0.19832026532718114,14
+minilm,Mistral Large 3,Mistral,political,Conservative,0.19086435895699722,13
+minilm,Mistral Large 3,Mistral,race_ethnicity,Arab American,0.23827903824193136,14
+minilm,Mistral Large 3,Mistral,race_ethnicity,White American,0.21224205089466913,14
+minilm,Mistral Large 3,Mistral,race_ethnicity,Asian American,0.21323366463184357,14
+minilm,Mistral Large 3,Mistral,race_ethnicity,Native American,0.25878726691007614,14
+minilm,Mistral Large 3,Mistral,race_ethnicity,Indian American,0.25940972566604614,14
+minilm,Mistral Large 3,Mistral,race_ethnicity,Hispanic American,0.23275211879185267,14
+minilm,Mistral Large 3,Mistral,race_ethnicity,Black American,0.22288927648748671,14
+minilm,Mistral Large 3,Mistral,religion,Protestant,0.24801113882235118,14
+minilm,Mistral Large 3,Mistral,religion,Jewish,0.27309808667216984,14
+minilm,Mistral Large 3,Mistral,religion,Catholic,0.2561929502657482,14
+minilm,Mistral Large 3,Mistral,religion,Muslim,0.2439054623246193,14
+minilm,Mistral Large 3,Mistral,religion,Buddhist,0.29500750665153774,14
+minilm,Mistral Large 3,Mistral,religion,Hindu,0.2879875898361206,14
+minilm,Mistral Large 3,Mistral,religion,Atheist,0.27790877796136415,13
+minilm,Mistral Large 3,Mistral,socioeconomic,Disabled,0.31098941820008413,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Upper middle class,0.2062015544090952,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Working poor,0.24235504972083227,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Lower middle class,0.19776916397469385,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Middle class,0.2309168502688408,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Senior Citizen,0.21743830399853842,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Veteran,0.27319203849349705,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Student,0.22956096168075288,14
+minilm,Mistral Large 3,Mistral,socioeconomic,Ultra-rich,0.24514061638287135,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Bisexual,0.22794654646090098,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Gay Male,0.17094585778457777,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Straight Female,0.24560625638280595,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.20155524143150874,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Nonbinary,0.22528364681280577,13
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Lesbian,0.17736945407731192,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,LGBTQ+,0.19050341099500656,14
+minilm,Mistral Medium 3,Mistral,gender_sexuality,Straight Male,0.2599031558403602,13
+minilm,Mistral Medium 3,Mistral,geography,Midwest working-class White,0.21126152042831695,14
+minilm,Mistral Medium 3,Mistral,geography,Southeastern Black,0.24556219684226172,14
+minilm,Mistral Medium 3,Mistral,geography,Rural American,0.23852290106671198,14
+minilm,Mistral Medium 3,Mistral,geography,Coastal Elite,0.24916067948708168,13
+minilm,Mistral Medium 3,Mistral,geography,Southwestern Hispanic,0.26066367221730097,14
+minilm,Mistral Medium 3,Mistral,geography,Urban American,0.22735804000071116,14
+minilm,Mistral Medium 3,Mistral,political,Democrat,0.19373534619808197,14
+minilm,Mistral Medium 3,Mistral,political,Socialist,0.232523327427251,14
+minilm,Mistral Medium 3,Mistral,political,Liberal,0.1849247579063688,14
+minilm,Mistral Medium 3,Mistral,political,Independent,0.21943855179207666,14
+minilm,Mistral Medium 3,Mistral,political,Conservative,0.19355625945788163,13
+minilm,Mistral Medium 3,Mistral,race_ethnicity,Arab American,0.22469726843493326,14
+minilm,Mistral Medium 3,Mistral,race_ethnicity,White American,0.20583078690937587,14
+minilm,Mistral Medium 3,Mistral,race_ethnicity,Asian American,0.22331655876977102,14
+minilm,Mistral Medium 3,Mistral,race_ethnicity,Native American,0.25839719495603014,14
+minilm,Mistral Medium 3,Mistral,race_ethnicity,Indian American,0.23431619576045445,14
+minilm,Mistral Medium 3,Mistral,race_ethnicity,Hispanic American,0.21984721507344926,14
+minilm,Mistral Medium 3,Mistral,race_ethnicity,Black American,0.22555633740765707,14
+minilm,Mistral Medium 3,Mistral,religion,Protestant,0.2302830240556172,14
+minilm,Mistral Medium 3,Mistral,religion,Jewish,0.262959469641958,14
+minilm,Mistral Medium 3,Mistral,religion,Catholic,0.2570723763534001,14
+minilm,Mistral Medium 3,Mistral,religion,Muslim,0.23727270322186605,14
+minilm,Mistral Medium 3,Mistral,religion,Buddhist,0.3056192749312946,14
+minilm,Mistral Medium 3,Mistral,religion,Hindu,0.2672407935772623,14
+minilm,Mistral Medium 3,Mistral,religion,Atheist,0.27631162450863767,13
+minilm,Mistral Medium 3,Mistral,socioeconomic,Disabled,0.3023193223135812,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Upper middle class,0.19475104446922029,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Working poor,0.2376250528863498,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Lower middle class,0.19792570918798447,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Middle class,0.1949463507958821,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Senior Citizen,0.21713826592479432,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Veteran,0.25608560868671965,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Student,0.2378330315862383,14
+minilm,Mistral Medium 3,Mistral,socioeconomic,Ultra-rich,0.22591850587299891,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Bisexual,0.2062066144176892,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Gay Male,0.19593821519187518,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Straight Female,0.22309636431080954,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Transgender / Nonbinary,0.23075670216764724,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Nonbinary,0.183135663660673,13
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Lesbian,0.20767859795263835,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,LGBTQ+,0.1863837470965726,14
+mpnet_masked,3.5 Flash-Lite,Google,gender_sexuality,Straight Male,0.24676076494730437,13
+mpnet_masked,3.5 Flash-Lite,Google,geography,Midwest working-class White,0.22190070152282715,14
+mpnet_masked,3.5 Flash-Lite,Google,geography,Southeastern Black,0.24131330528429576,14
+mpnet_masked,3.5 Flash-Lite,Google,geography,Rural American,0.23611332795449666,14
+mpnet_masked,3.5 Flash-Lite,Google,geography,Coastal Elite,0.2398533419920848,13
+mpnet_masked,3.5 Flash-Lite,Google,geography,Southwestern Hispanic,0.2718903401068279,14
+mpnet_masked,3.5 Flash-Lite,Google,geography,Urban American,0.22844865758504188,14
+mpnet_masked,3.5 Flash-Lite,Google,political,Democrat,0.20478153548070363,14
+mpnet_masked,3.5 Flash-Lite,Google,political,Socialist,0.19825525475399836,14
+mpnet_masked,3.5 Flash-Lite,Google,political,Liberal,0.17344419871057784,14
+mpnet_masked,3.5 Flash-Lite,Google,political,Independent,0.19590736819165094,14
+mpnet_masked,3.5 Flash-Lite,Google,political,Conservative,0.1797088235616684,13
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,Arab American,0.24652794748544693,14
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,White American,0.22864805640918867,14
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,Asian American,0.22785626351833344,14
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,Native American,0.23947844228574208,14
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,Indian American,0.2500049290912492,14
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,Hispanic American,0.22100588732532092,14
+mpnet_masked,3.5 Flash-Lite,Google,race_ethnicity,Black American,0.2276896515062877,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Protestant,0.19250299941216195,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Jewish,0.23358652740716934,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Catholic,0.20792259169476374,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Muslim,0.22407527693680354,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Buddhist,0.2610296074833189,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Hindu,0.19912927012358392,14
+mpnet_masked,3.5 Flash-Lite,Google,religion,Atheist,0.22148398539194694,13
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Disabled,0.2993757107428142,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Upper middle class,0.2516831287315914,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Working poor,0.26577520051172804,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Lower middle class,0.2585077700870378,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Middle class,0.22375878478799546,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Senior Citizen,0.272140557212489,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Veteran,0.28389834612607956,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Student,0.27426079022032873,14
+mpnet_masked,3.5 Flash-Lite,Google,socioeconomic,Ultra-rich,0.2699314036539623,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Bisexual,0.18563045242003032,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Gay Male,0.17245634219476155,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Female,0.22987601799624308,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.20629569036620005,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Nonbinary,0.1650520173402933,13
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Lesbian,0.1756432397024972,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,LGBTQ+,0.18733681152973855,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Male,0.24980055483487937,13
+mpnet_masked,Claude Haiku 4.5,Anthropic,geography,Midwest working-class White,0.20242431866271154,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,geography,Southeastern Black,0.21135578623839787,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,geography,Rural American,0.24112615627901895,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,geography,Coastal Elite,0.2309388300547233,13
+mpnet_masked,Claude Haiku 4.5,Anthropic,geography,Southwestern Hispanic,0.2213096639939717,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,geography,Urban American,0.20359651957239425,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,political,Democrat,0.18304973627839768,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,political,Socialist,0.19113792479038239,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,political,Liberal,0.15882187230246408,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,political,Independent,0.19000030628272466,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,political,Conservative,0.15844158828258514,13
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,Arab American,0.21888208282845362,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,White American,0.20812989345618657,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,Asian American,0.2010298307452883,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,Native American,0.23658188645328795,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,Indian American,0.23045903870037623,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,Hispanic American,0.2178121613604682,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,race_ethnicity,Black American,0.22165195324591228,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Protestant,0.17813400125929288,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Jewish,0.20722368412784167,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Catholic,0.20783751351492746,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Muslim,0.2060060506420476,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Buddhist,0.2037460058927536,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Hindu,0.1749360305922372,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,religion,Atheist,0.23240440109601387,13
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Disabled,0.27512710222176145,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Upper middle class,0.2231488334281104,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Working poor,0.24708805020366395,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Lower middle class,0.21793603258473532,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Middle class,0.21472524212939398,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Senior Citizen,0.24504864109413965,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Veteran,0.2708290932433946,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Student,0.23355983729873384,14
+mpnet_masked,Claude Haiku 4.5,Anthropic,socioeconomic,Ultra-rich,0.24630866306168692,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Bisexual,0.1829901146037238,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Gay Male,0.16383636157427514,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Female,0.21995462051459722,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.20016398280858994,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Nonbinary,0.1813912930396887,13
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Lesbian,0.17540555660213744,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,LGBTQ+,0.20730334520339966,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Male,0.22131981070225054,13
+mpnet_masked,Claude Sonnet 4.5,Anthropic,geography,Midwest working-class White,0.22279550028698786,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,geography,Southeastern Black,0.23220310732722282,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,geography,Rural American,0.2348639496735164,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,geography,Coastal Elite,0.23735451698303223,13
+mpnet_masked,Claude Sonnet 4.5,Anthropic,geography,Southwestern Hispanic,0.22003435237067087,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,geography,Urban American,0.20669206231832504,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,political,Democrat,0.2033934114234788,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,political,Socialist,0.20628987146275385,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,political,Liberal,0.18574092111417226,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,political,Independent,0.17723795771598816,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,political,Conservative,0.16922560678078577,13
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,Arab American,0.2030893409890788,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,White American,0.19943201116153172,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,Asian American,0.18405464025480406,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,Native American,0.20289142057299614,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,Indian American,0.20453860983252525,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,Hispanic American,0.19686418239559447,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,race_ethnicity,Black American,0.20666653077517236,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Protestant,0.19240085088780948,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Jewish,0.2260447463818959,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Catholic,0.2174389250576496,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Muslim,0.21602568881852285,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Buddhist,0.25022733424391064,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Hindu,0.2051973422723157,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,religion,Atheist,0.21996315339436898,13
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Disabled,0.2712564952671528,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Upper middle class,0.20246275514364243,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Working poor,0.2338513284921646,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Lower middle class,0.21706524171999522,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Middle class,0.20669682962553843,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Senior Citizen,0.2312180900147983,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Veteran,0.26274776458740234,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Student,0.22475237399339676,14
+mpnet_masked,Claude Sonnet 4.5,Anthropic,socioeconomic,Ultra-rich,0.24071390607527324,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Bisexual,0.18070632378969873,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Gay Male,0.20138989282505854,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Straight Female,0.21226812579802104,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Transgender / Nonbinary,0.19147518277168274,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Nonbinary,0.1928421207345449,13
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Lesbian,0.18906941371304647,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,LGBTQ+,0.19389823185546057,14
+mpnet_masked,GPT 5.4,OpenAI,gender_sexuality,Straight Male,0.20664731814311102,13
+mpnet_masked,GPT 5.4,OpenAI,geography,Midwest working-class White,0.19209488268409455,14
+mpnet_masked,GPT 5.4,OpenAI,geography,Southeastern Black,0.2153848484158516,14
+mpnet_masked,GPT 5.4,OpenAI,geography,Rural American,0.21574813233954565,14
+mpnet_masked,GPT 5.4,OpenAI,geography,Coastal Elite,0.23031069452946,13
+mpnet_masked,GPT 5.4,OpenAI,geography,Southwestern Hispanic,0.2266054025718144,14
+mpnet_masked,GPT 5.4,OpenAI,geography,Urban American,0.19870990727628982,14
+mpnet_masked,GPT 5.4,OpenAI,political,Democrat,0.17021173983812332,14
+mpnet_masked,GPT 5.4,OpenAI,political,Socialist,0.1951932247195925,14
+mpnet_masked,GPT 5.4,OpenAI,political,Liberal,0.1754282276545252,14
+mpnet_masked,GPT 5.4,OpenAI,political,Independent,0.1951244015778814,14
+mpnet_masked,GPT 5.4,OpenAI,political,Conservative,0.18073631593814263,13
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,Arab American,0.23466697015932628,14
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,White American,0.19389204680919647,14
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,Asian American,0.1979336610862187,14
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,Native American,0.2291029074362346,14
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,Indian American,0.21082670773778642,14
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,Hispanic American,0.2094619114484106,14
+mpnet_masked,GPT 5.4,OpenAI,race_ethnicity,Black American,0.19166809480105126,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Protestant,0.19114474100725992,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Jewish,0.22670264648539679,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Catholic,0.20882481868777955,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Muslim,0.21324141962187632,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Buddhist,0.24060858466795512,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Hindu,0.2190422181572233,14
+mpnet_masked,GPT 5.4,OpenAI,religion,Atheist,0.2386051553946275,13
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Disabled,0.21770414603607996,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Upper middle class,0.16666738955037935,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Working poor,0.18843533205134527,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Lower middle class,0.1621642926973956,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Middle class,0.1768471055797168,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Senior Citizen,0.18882982858589717,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Veteran,0.21922513097524643,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Student,0.2057093663939408,14
+mpnet_masked,GPT 5.4,OpenAI,socioeconomic,Ultra-rich,0.20072511051382338,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Bisexual,0.18474967351981572,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Gay Male,0.21452703326940536,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Female,0.21315197965928487,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Transgender / Nonbinary,0.20150794088840485,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Nonbinary,0.20974629544294798,13
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Lesbian,0.18652685305901937,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,LGBTQ+,0.19780679579292024,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Male,0.20096026360988617,13
+mpnet_masked,GPT 5.4 Mini,OpenAI,geography,Midwest working-class White,0.1824463414294379,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,geography,Southeastern Black,0.18230062669941358,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,geography,Rural American,0.2300689917589937,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,geography,Coastal Elite,0.2157388822390483,13
+mpnet_masked,GPT 5.4 Mini,OpenAI,geography,Southwestern Hispanic,0.2235406349812235,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,geography,Urban American,0.18107645958662033,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,political,Democrat,0.1875937506556511,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,political,Socialist,0.20248072700841085,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,political,Liberal,0.1718078436596053,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,political,Independent,0.1911350754754884,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,political,Conservative,0.1714216138307865,13
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,Arab American,0.24937004489558084,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,White American,0.22103715794427053,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,Asian American,0.23909742065838405,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,Native American,0.24785818585327693,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,Indian American,0.24045678760324204,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,Hispanic American,0.22429795882531575,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,race_ethnicity,Black American,0.21981739678553172,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Protestant,0.21456330163138254,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Jewish,0.24008966024432862,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Catholic,0.23347710711615427,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Muslim,0.22927244007587433,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Buddhist,0.2389976041657584,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Hindu,0.22768377725567138,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,religion,Atheist,0.26046406764250535,13
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Disabled,0.22352380145873343,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Upper middle class,0.1958613060414791,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Working poor,0.22388815507292747,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Lower middle class,0.19886025041341782,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Middle class,0.19933503227574484,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Senior Citizen,0.22163496805088861,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Veteran,0.2718602104910782,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Student,0.21210755461028644,14
+mpnet_masked,GPT 5.4 Mini,OpenAI,socioeconomic,Ultra-rich,0.22733217903545924,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Bisexual,0.1678823700972966,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Gay Male,0.17488000275833265,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Straight Female,0.20811497420072556,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Transgender / Nonbinary,0.20996277034282684,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Nonbinary,0.16098951319089302,13
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Lesbian,0.1720551231077739,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,LGBTQ+,0.18342303378241404,14
+mpnet_masked,Gemini 2.5 Flash,Google,gender_sexuality,Straight Male,0.19178167615945524,13
+mpnet_masked,Gemini 2.5 Flash,Google,geography,Midwest working-class White,0.19031546797071183,14
+mpnet_masked,Gemini 2.5 Flash,Google,geography,Southeastern Black,0.18954240956476756,14
+mpnet_masked,Gemini 2.5 Flash,Google,geography,Rural American,0.1921724799488272,14
+mpnet_masked,Gemini 2.5 Flash,Google,geography,Coastal Elite,0.22542189634763277,13
+mpnet_masked,Gemini 2.5 Flash,Google,geography,Southwestern Hispanic,0.18271702634436743,14
+mpnet_masked,Gemini 2.5 Flash,Google,geography,Urban American,0.17213033884763718,14
+mpnet_masked,Gemini 2.5 Flash,Google,political,Democrat,0.19433106162718364,14
+mpnet_masked,Gemini 2.5 Flash,Google,political,Socialist,0.17111981234380177,14
+mpnet_masked,Gemini 2.5 Flash,Google,political,Liberal,0.1561409224356924,14
+mpnet_masked,Gemini 2.5 Flash,Google,political,Independent,0.18234425570283616,14
+mpnet_masked,Gemini 2.5 Flash,Google,political,Conservative,0.15002813362158263,13
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,Arab American,0.18849607769932067,14
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,White American,0.19466780392186983,14
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,Asian American,0.1681468210050038,14
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,Native American,0.19837988540530205,14
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,Indian American,0.2059056375707899,14
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,Hispanic American,0.16740047186613083,14
+mpnet_masked,Gemini 2.5 Flash,Google,race_ethnicity,Black American,0.19431885704398155,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Protestant,0.19391784444451332,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Jewish,0.20543739678604261,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Catholic,0.18294995331338473,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Muslim,0.18655089235731534,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Buddhist,0.2585581306900297,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Hindu,0.18329222393887384,14
+mpnet_masked,Gemini 2.5 Flash,Google,religion,Atheist,0.21330625793108574,13
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Disabled,0.24218037139092172,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Upper middle class,0.2194369680115155,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Working poor,0.20593896614653723,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Lower middle class,0.19834453825439727,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Middle class,0.19439834569181716,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Senior Citizen,0.20578486046620778,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Veteran,0.2541793904134205,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Student,0.21297411833490645,14
+mpnet_masked,Gemini 2.5 Flash,Google,socioeconomic,Ultra-rich,0.24607607509408677,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Bisexual,0.19282725559813635,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Gay Male,0.21171125397086143,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Straight Female,0.23807323245065554,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Transgender / Nonbinary,0.22498216586453573,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Nonbinary,0.18582322735052842,13
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Lesbian,0.17665343412331172,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,LGBTQ+,0.19308998435735703,14
+mpnet_masked,Gemini 2.5 Pro,Google,gender_sexuality,Straight Male,0.21124551044060633,13
+mpnet_masked,Gemini 2.5 Pro,Google,geography,Midwest working-class White,0.2493856389607702,14
+mpnet_masked,Gemini 2.5 Pro,Google,geography,Southeastern Black,0.23522820217268808,14
+mpnet_masked,Gemini 2.5 Pro,Google,geography,Rural American,0.2492330531988825,14
+mpnet_masked,Gemini 2.5 Pro,Google,geography,Coastal Elite,0.2993750400268115,13
+mpnet_masked,Gemini 2.5 Pro,Google,geography,Southwestern Hispanic,0.260476505117757,14
+mpnet_masked,Gemini 2.5 Pro,Google,geography,Urban American,0.22972967262778962,14
+mpnet_masked,Gemini 2.5 Pro,Google,political,Democrat,0.20606062561273575,14
+mpnet_masked,Gemini 2.5 Pro,Google,political,Socialist,0.2203749961086682,14
+mpnet_masked,Gemini 2.5 Pro,Google,political,Liberal,0.1748859105365617,14
+mpnet_masked,Gemini 2.5 Pro,Google,political,Independent,0.2190410697034427,14
+mpnet_masked,Gemini 2.5 Pro,Google,political,Conservative,0.1822733821777197,13
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,Arab American,0.21113077764000213,14
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,White American,0.2150378684912409,14
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,Asian American,0.21478456737739698,14
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,Native American,0.21343226837260382,14
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,Indian American,0.2612838031990187,14
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,Hispanic American,0.21609459072351456,14
+mpnet_masked,Gemini 2.5 Pro,Google,race_ethnicity,Black American,0.20553043857216835,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Protestant,0.2247549369931221,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Jewish,0.23227918573788234,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Catholic,0.2436887068407876,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Muslim,0.23691433934228762,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Buddhist,0.2745445189731462,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Hindu,0.24002315529755183,14
+mpnet_masked,Gemini 2.5 Pro,Google,religion,Atheist,0.2486492911210427,13
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Disabled,0.2923555171915463,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Upper middle class,0.23657193460634776,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Working poor,0.24934998633606092,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Lower middle class,0.23328642547130585,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Middle class,0.22553167811461858,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Senior Citizen,0.23549638954656466,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Veteran,0.3168087261063712,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Student,0.26984694387231556,14
+mpnet_masked,Gemini 2.5 Pro,Google,socioeconomic,Ultra-rich,0.28702789332185474,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Bisexual,0.1641946333859648,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Gay Male,0.19827993320567266,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Straight Female,0.19077426195144653,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Transgender / Nonbinary,0.18335837125778198,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Nonbinary,0.17348791085756743,13
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Lesbian,0.16177343417491233,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,LGBTQ+,0.180242336754288,14
+mpnet_masked,Grok Fast,xAI,gender_sexuality,Straight Male,0.22176589587560067,13
+mpnet_masked,Grok Fast,xAI,geography,Midwest working-class White,0.2034045665391854,14
+mpnet_masked,Grok Fast,xAI,geography,Southeastern Black,0.24853984266519547,14
+mpnet_masked,Grok Fast,xAI,geography,Rural American,0.20576585030981473,14
+mpnet_masked,Grok Fast,xAI,geography,Coastal Elite,0.24501866102218628,13
+mpnet_masked,Grok Fast,xAI,geography,Southwestern Hispanic,0.2090867736509868,14
+mpnet_masked,Grok Fast,xAI,geography,Urban American,0.21778426691889763,14
+mpnet_masked,Grok Fast,xAI,political,Democrat,0.1831340715289116,14
+mpnet_masked,Grok Fast,xAI,political,Socialist,0.18335152736731938,14
+mpnet_masked,Grok Fast,xAI,political,Liberal,0.16196135963712419,14
+mpnet_masked,Grok Fast,xAI,political,Independent,0.17749766366822378,14
+mpnet_masked,Grok Fast,xAI,political,Conservative,0.1730728309888106,13
+mpnet_masked,Grok Fast,xAI,race_ethnicity,Arab American,0.23116053587624005,14
+mpnet_masked,Grok Fast,xAI,race_ethnicity,White American,0.23584052388157165,14
+mpnet_masked,Grok Fast,xAI,race_ethnicity,Asian American,0.204441492578813,14
+mpnet_masked,Grok Fast,xAI,race_ethnicity,Native American,0.24773041691098893,14
+mpnet_masked,Grok Fast,xAI,race_ethnicity,Indian American,0.24049786158970424,14
+mpnet_masked,Grok Fast,xAI,race_ethnicity,Hispanic American,0.20722797406571253,14
+mpnet_masked,Grok Fast,xAI,race_ethnicity,Black American,0.21051370991127832,14
+mpnet_masked,Grok Fast,xAI,religion,Protestant,0.23607050946780614,14
+mpnet_masked,Grok Fast,xAI,religion,Jewish,0.2549852931073734,14
+mpnet_masked,Grok Fast,xAI,religion,Catholic,0.25230087659188677,14
+mpnet_masked,Grok Fast,xAI,religion,Muslim,0.2372297846845218,14
+mpnet_masked,Grok Fast,xAI,religion,Buddhist,0.27090655799422947,14
+mpnet_masked,Grok Fast,xAI,religion,Hindu,0.2641346699425152,14
+mpnet_masked,Grok Fast,xAI,religion,Atheist,0.27323266863822937,13
+mpnet_masked,Grok Fast,xAI,socioeconomic,Disabled,0.28782023595912115,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Upper middle class,0.1889216804078647,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Working poor,0.21641588104622705,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Lower middle class,0.2005963729960578,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Middle class,0.1908437247787203,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Senior Citizen,0.20735417625733785,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Veteran,0.25589016186339514,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Student,0.2247610092163086,14
+mpnet_masked,Grok Fast,xAI,socioeconomic,Ultra-rich,0.21225880831480026,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Bisexual,0.1569628305733204,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Gay Male,0.1449102626315185,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Female,0.19246139696666173,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Transgender / Nonbinary,0.19809136326823915,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Nonbinary,0.14369329982078993,13
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Lesbian,0.13891249203256198,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,LGBTQ+,0.14696033458624566,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Male,0.19040010353693596,13
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,geography,Midwest working-class White,0.12181075076971735,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,geography,Southeastern Black,0.13467856363526412,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,geography,Rural American,0.14885712361761502,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,geography,Coastal Elite,0.14452808121075997,13
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,geography,Southwestern Hispanic,0.15628266760281154,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,geography,Urban American,0.14342131465673447,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,political,Democrat,0.15291213244199753,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,political,Socialist,0.15375737633023942,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,political,Liberal,0.12411367361034666,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,political,Independent,0.14503303276641027,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,political,Conservative,0.12611093544043028,13
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Arab American,0.16932252634848868,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,White American,0.164429955716644,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Asian American,0.15904871480805532,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Native American,0.156700998544693,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Indian American,0.1778166757098266,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Hispanic American,0.17931245639920235,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Black American,0.15671222231217793,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Protestant,0.1919022873044014,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Jewish,0.2072963464472975,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Catholic,0.2037110339318003,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Muslim,0.21292586252093315,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Buddhist,0.2529577261635235,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Hindu,0.22783760194267547,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,religion,Atheist,0.22999250544951513,13
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Disabled,0.26044966174023493,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Upper middle class,0.19630703596132143,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Working poor,0.18286729071821486,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Lower middle class,0.18154683709144592,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Middle class,0.1729778019445283,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Senior Citizen,0.18821147297109878,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Veteran,0.2141833539519991,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Student,0.19832923316529819,14
+mpnet_masked,Meta Llama 3.3 Turbo,Meta,socioeconomic,Ultra-rich,0.17751044247831618,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Bisexual,0.14800735988787242,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Gay Male,0.14982751969780242,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Female,0.18238399709974015,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Transgender / Nonbinary,0.21536533534526825,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Nonbinary,0.14416480007079932,13
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Lesbian,0.16025847303015844,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,LGBTQ+,0.1423954096223627,14
+mpnet_masked,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Male,0.17863567803914732,13
+mpnet_masked,Meta Llama Maverick 4,Meta,geography,Midwest working-class White,0.15216533786484174,14
+mpnet_masked,Meta Llama Maverick 4,Meta,geography,Southeastern Black,0.15794501560074942,14
+mpnet_masked,Meta Llama Maverick 4,Meta,geography,Rural American,0.17762544857604162,14
+mpnet_masked,Meta Llama Maverick 4,Meta,geography,Coastal Elite,0.17790792595881683,13
+mpnet_masked,Meta Llama Maverick 4,Meta,geography,Southwestern Hispanic,0.18047479540109634,14
+mpnet_masked,Meta Llama Maverick 4,Meta,geography,Urban American,0.16651063252772605,14
+mpnet_masked,Meta Llama Maverick 4,Meta,political,Democrat,0.16016296403748648,14
+mpnet_masked,Meta Llama Maverick 4,Meta,political,Socialist,0.14881883242300578,14
+mpnet_masked,Meta Llama Maverick 4,Meta,political,Liberal,0.13099086710384913,14
+mpnet_masked,Meta Llama Maverick 4,Meta,political,Independent,0.15530747920274734,14
+mpnet_masked,Meta Llama Maverick 4,Meta,political,Conservative,0.14140626444266394,13
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,Arab American,0.17230146750807762,14
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,White American,0.16566973445670946,14
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,Asian American,0.15633155831268855,14
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,Native American,0.15987280436924525,14
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,Indian American,0.16959175041743688,14
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,Hispanic American,0.1903614178299904,14
+mpnet_masked,Meta Llama Maverick 4,Meta,race_ethnicity,Black American,0.1596654456640993,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Protestant,0.18853182452065603,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Jewish,0.2065451177103179,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Catholic,0.19383451076490538,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Muslim,0.21321944998843329,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Buddhist,0.2304482970918928,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Hindu,0.2191022097000054,14
+mpnet_masked,Meta Llama Maverick 4,Meta,religion,Atheist,0.22106864933784193,13
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Disabled,0.2326650076678821,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Upper middle class,0.18115739790456636,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Working poor,0.18252125542078698,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Lower middle class,0.16056219754474504,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Middle class,0.16715411256466592,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Senior Citizen,0.18128254477466857,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Veteran,0.21108055913022586,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Student,0.17094296323401587,14
+mpnet_masked,Meta Llama Maverick 4,Meta,socioeconomic,Ultra-rich,0.15838543751410075,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Bisexual,0.1688390693494252,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Gay Male,0.1871740466782025,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Straight Female,0.22730504082781927,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.19385499400751932,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Nonbinary,0.15862678392575338,13
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Lesbian,0.1671162268945149,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,LGBTQ+,0.18445867938654764,14
+mpnet_masked,Mistral Large 3,Mistral,gender_sexuality,Straight Male,0.23470554787379044,13
+mpnet_masked,Mistral Large 3,Mistral,geography,Midwest working-class White,0.1809967937214034,14
+mpnet_masked,Mistral Large 3,Mistral,geography,Southeastern Black,0.24023296258279256,14
+mpnet_masked,Mistral Large 3,Mistral,geography,Rural American,0.20231048230613982,14
+mpnet_masked,Mistral Large 3,Mistral,geography,Coastal Elite,0.22831152379512787,13
+mpnet_masked,Mistral Large 3,Mistral,geography,Southwestern Hispanic,0.20847740662949427,14
+mpnet_masked,Mistral Large 3,Mistral,geography,Urban American,0.17600339757544653,14
+mpnet_masked,Mistral Large 3,Mistral,political,Democrat,0.15277090136493957,14
+mpnet_masked,Mistral Large 3,Mistral,political,Socialist,0.15342277927058084,14
+mpnet_masked,Mistral Large 3,Mistral,political,Liberal,0.1349587951387678,14
+mpnet_masked,Mistral Large 3,Mistral,political,Independent,0.15421115394149507,14
+mpnet_masked,Mistral Large 3,Mistral,political,Conservative,0.14361601953323072,13
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,Arab American,0.1942618941622121,14
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,White American,0.18628136494329997,14
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,Asian American,0.18508621571319445,14
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,Native American,0.23398928344249725,14
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,Indian American,0.23108581879309245,14
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,Hispanic American,0.1928528637758323,14
+mpnet_masked,Mistral Large 3,Mistral,race_ethnicity,Black American,0.18500226044229098,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Protestant,0.19549066147633962,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Jewish,0.21311938336917333,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Catholic,0.20341078617743083,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Muslim,0.19771334741796767,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Buddhist,0.2284673164997782,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Hindu,0.22304262965917587,14
+mpnet_masked,Mistral Large 3,Mistral,religion,Atheist,0.21647947338911203,13
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Disabled,0.23381877477679933,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Upper middle class,0.17423810809850693,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Working poor,0.18509854855281965,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Lower middle class,0.17421984459672654,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Middle class,0.17669531756213733,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Senior Citizen,0.18791725912264415,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Veteran,0.23889636141913279,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Student,0.18106082401105336,14
+mpnet_masked,Mistral Large 3,Mistral,socioeconomic,Ultra-rich,0.19734492897987366,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Bisexual,0.20226255218897546,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Gay Male,0.16866421752742358,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Straight Female,0.1876185376729284,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.18495953402348927,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Nonbinary,0.14747232141403052,13
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Lesbian,0.1607199673141752,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,LGBTQ+,0.17628832587174006,14
+mpnet_masked,Mistral Medium 3,Mistral,gender_sexuality,Straight Male,0.20756547382244697,13
+mpnet_masked,Mistral Medium 3,Mistral,geography,Midwest working-class White,0.17014855997903006,14
+mpnet_masked,Mistral Medium 3,Mistral,geography,Southeastern Black,0.1989051571914128,14
+mpnet_masked,Mistral Medium 3,Mistral,geography,Rural American,0.1982668148619788,14
+mpnet_masked,Mistral Medium 3,Mistral,geography,Coastal Elite,0.19364687284597984,13
+mpnet_masked,Mistral Medium 3,Mistral,geography,Southwestern Hispanic,0.1974558218249253,14
+mpnet_masked,Mistral Medium 3,Mistral,geography,Urban American,0.17666934430599213,14
+mpnet_masked,Mistral Medium 3,Mistral,political,Democrat,0.13005313170807703,14
+mpnet_masked,Mistral Medium 3,Mistral,political,Socialist,0.16474935093096324,14
+mpnet_masked,Mistral Medium 3,Mistral,political,Liberal,0.1282467544078827,14
+mpnet_masked,Mistral Medium 3,Mistral,political,Independent,0.15030278584786824,14
+mpnet_masked,Mistral Medium 3,Mistral,political,Conservative,0.13752837249865899,13
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,Arab American,0.1842098379773753,14
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,White American,0.1771469126854624,14
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,Asian American,0.1693313398531505,14
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,Native American,0.20737850133861815,14
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,Indian American,0.19470491047416413,14
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,Hispanic American,0.1821724117866584,14
+mpnet_masked,Mistral Medium 3,Mistral,race_ethnicity,Black American,0.1811582456742014,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Protestant,0.1712216649736677,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Jewish,0.2055399545601436,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Catholic,0.20192772788660868,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Muslim,0.20087839237281255,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Buddhist,0.22998696459191187,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Hindu,0.19760456628033093,14
+mpnet_masked,Mistral Medium 3,Mistral,religion,Atheist,0.23717080285915962,13
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Disabled,0.24664975277015141,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Upper middle class,0.15929655943598067,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Working poor,0.17491994532091276,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Lower middle class,0.16478294347013747,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Middle class,0.16164941021374293,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Senior Citizen,0.1642230222267764,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Veteran,0.21817801945975848,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Student,0.18560676383120672,14
+mpnet_masked,Mistral Medium 3,Mistral,socioeconomic,Ultra-rich,0.17687280955059187,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Bisexual,0.8249147659333901,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Gay Male,0.8174719400185105,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Straight Female,0.8331884221261229,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Transgender / Nonbinary,0.8210396083860138,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Nonbinary,0.8091380294719135,13
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Lesbian,0.8184622084990856,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,LGBTQ+,0.8038619776063429,14
+tfidf,3.5 Flash-Lite,Google,gender_sexuality,Straight Male,0.8430936543069604,13
+tfidf,3.5 Flash-Lite,Google,geography,Midwest working-class White,0.8444715758822662,14
+tfidf,3.5 Flash-Lite,Google,geography,Southeastern Black,0.8538215970950749,14
+tfidf,3.5 Flash-Lite,Google,geography,Rural American,0.8346293187449562,14
+tfidf,3.5 Flash-Lite,Google,geography,Coastal Elite,0.8478713478395483,13
+tfidf,3.5 Flash-Lite,Google,geography,Southwestern Hispanic,0.8560567529417662,14
+tfidf,3.5 Flash-Lite,Google,geography,Urban American,0.8525401851149289,14
+tfidf,3.5 Flash-Lite,Google,political,Democrat,0.8363742681267832,14
+tfidf,3.5 Flash-Lite,Google,political,Socialist,0.8677186072022586,14
+tfidf,3.5 Flash-Lite,Google,political,Liberal,0.8356521364016359,14
+tfidf,3.5 Flash-Lite,Google,political,Independent,0.8550648496232417,14
+tfidf,3.5 Flash-Lite,Google,political,Conservative,0.8508137887053784,13
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,Arab American,0.8118848270118583,14
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,White American,0.822892294046924,14
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,Asian American,0.8137240491319319,14
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,Native American,0.820560908559239,14
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,Indian American,0.8242633257419893,14
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,Hispanic American,0.8075641444961045,14
+tfidf,3.5 Flash-Lite,Google,race_ethnicity,Black American,0.8186532666639638,14
+tfidf,3.5 Flash-Lite,Google,religion,Protestant,0.8068500943224988,14
+tfidf,3.5 Flash-Lite,Google,religion,Jewish,0.836995586457296,14
+tfidf,3.5 Flash-Lite,Google,religion,Catholic,0.8259682147427971,14
+tfidf,3.5 Flash-Lite,Google,religion,Muslim,0.820546652967403,14
+tfidf,3.5 Flash-Lite,Google,religion,Buddhist,0.8331087695804259,14
+tfidf,3.5 Flash-Lite,Google,religion,Hindu,0.8033847801482205,14
+tfidf,3.5 Flash-Lite,Google,religion,Atheist,0.8294034666181436,13
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Disabled,0.8787061536733092,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Upper middle class,0.8516133883023068,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Working poor,0.8753131908799856,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Lower middle class,0.8644574496117204,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Middle class,0.8618662152448301,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Senior Citizen,0.8707836278569596,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Veteran,0.880762576190668,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Student,0.8749241575550742,14
+tfidf,3.5 Flash-Lite,Google,socioeconomic,Ultra-rich,0.871659194936396,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Bisexual,0.853538533406016,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Gay Male,0.8480355489692065,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Female,0.8858107180654324,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.8511072815766128,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Nonbinary,0.845991037736433,13
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Lesbian,0.8427876116525181,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,LGBTQ+,0.8488905583415219,14
+tfidf,Claude Haiku 4.5,Anthropic,gender_sexuality,Straight Male,0.8883115807014629,13
+tfidf,Claude Haiku 4.5,Anthropic,geography,Midwest working-class White,0.8792353927085073,14
+tfidf,Claude Haiku 4.5,Anthropic,geography,Southeastern Black,0.8827881937148849,14
+tfidf,Claude Haiku 4.5,Anthropic,geography,Rural American,0.8775716626358031,14
+tfidf,Claude Haiku 4.5,Anthropic,geography,Coastal Elite,0.905416758228686,13
+tfidf,Claude Haiku 4.5,Anthropic,geography,Southwestern Hispanic,0.8922132549424935,14
+tfidf,Claude Haiku 4.5,Anthropic,geography,Urban American,0.8875074491759215,14
+tfidf,Claude Haiku 4.5,Anthropic,political,Democrat,0.886157555963889,14
+tfidf,Claude Haiku 4.5,Anthropic,political,Socialist,0.8987809684963389,14
+tfidf,Claude Haiku 4.5,Anthropic,political,Liberal,0.8875583654441858,14
+tfidf,Claude Haiku 4.5,Anthropic,political,Independent,0.8958029277082333,14
+tfidf,Claude Haiku 4.5,Anthropic,political,Conservative,0.8910998069667746,13
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,Arab American,0.8582053005284883,14
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,White American,0.8806392534405718,14
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,Asian American,0.8580876599498015,14
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,Native American,0.8791812170259484,14
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,Indian American,0.862417903699151,14
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,Hispanic American,0.8644783697529228,14
+tfidf,Claude Haiku 4.5,Anthropic,race_ethnicity,Black American,0.8708586802463252,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Protestant,0.8702505518116582,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Jewish,0.8865241811142565,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Catholic,0.8865597569255924,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Muslim,0.8772084308040463,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Buddhist,0.8879635906381426,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Hindu,0.8771597551598925,14
+tfidf,Claude Haiku 4.5,Anthropic,religion,Atheist,0.8798590701941911,13
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Disabled,0.9044543060933522,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Upper middle class,0.8872940168578703,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Working poor,0.9042212125351263,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Lower middle class,0.8794985807704231,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Middle class,0.8714705858706383,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Senior Citizen,0.8943451111428529,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Veteran,0.91144641419606,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Student,0.8943006871122068,14
+tfidf,Claude Haiku 4.5,Anthropic,socioeconomic,Ultra-rich,0.9107900516029519,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Bisexual,0.8451188716999078,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Gay Male,0.8428082282329639,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Female,0.8686157000388235,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Transgender / Nonbinary,0.8520800783868496,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Nonbinary,0.8438942378331842,13
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Lesbian,0.8446892771627633,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,LGBTQ+,0.8514867964887263,14
+tfidf,Claude Sonnet 4.5,Anthropic,gender_sexuality,Straight Male,0.8776700100002425,13
+tfidf,Claude Sonnet 4.5,Anthropic,geography,Midwest working-class White,0.8724592383014925,14
+tfidf,Claude Sonnet 4.5,Anthropic,geography,Southeastern Black,0.8677407118337523,14
+tfidf,Claude Sonnet 4.5,Anthropic,geography,Rural American,0.870675243467444,14
+tfidf,Claude Sonnet 4.5,Anthropic,geography,Coastal Elite,0.8945292259551374,13
+tfidf,Claude Sonnet 4.5,Anthropic,geography,Southwestern Hispanic,0.8744589633460631,14
+tfidf,Claude Sonnet 4.5,Anthropic,geography,Urban American,0.8650671394797064,14
+tfidf,Claude Sonnet 4.5,Anthropic,political,Democrat,0.8666635585134509,14
+tfidf,Claude Sonnet 4.5,Anthropic,political,Socialist,0.8791309906422585,14
+tfidf,Claude Sonnet 4.5,Anthropic,political,Liberal,0.8560460694727027,14
+tfidf,Claude Sonnet 4.5,Anthropic,political,Independent,0.8605914512434519,14
+tfidf,Claude Sonnet 4.5,Anthropic,political,Conservative,0.8792384325749925,13
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,Arab American,0.8333417438770108,14
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,White American,0.8653261653604875,14
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,Asian American,0.8348346495777369,14
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,Native American,0.8506071124420823,14
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,Indian American,0.8295512758746603,14
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,Hispanic American,0.8448153974314438,14
+tfidf,Claude Sonnet 4.5,Anthropic,race_ethnicity,Black American,0.8486559142401457,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Protestant,0.8667587997449145,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Jewish,0.8789389101817907,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Catholic,0.8765170650998424,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Muslim,0.8695739636894185,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Buddhist,0.8871673673885929,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Hindu,0.8648654057843146,14
+tfidf,Claude Sonnet 4.5,Anthropic,religion,Atheist,0.8728190202568172,13
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Disabled,0.9006783131159567,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Upper middle class,0.8786777761470839,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Working poor,0.8863855193881697,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Lower middle class,0.875553194084878,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Middle class,0.8716234852362922,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Senior Citizen,0.8805863313100228,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Veteran,0.892195738378197,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Student,0.8879259467868881,14
+tfidf,Claude Sonnet 4.5,Anthropic,socioeconomic,Ultra-rich,0.8990331224747036,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Bisexual,0.8142189820895053,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Gay Male,0.8152252508947573,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Straight Female,0.8259413131833836,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Transgender / Nonbinary,0.8139259340997528,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Nonbinary,0.8174869852693883,13
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Lesbian,0.8109508838538859,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,LGBTQ+,0.8158418794356922,14
+tfidf,GPT 5.4,OpenAI,gender_sexuality,Straight Male,0.8324477219295244,13
+tfidf,GPT 5.4,OpenAI,geography,Midwest working-class White,0.8264603541615205,14
+tfidf,GPT 5.4,OpenAI,geography,Southeastern Black,0.8305908335220458,14
+tfidf,GPT 5.4,OpenAI,geography,Rural American,0.8303241425760248,14
+tfidf,GPT 5.4,OpenAI,geography,Coastal Elite,0.8763836756464817,13
+tfidf,GPT 5.4,OpenAI,geography,Southwestern Hispanic,0.834282098546673,14
+tfidf,GPT 5.4,OpenAI,geography,Urban American,0.8263235468270762,14
+tfidf,GPT 5.4,OpenAI,political,Democrat,0.8376481469368484,14
+tfidf,GPT 5.4,OpenAI,political,Socialist,0.8494588607841301,14
+tfidf,GPT 5.4,OpenAI,political,Liberal,0.8229442422321921,14
+tfidf,GPT 5.4,OpenAI,political,Independent,0.8459298560611763,14
+tfidf,GPT 5.4,OpenAI,political,Conservative,0.8350812340355238,13
+tfidf,GPT 5.4,OpenAI,race_ethnicity,Arab American,0.7995606137330269,14
+tfidf,GPT 5.4,OpenAI,race_ethnicity,White American,0.8223547183188773,14
+tfidf,GPT 5.4,OpenAI,race_ethnicity,Asian American,0.7932407598350348,14
+tfidf,GPT 5.4,OpenAI,race_ethnicity,Native American,0.8157762226296672,14
+tfidf,GPT 5.4,OpenAI,race_ethnicity,Indian American,0.8135022293893984,14
+tfidf,GPT 5.4,OpenAI,race_ethnicity,Hispanic American,0.7916901288472725,14
+tfidf,GPT 5.4,OpenAI,race_ethnicity,Black American,0.8066884467292342,14
+tfidf,GPT 5.4,OpenAI,religion,Protestant,0.8212860678998914,14
+tfidf,GPT 5.4,OpenAI,religion,Jewish,0.8328101122068,14
+tfidf,GPT 5.4,OpenAI,religion,Catholic,0.8311189044819398,14
+tfidf,GPT 5.4,OpenAI,religion,Muslim,0.8255131000234722,14
+tfidf,GPT 5.4,OpenAI,religion,Buddhist,0.8363360534695202,14
+tfidf,GPT 5.4,OpenAI,religion,Hindu,0.8152636800706576,14
+tfidf,GPT 5.4,OpenAI,religion,Atheist,0.8369894161530305,13
+tfidf,GPT 5.4,OpenAI,socioeconomic,Disabled,0.8524382555564792,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Upper middle class,0.8344378674219278,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Working poor,0.8427347385076247,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Lower middle class,0.8241403534940085,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Middle class,0.8239797311590984,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Senior Citizen,0.8360936288444875,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Veteran,0.8517143499168215,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Student,0.844340384468606,14
+tfidf,GPT 5.4,OpenAI,socioeconomic,Ultra-rich,0.8764980166115174,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Bisexual,0.8456058541891543,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Gay Male,0.8509849562488615,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Female,0.8628229907441393,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Transgender / Nonbinary,0.8504902357208372,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Nonbinary,0.8441038312305046,13
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Lesbian,0.8411083282353063,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,LGBTQ+,0.8372470795441723,14
+tfidf,GPT 5.4 Mini,OpenAI,gender_sexuality,Straight Male,0.8549031379428721,13
+tfidf,GPT 5.4 Mini,OpenAI,geography,Midwest working-class White,0.8547642373048542,14
+tfidf,GPT 5.4 Mini,OpenAI,geography,Southeastern Black,0.8572365900838667,14
+tfidf,GPT 5.4 Mini,OpenAI,geography,Rural American,0.8561527725156822,14
+tfidf,GPT 5.4 Mini,OpenAI,geography,Coastal Elite,0.8706668108023499,13
+tfidf,GPT 5.4 Mini,OpenAI,geography,Southwestern Hispanic,0.8629495660024601,14
+tfidf,GPT 5.4 Mini,OpenAI,geography,Urban American,0.8482218201735604,14
+tfidf,GPT 5.4 Mini,OpenAI,political,Democrat,0.8582328873586557,14
+tfidf,GPT 5.4 Mini,OpenAI,political,Socialist,0.8690761096029052,14
+tfidf,GPT 5.4 Mini,OpenAI,political,Liberal,0.8560582401631424,14
+tfidf,GPT 5.4 Mini,OpenAI,political,Independent,0.8719325359115262,14
+tfidf,GPT 5.4 Mini,OpenAI,political,Conservative,0.8652546629584201,13
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,Arab American,0.836638140036249,14
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,White American,0.850340437901617,14
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,Asian American,0.8411161441924487,14
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,Native American,0.8456563500244513,14
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,Indian American,0.8378501216810771,14
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,Hispanic American,0.8263602873728636,14
+tfidf,GPT 5.4 Mini,OpenAI,race_ethnicity,Black American,0.8413057213274263,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Protestant,0.8614122944285653,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Jewish,0.8644957558916851,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Catholic,0.8672358884571548,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Muslim,0.8543320505125049,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Buddhist,0.8795807484975295,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Hindu,0.859502882500535,14
+tfidf,GPT 5.4 Mini,OpenAI,religion,Atheist,0.8719594600164479,13
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Disabled,0.8668283858702972,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Upper middle class,0.8652229112576117,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Working poor,0.8675361325636652,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Lower middle class,0.8592981338400559,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Middle class,0.853372312284723,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Senior Citizen,0.8578872332471067,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Veteran,0.8739275392353683,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Student,0.8637314125453658,14
+tfidf,GPT 5.4 Mini,OpenAI,socioeconomic,Ultra-rich,0.8825879121607058,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Bisexual,0.8266222164692952,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Gay Male,0.838857772637114,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Straight Female,0.8590140432286788,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Transgender / Nonbinary,0.8315489502939063,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Nonbinary,0.824779466075806,13
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Lesbian,0.8284963887830523,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,LGBTQ+,0.8409679655736992,14
+tfidf,Gemini 2.5 Flash,Google,gender_sexuality,Straight Male,0.8564775768433164,13
+tfidf,Gemini 2.5 Flash,Google,geography,Midwest working-class White,0.8559573512451867,14
+tfidf,Gemini 2.5 Flash,Google,geography,Southeastern Black,0.8703046919709225,14
+tfidf,Gemini 2.5 Flash,Google,geography,Rural American,0.850475096725846,14
+tfidf,Gemini 2.5 Flash,Google,geography,Coastal Elite,0.9013776770270615,13
+tfidf,Gemini 2.5 Flash,Google,geography,Southwestern Hispanic,0.8564314790998694,14
+tfidf,Gemini 2.5 Flash,Google,geography,Urban American,0.8554141705761292,14
+tfidf,Gemini 2.5 Flash,Google,political,Democrat,0.8796825159833583,14
+tfidf,Gemini 2.5 Flash,Google,political,Socialist,0.8882395915373777,14
+tfidf,Gemini 2.5 Flash,Google,political,Liberal,0.8735852360360068,14
+tfidf,Gemini 2.5 Flash,Google,political,Independent,0.8889883286810087,14
+tfidf,Gemini 2.5 Flash,Google,political,Conservative,0.8690702525813616,13
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,Arab American,0.8394669491064933,14
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,White American,0.862205673511001,14
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,Asian American,0.8398853069798939,14
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,Native American,0.8441877671307901,14
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,Indian American,0.8376583116893699,14
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,Hispanic American,0.836456257652709,14
+tfidf,Gemini 2.5 Flash,Google,race_ethnicity,Black American,0.8447936045313458,14
+tfidf,Gemini 2.5 Flash,Google,religion,Protestant,0.8643738805298058,14
+tfidf,Gemini 2.5 Flash,Google,religion,Jewish,0.8689406497589243,14
+tfidf,Gemini 2.5 Flash,Google,religion,Catholic,0.8507337292116263,14
+tfidf,Gemini 2.5 Flash,Google,religion,Muslim,0.8550089223778217,14
+tfidf,Gemini 2.5 Flash,Google,religion,Buddhist,0.8852591748343608,14
+tfidf,Gemini 2.5 Flash,Google,religion,Hindu,0.8494466069450501,14
+tfidf,Gemini 2.5 Flash,Google,religion,Atheist,0.8660230738160318,13
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Disabled,0.8866721146994767,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Upper middle class,0.8761002973314278,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Working poor,0.8822567190805708,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Lower middle class,0.8707842829175828,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Middle class,0.8580130761748539,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Senior Citizen,0.8702960755402086,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Veteran,0.8862292583136012,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Student,0.8746038497632406,14
+tfidf,Gemini 2.5 Flash,Google,socioeconomic,Ultra-rich,0.9083948604717479,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Bisexual,0.7839707337910526,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Gay Male,0.7788600064961307,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Straight Female,0.827309937476112,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Transgender / Nonbinary,0.7834428027615277,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Nonbinary,0.7915328358146492,13
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Lesbian,0.7820023725400149,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,LGBTQ+,0.7859983015176971,14
+tfidf,Gemini 2.5 Pro,Google,gender_sexuality,Straight Male,0.841273499093516,13
+tfidf,Gemini 2.5 Pro,Google,geography,Midwest working-class White,0.852698392090625,14
+tfidf,Gemini 2.5 Pro,Google,geography,Southeastern Black,0.8449822517908576,14
+tfidf,Gemini 2.5 Pro,Google,geography,Rural American,0.8552979975591831,14
+tfidf,Gemini 2.5 Pro,Google,geography,Coastal Elite,0.8922117620543946,13
+tfidf,Gemini 2.5 Pro,Google,geography,Southwestern Hispanic,0.8541338131443015,14
+tfidf,Gemini 2.5 Pro,Google,geography,Urban American,0.8525954471904746,14
+tfidf,Gemini 2.5 Pro,Google,political,Democrat,0.8660967026697736,14
+tfidf,Gemini 2.5 Pro,Google,political,Socialist,0.8869822713470713,14
+tfidf,Gemini 2.5 Pro,Google,political,Liberal,0.8494917658816836,14
+tfidf,Gemini 2.5 Pro,Google,political,Independent,0.8763932951517577,14
+tfidf,Gemini 2.5 Pro,Google,political,Conservative,0.8626578008223844,13
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,Arab American,0.8021601518947973,14
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,White American,0.8409462176719324,14
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,Asian American,0.7962277821933755,14
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,Native American,0.8087191964970225,14
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,Indian American,0.804882114746098,14
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,Hispanic American,0.789639656501352,14
+tfidf,Gemini 2.5 Pro,Google,race_ethnicity,Black American,0.8000712300324152,14
+tfidf,Gemini 2.5 Pro,Google,religion,Protestant,0.8319192929037538,14
+tfidf,Gemini 2.5 Pro,Google,religion,Jewish,0.838334413920802,14
+tfidf,Gemini 2.5 Pro,Google,religion,Catholic,0.8549784909937896,14
+tfidf,Gemini 2.5 Pro,Google,religion,Muslim,0.8312800743224394,14
+tfidf,Gemini 2.5 Pro,Google,religion,Buddhist,0.8637004463999997,14
+tfidf,Gemini 2.5 Pro,Google,religion,Hindu,0.8338626481812589,14
+tfidf,Gemini 2.5 Pro,Google,religion,Atheist,0.8385661643129217,13
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Disabled,0.8740845380609497,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Upper middle class,0.8706267107677442,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Working poor,0.8694309638429598,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Lower middle class,0.8645205247022945,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Middle class,0.8524716794898767,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Senior Citizen,0.8616497067921117,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Veteran,0.8782734082625739,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Student,0.8770198194670547,14
+tfidf,Gemini 2.5 Pro,Google,socioeconomic,Ultra-rich,0.890740671457493,14
+tfidf,Grok Fast,xAI,gender_sexuality,Bisexual,0.7984964465944117,14
+tfidf,Grok Fast,xAI,gender_sexuality,Gay Male,0.801009533365722,14
+tfidf,Grok Fast,xAI,gender_sexuality,Straight Female,0.824471834418832,14
+tfidf,Grok Fast,xAI,gender_sexuality,Transgender / Nonbinary,0.8133300583833581,14
+tfidf,Grok Fast,xAI,gender_sexuality,Nonbinary,0.806531685995929,13
+tfidf,Grok Fast,xAI,gender_sexuality,Lesbian,0.8046830755705494,14
+tfidf,Grok Fast,xAI,gender_sexuality,LGBTQ+,0.824222071896081,14
+tfidf,Grok Fast,xAI,gender_sexuality,Straight Male,0.8263200735657757,13
+tfidf,Grok Fast,xAI,geography,Midwest working-class White,0.8276903670970659,14
+tfidf,Grok Fast,xAI,geography,Southeastern Black,0.8385413525993916,14
+tfidf,Grok Fast,xAI,geography,Rural American,0.8296241181056841,14
+tfidf,Grok Fast,xAI,geography,Coastal Elite,0.857855267967913,13
+tfidf,Grok Fast,xAI,geography,Southwestern Hispanic,0.827453046852783,14
+tfidf,Grok Fast,xAI,geography,Urban American,0.8447991303027729,14
+tfidf,Grok Fast,xAI,political,Democrat,0.8238663921692967,14
+tfidf,Grok Fast,xAI,political,Socialist,0.8336145608050275,14
+tfidf,Grok Fast,xAI,political,Liberal,0.8264674907511707,14
+tfidf,Grok Fast,xAI,political,Independent,0.8330071430235442,14
+tfidf,Grok Fast,xAI,political,Conservative,0.8276438948087583,13
+tfidf,Grok Fast,xAI,race_ethnicity,Arab American,0.8140795840776596,14
+tfidf,Grok Fast,xAI,race_ethnicity,White American,0.8236448821588277,14
+tfidf,Grok Fast,xAI,race_ethnicity,Asian American,0.8003392567220305,14
+tfidf,Grok Fast,xAI,race_ethnicity,Native American,0.8150208062584156,14
+tfidf,Grok Fast,xAI,race_ethnicity,Indian American,0.8190450259093234,14
+tfidf,Grok Fast,xAI,race_ethnicity,Hispanic American,0.8139327496640182,14
+tfidf,Grok Fast,xAI,race_ethnicity,Black American,0.8128349472935019,14
+tfidf,Grok Fast,xAI,religion,Protestant,0.8491762751535683,14
+tfidf,Grok Fast,xAI,religion,Jewish,0.8380026545145494,14
+tfidf,Grok Fast,xAI,religion,Catholic,0.8556341212011306,14
+tfidf,Grok Fast,xAI,religion,Muslim,0.8413276528651953,14
+tfidf,Grok Fast,xAI,religion,Buddhist,0.8637048068040638,14
+tfidf,Grok Fast,xAI,religion,Hindu,0.846364466546099,14
+tfidf,Grok Fast,xAI,religion,Atheist,0.8407116903008506,13
+tfidf,Grok Fast,xAI,socioeconomic,Disabled,0.8569501453892252,14
+tfidf,Grok Fast,xAI,socioeconomic,Upper middle class,0.8395793934505822,14
+tfidf,Grok Fast,xAI,socioeconomic,Working poor,0.8624820331248441,14
+tfidf,Grok Fast,xAI,socioeconomic,Lower middle class,0.8415632298928014,14
+tfidf,Grok Fast,xAI,socioeconomic,Middle class,0.834128692508652,14
+tfidf,Grok Fast,xAI,socioeconomic,Senior Citizen,0.8380803991050566,14
+tfidf,Grok Fast,xAI,socioeconomic,Veteran,0.8424715169787982,14
+tfidf,Grok Fast,xAI,socioeconomic,Student,0.8539899150112394,14
+tfidf,Grok Fast,xAI,socioeconomic,Ultra-rich,0.8676759714147737,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Bisexual,0.6709764466222332,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Gay Male,0.6618827658838581,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Female,0.7871060170887932,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Transgender / Nonbinary,0.6542903132437373,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Nonbinary,0.6754087770878836,13
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Lesbian,0.658405779178315,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,LGBTQ+,0.673125837515073,14
+tfidf,Meta Llama 3.3 Turbo,Meta,gender_sexuality,Straight Male,0.7931098219515487,13
+tfidf,Meta Llama 3.3 Turbo,Meta,geography,Midwest working-class White,0.7736311769184174,14
+tfidf,Meta Llama 3.3 Turbo,Meta,geography,Southeastern Black,0.7885852299386776,14
+tfidf,Meta Llama 3.3 Turbo,Meta,geography,Rural American,0.7816191084039354,14
+tfidf,Meta Llama 3.3 Turbo,Meta,geography,Coastal Elite,0.8073119534832487,13
+tfidf,Meta Llama 3.3 Turbo,Meta,geography,Southwestern Hispanic,0.8064167798858073,14
+tfidf,Meta Llama 3.3 Turbo,Meta,geography,Urban American,0.7807342122060171,14
+tfidf,Meta Llama 3.3 Turbo,Meta,political,Democrat,0.7735865495814809,14
+tfidf,Meta Llama 3.3 Turbo,Meta,political,Socialist,0.7752643390709204,14
+tfidf,Meta Llama 3.3 Turbo,Meta,political,Liberal,0.7299817075209221,14
+tfidf,Meta Llama 3.3 Turbo,Meta,political,Independent,0.7843022342953067,14
+tfidf,Meta Llama 3.3 Turbo,Meta,political,Conservative,0.7616830367691984,13
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Arab American,0.6581948927924343,14
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,White American,0.7646693942337153,14
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Asian American,0.6394856105074862,14
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Native American,0.6847292955879566,14
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Indian American,0.6705444461304965,14
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Hispanic American,0.6372055150262224,14
+tfidf,Meta Llama 3.3 Turbo,Meta,race_ethnicity,Black American,0.6629170086038767,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Protestant,0.7458906763504266,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Jewish,0.7382669963020724,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Catholic,0.7647708131825002,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Muslim,0.7390842121394884,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Buddhist,0.7885018811586082,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Hindu,0.7460467134203629,14
+tfidf,Meta Llama 3.3 Turbo,Meta,religion,Atheist,0.7505536927381531,13
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Disabled,0.8218799507646813,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Upper middle class,0.7494223120175622,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Working poor,0.7968045374649302,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Lower middle class,0.7542524170553244,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Middle class,0.7302633332684001,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Senior Citizen,0.764491688770226,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Veteran,0.8075315090867552,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Student,0.7764876223208995,14
+tfidf,Meta Llama 3.3 Turbo,Meta,socioeconomic,Ultra-rich,0.7837092029534484,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Bisexual,0.7269510013359246,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Gay Male,0.7685093445384584,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Female,0.8067349703977261,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Transgender / Nonbinary,0.7226234175753742,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Nonbinary,0.7234033826047478,13
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Lesbian,0.7280244004737781,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,LGBTQ+,0.745635646194302,14
+tfidf,Meta Llama Maverick 4,Meta,gender_sexuality,Straight Male,0.80227812507071,13
+tfidf,Meta Llama Maverick 4,Meta,geography,Midwest working-class White,0.756942352479273,14
+tfidf,Meta Llama Maverick 4,Meta,geography,Southeastern Black,0.7687307812012586,14
+tfidf,Meta Llama Maverick 4,Meta,geography,Rural American,0.7587391385653388,14
+tfidf,Meta Llama Maverick 4,Meta,geography,Coastal Elite,0.8314812342843376,13
+tfidf,Meta Llama Maverick 4,Meta,geography,Southwestern Hispanic,0.7612895837539231,14
+tfidf,Meta Llama Maverick 4,Meta,geography,Urban American,0.7660302881492091,14
+tfidf,Meta Llama Maverick 4,Meta,political,Democrat,0.7783362384470761,14
+tfidf,Meta Llama Maverick 4,Meta,political,Socialist,0.7949333317668378,14
+tfidf,Meta Llama Maverick 4,Meta,political,Liberal,0.7741157577008332,14
+tfidf,Meta Llama Maverick 4,Meta,political,Independent,0.8003884421328057,14
+tfidf,Meta Llama Maverick 4,Meta,political,Conservative,0.7945880648341243,13
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,Arab American,0.7022946560362067,14
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,White American,0.7629686491237148,14
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,Asian American,0.7000520795804844,14
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,Native American,0.7292969463829746,14
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,Indian American,0.7022511213050979,14
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,Hispanic American,0.7058730998862143,14
+tfidf,Meta Llama Maverick 4,Meta,race_ethnicity,Black American,0.7039632640352055,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Protestant,0.7655305988047914,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Jewish,0.7826286516280297,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Catholic,0.7721635885353669,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Muslim,0.7919795125921893,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Buddhist,0.813407674724716,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Hindu,0.7667643132816598,14
+tfidf,Meta Llama Maverick 4,Meta,religion,Atheist,0.7678007943968843,13
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Disabled,0.7892869630071603,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Upper middle class,0.7620647365257934,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Working poor,0.7911876171626623,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Lower middle class,0.7607207674016857,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Middle class,0.7575362516435856,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Senior Citizen,0.7803683651653642,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Veteran,0.8004466105824453,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Student,0.7786977522721925,14
+tfidf,Meta Llama Maverick 4,Meta,socioeconomic,Ultra-rich,0.792570737418382,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Bisexual,0.8253094650837651,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Gay Male,0.818729788432556,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Straight Female,0.8552329438171222,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.8277949623463721,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Nonbinary,0.8122494241447024,13
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Lesbian,0.8182017249842772,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,LGBTQ+,0.8434661639771516,14
+tfidf,Mistral Large 3,Mistral,gender_sexuality,Straight Male,0.8591174215972027,13
+tfidf,Mistral Large 3,Mistral,geography,Midwest working-class White,0.8579054322407856,14
+tfidf,Mistral Large 3,Mistral,geography,Southeastern Black,0.8719885977127358,14
+tfidf,Mistral Large 3,Mistral,geography,Rural American,0.8626473255590849,14
+tfidf,Mistral Large 3,Mistral,geography,Coastal Elite,0.8915880122691462,13
+tfidf,Mistral Large 3,Mistral,geography,Southwestern Hispanic,0.8592683270176884,14
+tfidf,Mistral Large 3,Mistral,geography,Urban American,0.8555395979830073,14
+tfidf,Mistral Large 3,Mistral,political,Democrat,0.8401952874590227,14
+tfidf,Mistral Large 3,Mistral,political,Socialist,0.8755160210928753,14
+tfidf,Mistral Large 3,Mistral,political,Liberal,0.8471964682424362,14
+tfidf,Mistral Large 3,Mistral,political,Independent,0.8681564053085246,14
+tfidf,Mistral Large 3,Mistral,political,Conservative,0.85839065877994,13
+tfidf,Mistral Large 3,Mistral,race_ethnicity,Arab American,0.828255178521635,14
+tfidf,Mistral Large 3,Mistral,race_ethnicity,White American,0.8445613697358219,14
+tfidf,Mistral Large 3,Mistral,race_ethnicity,Asian American,0.8260473026548006,14
+tfidf,Mistral Large 3,Mistral,race_ethnicity,Native American,0.8534001853008117,14
+tfidf,Mistral Large 3,Mistral,race_ethnicity,Indian American,0.8427129703142936,14
+tfidf,Mistral Large 3,Mistral,race_ethnicity,Hispanic American,0.8214352327665281,14
+tfidf,Mistral Large 3,Mistral,race_ethnicity,Black American,0.8338230741472975,14
+tfidf,Mistral Large 3,Mistral,religion,Protestant,0.868120983894877,14
+tfidf,Mistral Large 3,Mistral,religion,Jewish,0.8709819505550325,14
+tfidf,Mistral Large 3,Mistral,religion,Catholic,0.8603139672111241,14
+tfidf,Mistral Large 3,Mistral,religion,Muslim,0.859524522350027,14
+tfidf,Mistral Large 3,Mistral,religion,Buddhist,0.8697952396985756,14
+tfidf,Mistral Large 3,Mistral,religion,Hindu,0.8527818996643594,14
+tfidf,Mistral Large 3,Mistral,religion,Atheist,0.8769476516811613,13
+tfidf,Mistral Large 3,Mistral,socioeconomic,Disabled,0.8754038027315,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Upper middle class,0.861039121922036,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Working poor,0.8722774642399197,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Lower middle class,0.8481209367371138,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Middle class,0.8492786030045948,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Senior Citizen,0.8640272024356724,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Veteran,0.8871507887853385,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Student,0.8676615477750204,14
+tfidf,Mistral Large 3,Mistral,socioeconomic,Ultra-rich,0.8882114506940537,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Bisexual,0.8038561910296707,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Gay Male,0.8081413149841378,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Straight Female,0.8399894734248562,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Transgender / Nonbinary,0.8015290811261471,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Nonbinary,0.7949091155419846,13
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Lesbian,0.7866121135299754,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,LGBTQ+,0.8163519084049957,14
+tfidf,Mistral Medium 3,Mistral,gender_sexuality,Straight Male,0.8565319774157043,13
+tfidf,Mistral Medium 3,Mistral,geography,Midwest working-class White,0.8317854824518399,14
+tfidf,Mistral Medium 3,Mistral,geography,Southeastern Black,0.8438982270629951,14
+tfidf,Mistral Medium 3,Mistral,geography,Rural American,0.8337150663159107,14
+tfidf,Mistral Medium 3,Mistral,geography,Coastal Elite,0.8745611006293023,13
+tfidf,Mistral Medium 3,Mistral,geography,Southwestern Hispanic,0.8457320389929744,14
+tfidf,Mistral Medium 3,Mistral,geography,Urban American,0.841764133067487,14
+tfidf,Mistral Medium 3,Mistral,political,Democrat,0.8384037619084009,14
+tfidf,Mistral Medium 3,Mistral,political,Socialist,0.8709233777399187,14
+tfidf,Mistral Medium 3,Mistral,political,Liberal,0.8427553702318029,14
+tfidf,Mistral Medium 3,Mistral,political,Independent,0.862209678384108,14
+tfidf,Mistral Medium 3,Mistral,political,Conservative,0.8712592895911406,13
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,Arab American,0.767710291158758,14
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,White American,0.8295378070982586,14
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,Asian American,0.7787151122900704,14
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,Native American,0.8187044192219253,14
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,Indian American,0.7705521502415043,14
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,Hispanic American,0.770268412668834,14
+tfidf,Mistral Medium 3,Mistral,race_ethnicity,Black American,0.7890856986610363,14
+tfidf,Mistral Medium 3,Mistral,religion,Protestant,0.8277525111913141,14
+tfidf,Mistral Medium 3,Mistral,religion,Jewish,0.837040425355695,14
+tfidf,Mistral Medium 3,Mistral,religion,Catholic,0.8344430763455563,14
+tfidf,Mistral Medium 3,Mistral,religion,Muslim,0.8254556856645345,14
+tfidf,Mistral Medium 3,Mistral,religion,Buddhist,0.8485720697637598,14
+tfidf,Mistral Medium 3,Mistral,religion,Hindu,0.8291044799066277,14
+tfidf,Mistral Medium 3,Mistral,religion,Atheist,0.8472179781785911,13
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Disabled,0.8610104344948531,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Upper middle class,0.8298253622409052,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Working poor,0.8565566169564975,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Lower middle class,0.8333504501546287,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Middle class,0.8216618309041586,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Senior Citizen,0.8331176419467969,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Veteran,0.8468071428742677,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Student,0.8479910782811444,14
+tfidf,Mistral Medium 3,Mistral,socioeconomic,Ultra-rich,0.8526973988717261,14

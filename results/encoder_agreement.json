@@ -1,0 +1,38 @@
+[
+  {
+    "encoder_a": "mpnet",
+    "encoder_b": "minilm",
+    "pair_ranking_spearman": 0.7699196326061998,
+    "prompt_pair_spearman": 0.6486496416538531
+  },
+  {
+    "encoder_a": "mpnet",
+    "encoder_b": "mpnet_masked",
+    "pair_ranking_spearman": 0.9230977977246636,
+    "prompt_pair_spearman": 0.7781586844694595
+  },
+  {
+    "encoder_a": "mpnet",
+    "encoder_b": "tfidf",
+    "pair_ranking_spearman": 0.7075044358626449,
+    "prompt_pair_spearman": 0.43614512157882485
+  },
+  {
+    "encoder_a": "minilm",
+    "encoder_b": "mpnet_masked",
+    "pair_ranking_spearman": 0.7737188184949381,
+    "prompt_pair_spearman": 0.5423337251967962
+  },
+  {
+    "encoder_a": "minilm",
+    "encoder_b": "tfidf",
+    "pair_ranking_spearman": 0.6001669971819227,
+    "prompt_pair_spearman": 0.5486841087722066
+  },
+  {
+    "encoder_a": "mpnet_masked",
+    "encoder_b": "tfidf",
+    "pair_ranking_spearman": 0.6399540757749714,
+    "prompt_pair_spearman": 0.40655164140909456
+  }
+]

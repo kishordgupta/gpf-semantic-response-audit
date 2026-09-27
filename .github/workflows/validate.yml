@@ -1,0 +1,44 @@
+name: Validate dataset and published results
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install only pinned numerical validation dependencies
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          required = {'numpy', 'pandas', 'scipy', 'scikit-learn'}
+          lines = [line.strip() for line in Path('requirements.txt').read_text().splitlines()]
+          selected = [line for line in lines if line.split('==', 1)[0] in required]
+          assert len(selected) == len(required), 'Missing pinned validation dependency'
+          assert all('==' in line for line in selected), 'Unpinned validation dependency'
+          Path('validation-requirements.txt').write_text('\n'.join(selected) + '\n')
+          PY
+          python -m pip install -r validation-requirements.txt
+      - name: Restore exact CSV from compressed release data
+        run: |
+          python - <<'PY'
+          import gzip
+          from pathlib import Path
+          source = Path('data/responses.csv.gz')
+          destination = Path('data/responses.csv')
+          destination.write_bytes(gzip.decompress(source.read_bytes()))
+          PY
+      - name: Audit input coverage and recorded response issues
+        run: python audit_data.py
+      - name: Validate published matrices, tables, and exact case text
+        run: python validate_results.py --without-embeddings

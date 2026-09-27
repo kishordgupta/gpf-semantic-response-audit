@@ -1,0 +1,1849 @@
+encoder,model_a,model_b,prompt_family,mean_distance,n_prompts
+mpnet,GPT 5.4,GPT 5.4 Mini,bias_check,0.0828384980559349,83
+mpnet,GPT 5.4,GPT 5.4 Mini,community,0.10854044556617737,83
+mpnet,GPT 5.4,GPT 5.4 Mini,emotion,0.14862988889217377,83
+mpnet,GPT 5.4,GPT 5.4 Mini,impact,0.12013069540262222,84
+mpnet,GPT 5.4,GPT 5.4 Mini,policy_action,0.10862629860639572,84
+mpnet,GPT 5.4,GPT 5.4 Mini,significance,0.13196560740470886,83
+mpnet,GPT 5.4,GPT 5.4 Mini,worldview,0.14267964661121368,83
+mpnet,GPT 5.4,Claude Sonnet 4.5,bias_check,0.14814066886901855,83
+mpnet,GPT 5.4,Claude Sonnet 4.5,community,0.12868165969848633,83
+mpnet,GPT 5.4,Claude Sonnet 4.5,emotion,0.17216698825359344,83
+mpnet,GPT 5.4,Claude Sonnet 4.5,impact,0.12954576313495636,84
+mpnet,GPT 5.4,Claude Sonnet 4.5,policy_action,0.14113028347492218,84
+mpnet,GPT 5.4,Claude Sonnet 4.5,significance,0.1571684181690216,83
+mpnet,GPT 5.4,Claude Sonnet 4.5,worldview,0.16402633488178253,83
+mpnet,GPT 5.4,Claude Haiku 4.5,bias_check,0.1715482473373413,83
+mpnet,GPT 5.4,Claude Haiku 4.5,community,0.14096830785274506,83
+mpnet,GPT 5.4,Claude Haiku 4.5,emotion,0.18429753184318542,83
+mpnet,GPT 5.4,Claude Haiku 4.5,impact,0.15394708514213562,84
+mpnet,GPT 5.4,Claude Haiku 4.5,policy_action,0.15798212587833405,84
+mpnet,GPT 5.4,Claude Haiku 4.5,significance,0.1632586270570755,83
+mpnet,GPT 5.4,Claude Haiku 4.5,worldview,0.1546623408794403,83
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,bias_check,0.20188666880130768,83
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,community,0.1794198453426361,83
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,emotion,0.20651330053806305,83
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,impact,0.17595982551574707,84
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,policy_action,0.1828266680240631,84
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,significance,0.16846488416194916,83
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,worldview,0.17009839415550232,83
+mpnet,GPT 5.4,Meta Llama Maverick 4,bias_check,0.17214326560497284,83
+mpnet,GPT 5.4,Meta Llama Maverick 4,community,0.16665290296077728,83
+mpnet,GPT 5.4,Meta Llama Maverick 4,emotion,0.18315936625003815,83
+mpnet,GPT 5.4,Meta Llama Maverick 4,impact,0.17225714027881622,84
+mpnet,GPT 5.4,Meta Llama Maverick 4,policy_action,0.1652584969997406,84
+mpnet,GPT 5.4,Meta Llama Maverick 4,significance,0.17683623731136322,83
+mpnet,GPT 5.4,Meta Llama Maverick 4,worldview,0.1517925262451172,83
+mpnet,GPT 5.4,Gemini 2.5 Flash,bias_check,0.15337854623794556,83
+mpnet,GPT 5.4,Gemini 2.5 Flash,community,0.13748539984226227,83
+mpnet,GPT 5.4,Gemini 2.5 Flash,emotion,0.18442654609680176,83
+mpnet,GPT 5.4,Gemini 2.5 Flash,impact,0.14083930850028992,84
+mpnet,GPT 5.4,Gemini 2.5 Flash,policy_action,0.1607578545808792,84
+mpnet,GPT 5.4,Gemini 2.5 Flash,significance,0.15456412732601166,83
+mpnet,GPT 5.4,Gemini 2.5 Flash,worldview,0.17643800377845764,83
+mpnet,GPT 5.4,Gemini 2.5 Pro,bias_check,0.14357495307922363,83
+mpnet,GPT 5.4,Gemini 2.5 Pro,community,0.12684930860996246,83
+mpnet,GPT 5.4,Gemini 2.5 Pro,emotion,0.1884506344795227,83
+mpnet,GPT 5.4,Gemini 2.5 Pro,impact,0.15939314663410187,84
+mpnet,GPT 5.4,Gemini 2.5 Pro,policy_action,0.15985815227031708,84
+mpnet,GPT 5.4,Gemini 2.5 Pro,significance,0.16939134895801544,83
+mpnet,GPT 5.4,Gemini 2.5 Pro,worldview,0.17018002271652222,83
+mpnet,GPT 5.4,Mistral Large 3,bias_check,0.1674439013004303,83
+mpnet,GPT 5.4,Mistral Large 3,community,0.14890755712985992,83
+mpnet,GPT 5.4,Mistral Large 3,emotion,0.1839962750673294,83
+mpnet,GPT 5.4,Mistral Large 3,impact,0.14902997016906738,84
+mpnet,GPT 5.4,Mistral Large 3,policy_action,0.13917650282382965,84
+mpnet,GPT 5.4,Mistral Large 3,significance,0.16016530990600586,83
+mpnet,GPT 5.4,Mistral Large 3,worldview,0.16150438785552979,83
+mpnet,GPT 5.4,Mistral Medium 3,bias_check,0.12680265307426453,83
+mpnet,GPT 5.4,Mistral Medium 3,community,0.15487433969974518,83
+mpnet,GPT 5.4,Mistral Medium 3,emotion,0.16705426573753357,83
+mpnet,GPT 5.4,Mistral Medium 3,impact,0.14817507565021515,84
+mpnet,GPT 5.4,Mistral Medium 3,policy_action,0.153791144490242,84
+mpnet,GPT 5.4,Mistral Medium 3,significance,0.1620250940322876,83
+mpnet,GPT 5.4,Mistral Medium 3,worldview,0.15766490995883942,83
+mpnet,GPT 5.4,Grok Fast,bias_check,0.09594966471195221,83
+mpnet,GPT 5.4,Grok Fast,community,0.1497611701488495,83
+mpnet,GPT 5.4,Grok Fast,emotion,0.18962472677230835,83
+mpnet,GPT 5.4,Grok Fast,impact,0.15324461460113525,84
+mpnet,GPT 5.4,Grok Fast,policy_action,0.15356023609638214,84
+mpnet,GPT 5.4,Grok Fast,significance,0.16603444516658783,83
+mpnet,GPT 5.4,Grok Fast,worldview,0.17087304592132568,83
+mpnet,GPT 5.4,3.5 Flash-Lite,bias_check,0.10703402757644653,83
+mpnet,GPT 5.4,3.5 Flash-Lite,community,0.15175259113311768,83
+mpnet,GPT 5.4,3.5 Flash-Lite,emotion,0.18255552649497986,83
+mpnet,GPT 5.4,3.5 Flash-Lite,impact,0.164844810962677,84
+mpnet,GPT 5.4,3.5 Flash-Lite,policy_action,0.17687571048736572,84
+mpnet,GPT 5.4,3.5 Flash-Lite,significance,0.19805535674095154,83
+mpnet,GPT 5.4,3.5 Flash-Lite,worldview,0.1567286252975464,83
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,bias_check,0.1516638547182083,83
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,community,0.13155986368656158,83
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,emotion,0.18172083795070648,83
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,impact,0.13032472133636475,84
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,policy_action,0.12816789746284485,84
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,significance,0.16540269553661346,83
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,worldview,0.16973881423473358,83
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,bias_check,0.16810739040374756,83
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,community,0.13570170104503632,83
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,emotion,0.18650448322296143,83
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,impact,0.1374553143978119,84
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,policy_action,0.14331378042697906,84
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,significance,0.1555078774690628,83
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,worldview,0.15704023838043213,83
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bias_check,0.19416169822216034,83
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,community,0.1565740406513214,83
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,emotion,0.18793971836566925,83
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,impact,0.14566075801849365,84
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,policy_action,0.1634872555732727,84
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,significance,0.14587663114070892,83
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,worldview,0.16431154310703278,83
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,bias_check,0.16857531666755676,83
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,community,0.14449819922447205,83
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,emotion,0.17170029878616333,83
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,impact,0.14323508739471436,84
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,policy_action,0.1484260857105255,84
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,significance,0.1608353704214096,83
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,worldview,0.1545165777206421,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,bias_check,0.1555604189634323,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,community,0.12353301048278809,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,emotion,0.20104548335075378,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,impact,0.1221616268157959,84
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,policy_action,0.15322783589363098,84
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,significance,0.15093712508678436,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,worldview,0.17461493611335754,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,bias_check,0.15332767367362976,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,community,0.12716686725616455,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,emotion,0.18595217168331146,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,impact,0.14257916808128357,84
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,policy_action,0.14205993711948395,84
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,significance,0.17703156173229218,83
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,worldview,0.18754731118679047,83
+mpnet,GPT 5.4 Mini,Mistral Large 3,bias_check,0.16462813317775726,83
+mpnet,GPT 5.4 Mini,Mistral Large 3,community,0.14043521881103516,83
+mpnet,GPT 5.4 Mini,Mistral Large 3,emotion,0.19240668416023254,83
+mpnet,GPT 5.4 Mini,Mistral Large 3,impact,0.13271567225456238,84
+mpnet,GPT 5.4 Mini,Mistral Large 3,policy_action,0.1349363625049591,84
+mpnet,GPT 5.4 Mini,Mistral Large 3,significance,0.1426740437746048,83
+mpnet,GPT 5.4 Mini,Mistral Large 3,worldview,0.15725910663604736,83
+mpnet,GPT 5.4 Mini,Mistral Medium 3,bias_check,0.12145987153053284,83
+mpnet,GPT 5.4 Mini,Mistral Medium 3,community,0.14829511940479279,83
+mpnet,GPT 5.4 Mini,Mistral Medium 3,emotion,0.15943820774555206,83
+mpnet,GPT 5.4 Mini,Mistral Medium 3,impact,0.12686556577682495,84
+mpnet,GPT 5.4 Mini,Mistral Medium 3,policy_action,0.1447124183177948,84
+mpnet,GPT 5.4 Mini,Mistral Medium 3,significance,0.14384351670742035,83
+mpnet,GPT 5.4 Mini,Mistral Medium 3,worldview,0.15119248628616333,83
+mpnet,GPT 5.4 Mini,Grok Fast,bias_check,0.11089006811380386,83
+mpnet,GPT 5.4 Mini,Grok Fast,community,0.13639476895332336,83
+mpnet,GPT 5.4 Mini,Grok Fast,emotion,0.19052711129188538,83
+mpnet,GPT 5.4 Mini,Grok Fast,impact,0.14478757977485657,84
+mpnet,GPT 5.4 Mini,Grok Fast,policy_action,0.14953579008579254,84
+mpnet,GPT 5.4 Mini,Grok Fast,significance,0.17417889833450317,83
+mpnet,GPT 5.4 Mini,Grok Fast,worldview,0.19283704459667206,83
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,bias_check,0.11809535324573517,83
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,community,0.15060795843601227,83
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,emotion,0.18498116731643677,83
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,impact,0.14368955790996552,84
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,policy_action,0.16463688015937805,84
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,significance,0.19217486679553986,83
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,worldview,0.16537800431251526,83
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,bias_check,0.0950860008597374,83
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,community,0.09428206831216812,83
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,emotion,0.1251368522644043,83
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,impact,0.11932054907083511,84
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,policy_action,0.12438136339187622,84
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,significance,0.12125023454427719,83
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,worldview,0.1221814751625061,83
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bias_check,0.10365422815084457,83
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,community,0.13742949068546295,83
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,emotion,0.16825909912586212,83
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,impact,0.15553729236125946,84
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,policy_action,0.15194927155971527,84
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,significance,0.14979863166809082,83
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,worldview,0.16256843507289886,83
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,bias_check,0.09635952860116959,83
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,community,0.1367628127336502,83
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,emotion,0.15277160704135895,83
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,impact,0.15167467296123505,84
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,policy_action,0.13533154129981995,84
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,significance,0.15627245604991913,83
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,worldview,0.14955690503120422,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,bias_check,0.10161084681749344,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,community,0.10549252480268478,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,emotion,0.14881111681461334,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,impact,0.12512926757335663,84
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,policy_action,0.14039841294288635,84
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,significance,0.13094113767147064,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,worldview,0.13876360654830933,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,bias_check,0.120873361825943,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,community,0.12808389961719513,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,emotion,0.1627642810344696,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,impact,0.14305046200752258,84
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,policy_action,0.12669122219085693,84
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,significance,0.17042799293994904,83
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,worldview,0.1621079295873642,83
+mpnet,Claude Sonnet 4.5,Mistral Large 3,bias_check,0.09013787657022476,83
+mpnet,Claude Sonnet 4.5,Mistral Large 3,community,0.11994098871946335,83
+mpnet,Claude Sonnet 4.5,Mistral Large 3,emotion,0.14687480032444,83
+mpnet,Claude Sonnet 4.5,Mistral Large 3,impact,0.1370674967765808,84
+mpnet,Claude Sonnet 4.5,Mistral Large 3,policy_action,0.13371498882770538,84
+mpnet,Claude Sonnet 4.5,Mistral Large 3,significance,0.13787876069545746,83
+mpnet,Claude Sonnet 4.5,Mistral Large 3,worldview,0.14348889887332916,83
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,bias_check,0.08151015639305115,83
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,community,0.12179989367723465,83
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,emotion,0.1407383382320404,83
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,impact,0.1248508170247078,84
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,policy_action,0.12961286306381226,84
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,significance,0.14580337703227997,83
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,worldview,0.14834733307361603,83
+mpnet,Claude Sonnet 4.5,Grok Fast,bias_check,0.12870356440544128,83
+mpnet,Claude Sonnet 4.5,Grok Fast,community,0.12520873546600342,83
+mpnet,Claude Sonnet 4.5,Grok Fast,emotion,0.18474498391151428,83
+mpnet,Claude Sonnet 4.5,Grok Fast,impact,0.13806626200675964,84
+mpnet,Claude Sonnet 4.5,Grok Fast,policy_action,0.13966618478298187,84
+mpnet,Claude Sonnet 4.5,Grok Fast,significance,0.14887288212776184,83
+mpnet,Claude Sonnet 4.5,Grok Fast,worldview,0.17671753466129303,83
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,bias_check,0.10555894672870636,83
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,community,0.13923592865467072,83
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,emotion,0.1453898400068283,83
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,impact,0.1412101536989212,84
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,policy_action,0.13969235122203827,84
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,significance,0.15435323119163513,83
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,worldview,0.14387540519237518,83
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bias_check,0.10693405568599701,83
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,community,0.13267554342746735,83
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,emotion,0.14998884499073029,83
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,impact,0.1306486576795578,84
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,policy_action,0.14876028895378113,84
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,significance,0.14997269213199615,83
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,worldview,0.15825755894184113,83
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,bias_check,0.11003882437944412,83
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,community,0.14005523920059204,83
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,emotion,0.13681921362876892,83
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,impact,0.13490457832813263,84
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,policy_action,0.1344451606273651,84
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,significance,0.16007694602012634,83
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,worldview,0.14244581758975983,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,bias_check,0.11251362413167953,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,community,0.11534443497657776,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,emotion,0.1473265290260315,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,impact,0.1282971054315567,84
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,policy_action,0.13942131400108337,84
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,significance,0.1265299916267395,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,worldview,0.13482066988945007,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,bias_check,0.13334815204143524,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,community,0.1416834145784378,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,emotion,0.16302235424518585,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,impact,0.1609860211610794,84
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,policy_action,0.1482085883617401,84
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,significance,0.1729506254196167,83
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,worldview,0.16179461777210236,83
+mpnet,Claude Haiku 4.5,Mistral Large 3,bias_check,0.09698246419429779,83
+mpnet,Claude Haiku 4.5,Mistral Large 3,community,0.12077463418245316,83
+mpnet,Claude Haiku 4.5,Mistral Large 3,emotion,0.13133078813552856,83
+mpnet,Claude Haiku 4.5,Mistral Large 3,impact,0.11885985732078552,84
+mpnet,Claude Haiku 4.5,Mistral Large 3,policy_action,0.12776243686676025,84
+mpnet,Claude Haiku 4.5,Mistral Large 3,significance,0.120872862637043,83
+mpnet,Claude Haiku 4.5,Mistral Large 3,worldview,0.1275520622730255,83
+mpnet,Claude Haiku 4.5,Mistral Medium 3,bias_check,0.09360069036483765,83
+mpnet,Claude Haiku 4.5,Mistral Medium 3,community,0.11580219119787216,83
+mpnet,Claude Haiku 4.5,Mistral Medium 3,emotion,0.128944993019104,83
+mpnet,Claude Haiku 4.5,Mistral Medium 3,impact,0.11886954307556152,84
+mpnet,Claude Haiku 4.5,Mistral Medium 3,policy_action,0.13416887819766998,84
+mpnet,Claude Haiku 4.5,Mistral Medium 3,significance,0.1278214454650879,83
+mpnet,Claude Haiku 4.5,Mistral Medium 3,worldview,0.13872043788433075,83
+mpnet,Claude Haiku 4.5,Grok Fast,bias_check,0.15568295121192932,83
+mpnet,Claude Haiku 4.5,Grok Fast,community,0.1317760944366455,83
+mpnet,Claude Haiku 4.5,Grok Fast,emotion,0.1788731813430786,83
+mpnet,Claude Haiku 4.5,Grok Fast,impact,0.15064027905464172,84
+mpnet,Claude Haiku 4.5,Grok Fast,policy_action,0.15703332424163818,84
+mpnet,Claude Haiku 4.5,Grok Fast,significance,0.16696499288082123,83
+mpnet,Claude Haiku 4.5,Grok Fast,worldview,0.17051152884960175,83
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,bias_check,0.14029459655284882,83
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,community,0.15079058706760406,83
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,emotion,0.14635621011257172,83
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,impact,0.1411246508359909,84
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,policy_action,0.15155255794525146,84
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,significance,0.17055542767047882,83
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,worldview,0.13440676033496857,83
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bias_check,0.07549922913312912,83
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,community,0.09018628299236298,83
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,emotion,0.09971707314252853,83
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,impact,0.08931640535593033,84
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,policy_action,0.0854165181517601,84
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,significance,0.0982019454240799,83
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,worldview,0.09197071939706802,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bias_check,0.11219940334558487,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,community,0.13200704753398895,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,emotion,0.17585229873657227,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,impact,0.13669970631599426,84
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,policy_action,0.14779344201087952,84
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,significance,0.13034972548484802,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,worldview,0.16796422004699707,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bias_check,0.14877495169639587,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,community,0.15504680573940277,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,emotion,0.1895195096731186,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,impact,0.17825627326965332,84
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,policy_action,0.16351358592510223,84
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,significance,0.17029188573360443,83
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,worldview,0.17607998847961426,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,bias_check,0.0981663167476654,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,community,0.128692165017128,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,emotion,0.159155011177063,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,impact,0.14914563298225403,84
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,policy_action,0.15941892564296722,84
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,significance,0.1426386833190918,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,worldview,0.14894120395183563,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,bias_check,0.08963430672883987,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,community,0.11808386445045471,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,emotion,0.13135609030723572,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,impact,0.12102361023426056,84
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,policy_action,0.14426860213279724,84
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,significance,0.1325029879808426,83
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,worldview,0.15167933702468872,83
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,bias_check,0.1828530728816986,83
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,community,0.15440666675567627,83
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,emotion,0.21028365194797516,83
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,impact,0.16021139919757843,84
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,policy_action,0.16898499429225922,84
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,significance,0.16694612801074982,83
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,worldview,0.20053702592849731,83
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bias_check,0.14907296001911163,83
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,community,0.16759514808654785,83
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,emotion,0.16540247201919556,83
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,impact,0.1478034108877182,84
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,policy_action,0.1592576950788498,84
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,significance,0.16440515220165253,83
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,worldview,0.16206413507461548,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,bias_check,0.09362845122814178,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,community,0.1352567821741104,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,emotion,0.15272830426692963,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,impact,0.1366417407989502,84
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,policy_action,0.1361047476530075,84
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,significance,0.1452292501926422,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,worldview,0.15083110332489014,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,bias_check,0.12964849174022675,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,community,0.13941702246665955,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,emotion,0.16860511898994446,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,impact,0.1734684854745865,84
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,policy_action,0.14729109406471252,84
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,significance,0.17384964227676392,83
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,worldview,0.16829049587249756,83
+mpnet,Meta Llama Maverick 4,Mistral Large 3,bias_check,0.0912756696343422,83
+mpnet,Meta Llama Maverick 4,Mistral Large 3,community,0.13895267248153687,83
+mpnet,Meta Llama Maverick 4,Mistral Large 3,emotion,0.14502842724323273,83
+mpnet,Meta Llama Maverick 4,Mistral Large 3,impact,0.13911335170269012,84
+mpnet,Meta Llama Maverick 4,Mistral Large 3,policy_action,0.14288204908370972,84
+mpnet,Meta Llama Maverick 4,Mistral Large 3,significance,0.16382881999015808,83
+mpnet,Meta Llama Maverick 4,Mistral Large 3,worldview,0.13894902169704437,83
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,bias_check,0.08291787654161453,83
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,community,0.1313568353652954,83
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,emotion,0.12041634321212769,83
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,impact,0.12386265397071838,84
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,policy_action,0.1319878250360489,84
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,significance,0.1620817929506302,83
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,worldview,0.14440509676933289,83
+mpnet,Meta Llama Maverick 4,Grok Fast,bias_check,0.1554366797208786,83
+mpnet,Meta Llama Maverick 4,Grok Fast,community,0.14432653784751892,83
+mpnet,Meta Llama Maverick 4,Grok Fast,emotion,0.17814645171165466,83
+mpnet,Meta Llama Maverick 4,Grok Fast,impact,0.15918810665607452,84
+mpnet,Meta Llama Maverick 4,Grok Fast,policy_action,0.15648338198661804,84
+mpnet,Meta Llama Maverick 4,Grok Fast,significance,0.1642443686723709,83
+mpnet,Meta Llama Maverick 4,Grok Fast,worldview,0.1883935183286667,83
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,bias_check,0.1261531412601471,83
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,community,0.15225814282894135,83
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,emotion,0.15227457880973816,83
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,impact,0.15214741230010986,84
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,policy_action,0.1589689999818802,84
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,significance,0.16431057453155518,83
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,worldview,0.1490364819765091,83
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,bias_check,0.12519633769989014,83
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,community,0.1179925948381424,83
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,emotion,0.15282317996025085,83
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,impact,0.12962141633033752,84
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,policy_action,0.14231601357460022,84
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,significance,0.1474330574274063,83
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,worldview,0.15975533425807953,83
+mpnet,Gemini 2.5 Flash,Mistral Large 3,bias_check,0.11065886169672012,83
+mpnet,Gemini 2.5 Flash,Mistral Large 3,community,0.13776126503944397,83
+mpnet,Gemini 2.5 Flash,Mistral Large 3,emotion,0.1434478610754013,83
+mpnet,Gemini 2.5 Flash,Mistral Large 3,impact,0.14512871205806732,84
+mpnet,Gemini 2.5 Flash,Mistral Large 3,policy_action,0.14142636954784393,84
+mpnet,Gemini 2.5 Flash,Mistral Large 3,significance,0.13302730023860931,83
+mpnet,Gemini 2.5 Flash,Mistral Large 3,worldview,0.1255992203950882,83
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,bias_check,0.0888805240392685,83
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,community,0.12857550382614136,83
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,emotion,0.13735345005989075,83
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,impact,0.1162443608045578,84
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,policy_action,0.14120358228683472,84
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,significance,0.12188040465116501,83
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,worldview,0.13196344673633575,83
+mpnet,Gemini 2.5 Flash,Grok Fast,bias_check,0.13596419990062714,83
+mpnet,Gemini 2.5 Flash,Grok Fast,community,0.1176680400967598,83
+mpnet,Gemini 2.5 Flash,Grok Fast,emotion,0.17954237759113312,83
+mpnet,Gemini 2.5 Flash,Grok Fast,impact,0.14136165380477905,84
+mpnet,Gemini 2.5 Flash,Grok Fast,policy_action,0.15398751199245453,84
+mpnet,Gemini 2.5 Flash,Grok Fast,significance,0.1555650383234024,83
+mpnet,Gemini 2.5 Flash,Grok Fast,worldview,0.19264768064022064,83
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,bias_check,0.11068795621395111,83
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,community,0.1324094831943512,83
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,emotion,0.15603545308113098,83
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,impact,0.12711204588413239,84
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,policy_action,0.15966899693012238,84
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,significance,0.15955480933189392,83
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,worldview,0.14592550694942474,83
+mpnet,Gemini 2.5 Pro,Mistral Large 3,bias_check,0.1323532909154892,83
+mpnet,Gemini 2.5 Pro,Mistral Large 3,community,0.15819449722766876,83
+mpnet,Gemini 2.5 Pro,Mistral Large 3,emotion,0.18563182651996613,83
+mpnet,Gemini 2.5 Pro,Mistral Large 3,impact,0.15706120431423187,84
+mpnet,Gemini 2.5 Pro,Mistral Large 3,policy_action,0.15063098073005676,84
+mpnet,Gemini 2.5 Pro,Mistral Large 3,significance,0.18374691903591156,83
+mpnet,Gemini 2.5 Pro,Mistral Large 3,worldview,0.17029990255832672,83
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,bias_check,0.11559326946735382,83
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,community,0.14746594429016113,83
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,emotion,0.14892034232616425,83
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,impact,0.13776849210262299,84
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,policy_action,0.15015916526317596,84
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,significance,0.17013125121593475,83
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,worldview,0.16217686235904694,83
+mpnet,Gemini 2.5 Pro,Grok Fast,bias_check,0.1363687515258789,83
+mpnet,Gemini 2.5 Pro,Grok Fast,community,0.1334500014781952,83
+mpnet,Gemini 2.5 Pro,Grok Fast,emotion,0.1809137463569641,83
+mpnet,Gemini 2.5 Pro,Grok Fast,impact,0.155115008354187,84
+mpnet,Gemini 2.5 Pro,Grok Fast,policy_action,0.1549995243549347,84
+mpnet,Gemini 2.5 Pro,Grok Fast,significance,0.16566886007785797,83
+mpnet,Gemini 2.5 Pro,Grok Fast,worldview,0.20204854011535645,83
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,bias_check,0.12086573243141174,83
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,community,0.13389146327972412,83
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,emotion,0.17094852030277252,83
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,impact,0.16042093932628632,84
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,policy_action,0.14121854305267334,84
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,significance,0.20194749534130096,83
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,worldview,0.17225685715675354,83
+mpnet,Mistral Large 3,Mistral Medium 3,bias_check,0.0726681724190712,83
+mpnet,Mistral Large 3,Mistral Medium 3,community,0.09903596341609955,83
+mpnet,Mistral Large 3,Mistral Medium 3,emotion,0.11523927003145218,83
+mpnet,Mistral Large 3,Mistral Medium 3,impact,0.11640936136245728,84
+mpnet,Mistral Large 3,Mistral Medium 3,policy_action,0.13507050275802612,84
+mpnet,Mistral Large 3,Mistral Medium 3,significance,0.08897759765386581,83
+mpnet,Mistral Large 3,Mistral Medium 3,worldview,0.10800565034151077,83
+mpnet,Mistral Large 3,Grok Fast,bias_check,0.14433832466602325,83
+mpnet,Mistral Large 3,Grok Fast,community,0.1442999541759491,83
+mpnet,Mistral Large 3,Grok Fast,emotion,0.18802645802497864,83
+mpnet,Mistral Large 3,Grok Fast,impact,0.16509845852851868,84
+mpnet,Mistral Large 3,Grok Fast,policy_action,0.1668882966041565,84
+mpnet,Mistral Large 3,Grok Fast,significance,0.1716538965702057,83
+mpnet,Mistral Large 3,Grok Fast,worldview,0.19267384707927704,83
+mpnet,Mistral Large 3,3.5 Flash-Lite,bias_check,0.13107934594154358,83
+mpnet,Mistral Large 3,3.5 Flash-Lite,community,0.16759930551052094,83
+mpnet,Mistral Large 3,3.5 Flash-Lite,emotion,0.15844905376434326,83
+mpnet,Mistral Large 3,3.5 Flash-Lite,impact,0.15392373502254486,84
+mpnet,Mistral Large 3,3.5 Flash-Lite,policy_action,0.1614571362733841,84
+mpnet,Mistral Large 3,3.5 Flash-Lite,significance,0.1843719780445099,83
+mpnet,Mistral Large 3,3.5 Flash-Lite,worldview,0.14648465812206268,83
+mpnet,Mistral Medium 3,Grok Fast,bias_check,0.12274228781461716,83
+mpnet,Mistral Medium 3,Grok Fast,community,0.1343684047460556,83
+mpnet,Mistral Medium 3,Grok Fast,emotion,0.17035531997680664,83
+mpnet,Mistral Medium 3,Grok Fast,impact,0.14077681303024292,84
+mpnet,Mistral Medium 3,Grok Fast,policy_action,0.13391652703285217,84
+mpnet,Mistral Medium 3,Grok Fast,significance,0.170122429728508,83
+mpnet,Mistral Medium 3,Grok Fast,worldview,0.20223112404346466,83
+mpnet,Mistral Medium 3,3.5 Flash-Lite,bias_check,0.0953405424952507,83
+mpnet,Mistral Medium 3,3.5 Flash-Lite,community,0.1692127138376236,83
+mpnet,Mistral Medium 3,3.5 Flash-Lite,emotion,0.14044108986854553,83
+mpnet,Mistral Medium 3,3.5 Flash-Lite,impact,0.1395464539527893,84
+mpnet,Mistral Medium 3,3.5 Flash-Lite,policy_action,0.15788614749908447,84
+mpnet,Mistral Medium 3,3.5 Flash-Lite,significance,0.18625789880752563,83
+mpnet,Mistral Medium 3,3.5 Flash-Lite,worldview,0.14718449115753174,83
+mpnet,Grok Fast,3.5 Flash-Lite,bias_check,0.10672315210103989,83
+mpnet,Grok Fast,3.5 Flash-Lite,community,0.14513443410396576,83
+mpnet,Grok Fast,3.5 Flash-Lite,emotion,0.18793384730815887,83
+mpnet,Grok Fast,3.5 Flash-Lite,impact,0.15233267843723297,84
+mpnet,Grok Fast,3.5 Flash-Lite,policy_action,0.16903521120548248,84
+mpnet,Grok Fast,3.5 Flash-Lite,significance,0.17106018960475922,83
+mpnet,Grok Fast,3.5 Flash-Lite,worldview,0.17372876405715942,83
+minilm,GPT 5.4,GPT 5.4 Mini,bias_check,0.11880425363779068,83
+minilm,GPT 5.4,GPT 5.4 Mini,community,0.12570820748806,83
+minilm,GPT 5.4,GPT 5.4 Mini,emotion,0.18339696526527405,83
+minilm,GPT 5.4,GPT 5.4 Mini,impact,0.15005528926849365,84
+minilm,GPT 5.4,GPT 5.4 Mini,policy_action,0.14652712643146515,84
+minilm,GPT 5.4,GPT 5.4 Mini,significance,0.16813376545906067,83
+minilm,GPT 5.4,GPT 5.4 Mini,worldview,0.18316185474395752,83
+minilm,GPT 5.4,Claude Sonnet 4.5,bias_check,0.1509891003370285,83
+minilm,GPT 5.4,Claude Sonnet 4.5,community,0.14394055306911469,83
+minilm,GPT 5.4,Claude Sonnet 4.5,emotion,0.20460087060928345,83
+minilm,GPT 5.4,Claude Sonnet 4.5,impact,0.16167020797729492,84
+minilm,GPT 5.4,Claude Sonnet 4.5,policy_action,0.16805988550186157,84
+minilm,GPT 5.4,Claude Sonnet 4.5,significance,0.1893351674079895,83
+minilm,GPT 5.4,Claude Sonnet 4.5,worldview,0.20353873074054718,83
+minilm,GPT 5.4,Claude Haiku 4.5,bias_check,0.15595830976963043,83
+minilm,GPT 5.4,Claude Haiku 4.5,community,0.14241689443588257,83
+minilm,GPT 5.4,Claude Haiku 4.5,emotion,0.2025838941335678,83
+minilm,GPT 5.4,Claude Haiku 4.5,impact,0.1596008837223053,84
+minilm,GPT 5.4,Claude Haiku 4.5,policy_action,0.1753009557723999,84
+minilm,GPT 5.4,Claude Haiku 4.5,significance,0.19406305253505707,83
+minilm,GPT 5.4,Claude Haiku 4.5,worldview,0.1887412965297699,83
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,bias_check,0.17074094712734222,83
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,community,0.17093494534492493,83
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,emotion,0.23496000468730927,83
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,impact,0.17756545543670654,84
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,policy_action,0.19986656308174133,84
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,significance,0.21486882865428925,83
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,worldview,0.23063983023166656,83
+minilm,GPT 5.4,Meta Llama Maverick 4,bias_check,0.14203360676765442,83
+minilm,GPT 5.4,Meta Llama Maverick 4,community,0.172599196434021,83
+minilm,GPT 5.4,Meta Llama Maverick 4,emotion,0.22193032503128052,83
+minilm,GPT 5.4,Meta Llama Maverick 4,impact,0.18492457270622253,84
+minilm,GPT 5.4,Meta Llama Maverick 4,policy_action,0.1768397092819214,84
+minilm,GPT 5.4,Meta Llama Maverick 4,significance,0.21369479596614838,83
+minilm,GPT 5.4,Meta Llama Maverick 4,worldview,0.2085263580083847,83
+minilm,GPT 5.4,Gemini 2.5 Flash,bias_check,0.17615851759910583,83
+minilm,GPT 5.4,Gemini 2.5 Flash,community,0.14543870091438293,83
+minilm,GPT 5.4,Gemini 2.5 Flash,emotion,0.2057906985282898,83
+minilm,GPT 5.4,Gemini 2.5 Flash,impact,0.1567101776599884,84
+minilm,GPT 5.4,Gemini 2.5 Flash,policy_action,0.16679103672504425,84
+minilm,GPT 5.4,Gemini 2.5 Flash,significance,0.1848032921552658,83
+minilm,GPT 5.4,Gemini 2.5 Flash,worldview,0.2188400775194168,83
+minilm,GPT 5.4,Gemini 2.5 Pro,bias_check,0.15718908607959747,83
+minilm,GPT 5.4,Gemini 2.5 Pro,community,0.15776792168617249,83
+minilm,GPT 5.4,Gemini 2.5 Pro,emotion,0.2054353505373001,83
+minilm,GPT 5.4,Gemini 2.5 Pro,impact,0.20104968547821045,84
+minilm,GPT 5.4,Gemini 2.5 Pro,policy_action,0.18808820843696594,84
+minilm,GPT 5.4,Gemini 2.5 Pro,significance,0.2127888947725296,83
+minilm,GPT 5.4,Gemini 2.5 Pro,worldview,0.20028036832809448,83
+minilm,GPT 5.4,Mistral Large 3,bias_check,0.1464032083749771,83
+minilm,GPT 5.4,Mistral Large 3,community,0.15281911194324493,83
+minilm,GPT 5.4,Mistral Large 3,emotion,0.1966458261013031,83
+minilm,GPT 5.4,Mistral Large 3,impact,0.16615793108940125,84
+minilm,GPT 5.4,Mistral Large 3,policy_action,0.17510677874088287,84
+minilm,GPT 5.4,Mistral Large 3,significance,0.17935629189014435,83
+minilm,GPT 5.4,Mistral Large 3,worldview,0.1896463930606842,83
+minilm,GPT 5.4,Mistral Medium 3,bias_check,0.13363127410411835,83
+minilm,GPT 5.4,Mistral Medium 3,community,0.14873220026493073,83
+minilm,GPT 5.4,Mistral Medium 3,emotion,0.18551497161388397,83
+minilm,GPT 5.4,Mistral Medium 3,impact,0.17200013995170593,84
+minilm,GPT 5.4,Mistral Medium 3,policy_action,0.16752298176288605,84
+minilm,GPT 5.4,Mistral Medium 3,significance,0.18251605331897736,83
+minilm,GPT 5.4,Mistral Medium 3,worldview,0.19727635383605957,83
+minilm,GPT 5.4,Grok Fast,bias_check,0.14529883861541748,83
+minilm,GPT 5.4,Grok Fast,community,0.16589076817035675,83
+minilm,GPT 5.4,Grok Fast,emotion,0.23931406438350677,83
+minilm,GPT 5.4,Grok Fast,impact,0.1807248741388321,84
+minilm,GPT 5.4,Grok Fast,policy_action,0.17514798045158386,84
+minilm,GPT 5.4,Grok Fast,significance,0.20208939909934998,83
+minilm,GPT 5.4,Grok Fast,worldview,0.2374652773141861,83
+minilm,GPT 5.4,3.5 Flash-Lite,bias_check,0.13837099075317383,83
+minilm,GPT 5.4,3.5 Flash-Lite,community,0.17206208407878876,83
+minilm,GPT 5.4,3.5 Flash-Lite,emotion,0.241860032081604,83
+minilm,GPT 5.4,3.5 Flash-Lite,impact,0.1909390389919281,84
+minilm,GPT 5.4,3.5 Flash-Lite,policy_action,0.20494039356708527,84
+minilm,GPT 5.4,3.5 Flash-Lite,significance,0.23386594653129578,83
+minilm,GPT 5.4,3.5 Flash-Lite,worldview,0.21264661848545074,83
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,bias_check,0.15189094841480255,83
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,community,0.1606345772743225,83
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,emotion,0.21587181091308594,83
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,impact,0.17219248414039612,84
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,policy_action,0.17262713611125946,84
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,significance,0.2020881623029709,83
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,worldview,0.2179507464170456,83
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,bias_check,0.15183721482753754,83
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,community,0.15567106008529663,83
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,emotion,0.19946612417697906,83
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,impact,0.16619259119033813,84
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,policy_action,0.17031964659690857,84
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,significance,0.1977853924036026,83
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,worldview,0.20004014670848846,83
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bias_check,0.15322664380073547,83
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,community,0.15040013194084167,83
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,emotion,0.20648689568042755,83
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,impact,0.1678093522787094,84
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,policy_action,0.18134057521820068,84
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,significance,0.20030437409877777,83
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,worldview,0.22384871542453766,83
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,bias_check,0.13818076252937317,83
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,community,0.15125007927417755,83
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,emotion,0.1925724446773529,83
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,impact,0.17702433466911316,84
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,policy_action,0.16532014310359955,84
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,significance,0.20168909430503845,83
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,worldview,0.21305598318576813,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,bias_check,0.17381128668785095,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,community,0.16117136180400848,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,emotion,0.21307961642742157,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,impact,0.1656704694032669,84
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,policy_action,0.19341842830181122,84
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,significance,0.19349780678749084,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,worldview,0.2287006378173828,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,bias_check,0.15951012074947357,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,community,0.16388754546642303,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,emotion,0.19945895671844482,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,impact,0.18609589338302612,84
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,policy_action,0.18017035722732544,84
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,significance,0.22272907197475433,83
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,worldview,0.22047166526317596,83
+minilm,GPT 5.4 Mini,Mistral Large 3,bias_check,0.14860236644744873,83
+minilm,GPT 5.4 Mini,Mistral Large 3,community,0.1519676148891449,83
+minilm,GPT 5.4 Mini,Mistral Large 3,emotion,0.1940590739250183,83
+minilm,GPT 5.4 Mini,Mistral Large 3,impact,0.16284310817718506,84
+minilm,GPT 5.4 Mini,Mistral Large 3,policy_action,0.1838604360818863,84
+minilm,GPT 5.4 Mini,Mistral Large 3,significance,0.1812639832496643,83
+minilm,GPT 5.4 Mini,Mistral Large 3,worldview,0.20133472979068756,83
+minilm,GPT 5.4 Mini,Mistral Medium 3,bias_check,0.1205199733376503,83
+minilm,GPT 5.4 Mini,Mistral Medium 3,community,0.15426135063171387,83
+minilm,GPT 5.4 Mini,Mistral Medium 3,emotion,0.17727501690387726,83
+minilm,GPT 5.4 Mini,Mistral Medium 3,impact,0.1696833372116089,84
+minilm,GPT 5.4 Mini,Mistral Medium 3,policy_action,0.17340309917926788,84
+minilm,GPT 5.4 Mini,Mistral Medium 3,significance,0.18419750034809113,83
+minilm,GPT 5.4 Mini,Mistral Medium 3,worldview,0.19561979174613953,83
+minilm,GPT 5.4 Mini,Grok Fast,bias_check,0.16262970864772797,83
+minilm,GPT 5.4 Mini,Grok Fast,community,0.18787632882595062,83
+minilm,GPT 5.4 Mini,Grok Fast,emotion,0.23418252170085907,83
+minilm,GPT 5.4 Mini,Grok Fast,impact,0.19836239516735077,84
+minilm,GPT 5.4 Mini,Grok Fast,policy_action,0.1959548443555832,84
+minilm,GPT 5.4 Mini,Grok Fast,significance,0.21924039721488953,83
+minilm,GPT 5.4 Mini,Grok Fast,worldview,0.26942649483680725,83
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,bias_check,0.14462409913539886,83
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,community,0.18011106550693512,83
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,emotion,0.227524533867836,83
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,impact,0.19164173305034637,84
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,policy_action,0.199807807803154,84
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,significance,0.2332259714603424,83
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,worldview,0.23563796281814575,83
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,bias_check,0.10942522436380386,83
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,community,0.11833866685628891,83
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,emotion,0.1485723853111267,83
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,impact,0.14136004447937012,84
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,policy_action,0.141495481133461,84
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,significance,0.1515609174966812,83
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,worldview,0.1616024672985077,83
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bias_check,0.1256510317325592,83
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,community,0.1666366159915924,83
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,emotion,0.22294986248016357,83
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,impact,0.1934560090303421,84
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,policy_action,0.19745385646820068,84
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,significance,0.20685826241970062,83
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,worldview,0.24993467330932617,83
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,bias_check,0.12635305523872375,83
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,community,0.1804751604795456,83
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,emotion,0.20860524475574493,83
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,impact,0.19445523619651794,84
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,policy_action,0.1795566976070404,84
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,significance,0.20089755952358246,83
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,worldview,0.22174741327762604,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,bias_check,0.11972688138484955,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,community,0.14034371078014374,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,emotion,0.1770600974559784,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,impact,0.16090194880962372,84
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,policy_action,0.17179687321186066,84
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,significance,0.164628267288208,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,worldview,0.1929011344909668,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,bias_check,0.12087005376815796,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,community,0.15952304005622864,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,emotion,0.16741786897182465,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,impact,0.18148723244667053,84
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,policy_action,0.16415974497795105,84
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,significance,0.1998499035835266,83
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,worldview,0.20200835168361664,83
+minilm,Claude Sonnet 4.5,Mistral Large 3,bias_check,0.10954258590936661,83
+minilm,Claude Sonnet 4.5,Mistral Large 3,community,0.14344510436058044,83
+minilm,Claude Sonnet 4.5,Mistral Large 3,emotion,0.17848512530326843,83
+minilm,Claude Sonnet 4.5,Mistral Large 3,impact,0.16322258114814758,84
+minilm,Claude Sonnet 4.5,Mistral Large 3,policy_action,0.16331838071346283,84
+minilm,Claude Sonnet 4.5,Mistral Large 3,significance,0.16554322838783264,83
+minilm,Claude Sonnet 4.5,Mistral Large 3,worldview,0.1916336566209793,83
+minilm,Claude Sonnet 4.5,Mistral Medium 3,bias_check,0.10311733186244965,83
+minilm,Claude Sonnet 4.5,Mistral Medium 3,community,0.13832297921180725,83
+minilm,Claude Sonnet 4.5,Mistral Medium 3,emotion,0.16975435614585876,83
+minilm,Claude Sonnet 4.5,Mistral Medium 3,impact,0.16035771369934082,84
+minilm,Claude Sonnet 4.5,Mistral Medium 3,policy_action,0.15792962908744812,84
+minilm,Claude Sonnet 4.5,Mistral Medium 3,significance,0.17816567420959473,83
+minilm,Claude Sonnet 4.5,Mistral Medium 3,worldview,0.20462475717067719,83
+minilm,Claude Sonnet 4.5,Grok Fast,bias_check,0.14700520038604736,83
+minilm,Claude Sonnet 4.5,Grok Fast,community,0.17242226004600525,83
+minilm,Claude Sonnet 4.5,Grok Fast,emotion,0.23415225744247437,83
+minilm,Claude Sonnet 4.5,Grok Fast,impact,0.18899787962436676,84
+minilm,Claude Sonnet 4.5,Grok Fast,policy_action,0.18205015361309052,84
+minilm,Claude Sonnet 4.5,Grok Fast,significance,0.1899501085281372,83
+minilm,Claude Sonnet 4.5,Grok Fast,worldview,0.2352011352777481,83
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,bias_check,0.11870468407869339,83
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,community,0.16871018707752228,83
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,emotion,0.19887466728687286,83
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,impact,0.1806962788105011,84
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,policy_action,0.1778554469347,84
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,significance,0.19282814860343933,83
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,worldview,0.20409487187862396,83
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bias_check,0.1345614641904831,83
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,community,0.16379258036613464,83
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,emotion,0.20166516304016113,83
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,impact,0.18055079877376556,84
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,policy_action,0.18761113286018372,84
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,significance,0.21639302372932434,83
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,worldview,0.21950453519821167,83
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,bias_check,0.13237307965755463,83
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,community,0.17444247007369995,83
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,emotion,0.18500013649463654,83
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,impact,0.1882900446653366,84
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,policy_action,0.18210990726947784,84
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,significance,0.2125329226255417,83
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,worldview,0.19707396626472473,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,bias_check,0.13264305889606476,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,community,0.14605778455734253,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,emotion,0.17738008499145508,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,impact,0.15984676778316498,84
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,policy_action,0.18043796718120575,84
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,significance,0.1741567850112915,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,worldview,0.1966007947921753,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,bias_check,0.13226737082004547,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,community,0.16341684758663177,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,emotion,0.17028896510601044,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,impact,0.18538598716259003,84
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,policy_action,0.17734695971012115,84
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,significance,0.21054010093212128,83
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,worldview,0.19322068989276886,83
+minilm,Claude Haiku 4.5,Mistral Large 3,bias_check,0.11715967953205109,83
+minilm,Claude Haiku 4.5,Mistral Large 3,community,0.13820034265518188,83
+minilm,Claude Haiku 4.5,Mistral Large 3,emotion,0.17104169726371765,83
+minilm,Claude Haiku 4.5,Mistral Large 3,impact,0.1522032767534256,84
+minilm,Claude Haiku 4.5,Mistral Large 3,policy_action,0.16382630169391632,84
+minilm,Claude Haiku 4.5,Mistral Large 3,significance,0.15789122879505157,83
+minilm,Claude Haiku 4.5,Mistral Large 3,worldview,0.1761382818222046,83
+minilm,Claude Haiku 4.5,Mistral Medium 3,bias_check,0.10695908963680267,83
+minilm,Claude Haiku 4.5,Mistral Medium 3,community,0.13142167031764984,83
+minilm,Claude Haiku 4.5,Mistral Medium 3,emotion,0.15643253922462463,83
+minilm,Claude Haiku 4.5,Mistral Medium 3,impact,0.16573376953601837,84
+minilm,Claude Haiku 4.5,Mistral Medium 3,policy_action,0.1647319197654724,84
+minilm,Claude Haiku 4.5,Mistral Medium 3,significance,0.16735868155956268,83
+minilm,Claude Haiku 4.5,Mistral Medium 3,worldview,0.187618225812912,83
+minilm,Claude Haiku 4.5,Grok Fast,bias_check,0.1657329499721527,83
+minilm,Claude Haiku 4.5,Grok Fast,community,0.17974627017974854,83
+minilm,Claude Haiku 4.5,Grok Fast,emotion,0.23125244677066803,83
+minilm,Claude Haiku 4.5,Grok Fast,impact,0.2024446278810501,84
+minilm,Claude Haiku 4.5,Grok Fast,policy_action,0.20654812455177307,84
+minilm,Claude Haiku 4.5,Grok Fast,significance,0.22449365258216858,83
+minilm,Claude Haiku 4.5,Grok Fast,worldview,0.23726430535316467,83
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,bias_check,0.13953064382076263,83
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,community,0.17440848052501678,83
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,emotion,0.21005713939666748,83
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,impact,0.18674834072589874,84
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,policy_action,0.1820073425769806,84
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,significance,0.22045551240444183,83
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,worldview,0.2003551870584488,83
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bias_check,0.08428050577640533,83
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,community,0.09852363169193268,83
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,emotion,0.14508011937141418,83
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,impact,0.12601764500141144,84
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,policy_action,0.12584927678108215,84
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,significance,0.1263783723115921,83
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,worldview,0.15402273833751678,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bias_check,0.13022224605083466,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,community,0.1579868197441101,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,emotion,0.22908258438110352,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,impact,0.174822136759758,84
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,policy_action,0.20709440112113953,84
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,significance,0.18877378106117249,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,worldview,0.2580122947692871,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bias_check,0.13110953569412231,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,community,0.16609400510787964,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,emotion,0.22281527519226074,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,impact,0.2073277235031128,84
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,policy_action,0.18412844836711884,84
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,significance,0.21835705637931824,83
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,worldview,0.23641154170036316,83
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,bias_check,0.11575346440076828,83
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,community,0.1632671356201172,83
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,emotion,0.19996404647827148,83
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,impact,0.18807828426361084,84
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,policy_action,0.20431548357009888,84
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,significance,0.19565480947494507,83
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,worldview,0.20979782938957214,83
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,bias_check,0.0908796638250351,83
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,community,0.15102699398994446,83
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,emotion,0.17763878405094147,83
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,impact,0.1787862926721573,84
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,policy_action,0.20481352508068085,84
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,significance,0.1920795738697052,83
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,worldview,0.21282599866390228,83
+minilm,Meta Llama 3.3 Turbo,Grok Fast,bias_check,0.18880656361579895,83
+minilm,Meta Llama 3.3 Turbo,Grok Fast,community,0.2125817984342575,83
+minilm,Meta Llama 3.3 Turbo,Grok Fast,emotion,0.2929227352142334,83
+minilm,Meta Llama 3.3 Turbo,Grok Fast,impact,0.22561806440353394,84
+minilm,Meta Llama 3.3 Turbo,Grok Fast,policy_action,0.24306029081344604,84
+minilm,Meta Llama 3.3 Turbo,Grok Fast,significance,0.22047649323940277,83
+minilm,Meta Llama 3.3 Turbo,Grok Fast,worldview,0.297712117433548,83
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bias_check,0.12699522078037262,83
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,community,0.1852506548166275,83
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,emotion,0.24450865387916565,83
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,impact,0.2000228613615036,84
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,policy_action,0.19807274639606476,84
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,significance,0.2199358493089676,83
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,worldview,0.24280506372451782,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,bias_check,0.11950437724590302,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,community,0.15742845833301544,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,emotion,0.19937239587306976,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,impact,0.16451486945152283,84
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,policy_action,0.17650820314884186,84
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,significance,0.1785457730293274,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,worldview,0.22223401069641113,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,bias_check,0.12524768710136414,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,community,0.16606442630290985,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,emotion,0.19841639697551727,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,impact,0.21704690158367157,84
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,policy_action,0.1835060566663742,84
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,significance,0.21558989584445953,83
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,worldview,0.21802791953086853,83
+minilm,Meta Llama Maverick 4,Mistral Large 3,bias_check,0.11719924211502075,83
+minilm,Meta Llama Maverick 4,Mistral Large 3,community,0.1743832677602768,83
+minilm,Meta Llama Maverick 4,Mistral Large 3,emotion,0.18654438853263855,83
+minilm,Meta Llama Maverick 4,Mistral Large 3,impact,0.2000780552625656,84
+minilm,Meta Llama Maverick 4,Mistral Large 3,policy_action,0.18676325678825378,84
+minilm,Meta Llama Maverick 4,Mistral Large 3,significance,0.19378407299518585,83
+minilm,Meta Llama Maverick 4,Mistral Large 3,worldview,0.18681225180625916,83
+minilm,Meta Llama Maverick 4,Mistral Medium 3,bias_check,0.0982392355799675,83
+minilm,Meta Llama Maverick 4,Mistral Medium 3,community,0.1633308231830597,83
+minilm,Meta Llama Maverick 4,Mistral Medium 3,emotion,0.17051221430301666,83
+minilm,Meta Llama Maverick 4,Mistral Medium 3,impact,0.17745953798294067,84
+minilm,Meta Llama Maverick 4,Mistral Medium 3,policy_action,0.17929120361804962,84
+minilm,Meta Llama Maverick 4,Mistral Medium 3,significance,0.19094058871269226,83
+minilm,Meta Llama Maverick 4,Mistral Medium 3,worldview,0.20612624287605286,83
+minilm,Meta Llama Maverick 4,Grok Fast,bias_check,0.16474439203739166,83
+minilm,Meta Llama Maverick 4,Grok Fast,community,0.19703923165798187,83
+minilm,Meta Llama Maverick 4,Grok Fast,emotion,0.252834290266037,83
+minilm,Meta Llama Maverick 4,Grok Fast,impact,0.21211276948451996,84
+minilm,Meta Llama Maverick 4,Grok Fast,policy_action,0.21444545686244965,84
+minilm,Meta Llama Maverick 4,Grok Fast,significance,0.2075507789850235,83
+minilm,Meta Llama Maverick 4,Grok Fast,worldview,0.261207640171051,83
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,bias_check,0.11203481256961823,83
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,community,0.19269287586212158,83
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,emotion,0.21894106268882751,83
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,impact,0.20822420716285706,84
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,policy_action,0.1975850611925125,84
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,significance,0.20738530158996582,83
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,worldview,0.21967095136642456,83
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,bias_check,0.12296896427869797,83
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,community,0.13929176330566406,83
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,emotion,0.15930122137069702,83
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,impact,0.15828005969524384,84
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,policy_action,0.1734050065279007,84
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,significance,0.17284561693668365,83
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,worldview,0.18211865425109863,83
+minilm,Gemini 2.5 Flash,Mistral Large 3,bias_check,0.12805625796318054,83
+minilm,Gemini 2.5 Flash,Mistral Large 3,community,0.1605193167924881,83
+minilm,Gemini 2.5 Flash,Mistral Large 3,emotion,0.178109809756279,83
+minilm,Gemini 2.5 Flash,Mistral Large 3,impact,0.1790655106306076,84
+minilm,Gemini 2.5 Flash,Mistral Large 3,policy_action,0.183722585439682,84
+minilm,Gemini 2.5 Flash,Mistral Large 3,significance,0.16757071018218994,83
+minilm,Gemini 2.5 Flash,Mistral Large 3,worldview,0.18221411108970642,83
+minilm,Gemini 2.5 Flash,Mistral Medium 3,bias_check,0.12231652438640594,83
+minilm,Gemini 2.5 Flash,Mistral Medium 3,community,0.1442389190196991,83
+minilm,Gemini 2.5 Flash,Mistral Medium 3,emotion,0.1770631968975067,83
+minilm,Gemini 2.5 Flash,Mistral Medium 3,impact,0.15716229379177094,84
+minilm,Gemini 2.5 Flash,Mistral Medium 3,policy_action,0.16582491993904114,84
+minilm,Gemini 2.5 Flash,Mistral Medium 3,significance,0.15547481179237366,83
+minilm,Gemini 2.5 Flash,Mistral Medium 3,worldview,0.19071653485298157,83
+minilm,Gemini 2.5 Flash,Grok Fast,bias_check,0.16572165489196777,83
+minilm,Gemini 2.5 Flash,Grok Fast,community,0.15935209393501282,83
+minilm,Gemini 2.5 Flash,Grok Fast,emotion,0.2141326367855072,83
+minilm,Gemini 2.5 Flash,Grok Fast,impact,0.17141389846801758,84
+minilm,Gemini 2.5 Flash,Grok Fast,policy_action,0.19510653614997864,84
+minilm,Gemini 2.5 Flash,Grok Fast,significance,0.18686918914318085,83
+minilm,Gemini 2.5 Flash,Grok Fast,worldview,0.23841740190982819,83
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,bias_check,0.13252834975719452,83
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,community,0.16863396763801575,83
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,emotion,0.19965332746505737,83
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,impact,0.17329365015029907,84
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,policy_action,0.20223578810691833,84
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,significance,0.200595423579216,83
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,worldview,0.21161529421806335,83
+minilm,Gemini 2.5 Pro,Mistral Large 3,bias_check,0.13501988351345062,83
+minilm,Gemini 2.5 Pro,Mistral Large 3,community,0.18324781954288483,83
+minilm,Gemini 2.5 Pro,Mistral Large 3,emotion,0.19364053010940552,83
+minilm,Gemini 2.5 Pro,Mistral Large 3,impact,0.1929198056459427,84
+minilm,Gemini 2.5 Pro,Mistral Large 3,policy_action,0.20403623580932617,84
+minilm,Gemini 2.5 Pro,Mistral Large 3,significance,0.19490115344524384,83
+minilm,Gemini 2.5 Pro,Mistral Large 3,worldview,0.19144175946712494,83
+minilm,Gemini 2.5 Pro,Mistral Medium 3,bias_check,0.11654413491487503,83
+minilm,Gemini 2.5 Pro,Mistral Medium 3,community,0.1549433171749115,83
+minilm,Gemini 2.5 Pro,Mistral Medium 3,emotion,0.1634223312139511,83
+minilm,Gemini 2.5 Pro,Mistral Medium 3,impact,0.16960284113883972,84
+minilm,Gemini 2.5 Pro,Mistral Medium 3,policy_action,0.18079866468906403,84
+minilm,Gemini 2.5 Pro,Mistral Medium 3,significance,0.1842973828315735,83
+minilm,Gemini 2.5 Pro,Mistral Medium 3,worldview,0.20079569518566132,83
+minilm,Gemini 2.5 Pro,Grok Fast,bias_check,0.15774011611938477,83
+minilm,Gemini 2.5 Pro,Grok Fast,community,0.173781618475914,83
+minilm,Gemini 2.5 Pro,Grok Fast,emotion,0.22828136384487152,83
+minilm,Gemini 2.5 Pro,Grok Fast,impact,0.19392646849155426,84
+minilm,Gemini 2.5 Pro,Grok Fast,policy_action,0.19567614793777466,84
+minilm,Gemini 2.5 Pro,Grok Fast,significance,0.21404911577701569,83
+minilm,Gemini 2.5 Pro,Grok Fast,worldview,0.24301905930042267,83
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,bias_check,0.13342776894569397,83
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,community,0.16717518866062164,83
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,emotion,0.20543895661830902,83
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,impact,0.2006475329399109,84
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,policy_action,0.17708057165145874,84
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,significance,0.23712226748466492,83
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,worldview,0.21350783109664917,83
+minilm,Mistral Large 3,Mistral Medium 3,bias_check,0.08828327059745789,83
+minilm,Mistral Large 3,Mistral Medium 3,community,0.12014903873205185,83
+minilm,Mistral Large 3,Mistral Medium 3,emotion,0.1424853354692459,83
+minilm,Mistral Large 3,Mistral Medium 3,impact,0.15559054911136627,84
+minilm,Mistral Large 3,Mistral Medium 3,policy_action,0.16249115765094757,84
+minilm,Mistral Large 3,Mistral Medium 3,significance,0.12524138391017914,83
+minilm,Mistral Large 3,Mistral Medium 3,worldview,0.14542391896247864,83
+minilm,Mistral Large 3,Grok Fast,bias_check,0.1557682752609253,83
+minilm,Mistral Large 3,Grok Fast,community,0.18180131912231445,83
+minilm,Mistral Large 3,Grok Fast,emotion,0.2315894365310669,83
+minilm,Mistral Large 3,Grok Fast,impact,0.20207592844963074,84
+minilm,Mistral Large 3,Grok Fast,policy_action,0.20881523191928864,84
+minilm,Mistral Large 3,Grok Fast,significance,0.2108861356973648,83
+minilm,Mistral Large 3,Grok Fast,worldview,0.24318987131118774,83
+minilm,Mistral Large 3,3.5 Flash-Lite,bias_check,0.12846489250659943,83
+minilm,Mistral Large 3,3.5 Flash-Lite,community,0.187757670879364,83
+minilm,Mistral Large 3,3.5 Flash-Lite,emotion,0.2109045684337616,83
+minilm,Mistral Large 3,3.5 Flash-Lite,impact,0.19353997707366943,84
+minilm,Mistral Large 3,3.5 Flash-Lite,policy_action,0.21149370074272156,84
+minilm,Mistral Large 3,3.5 Flash-Lite,significance,0.2214755266904831,83
+minilm,Mistral Large 3,3.5 Flash-Lite,worldview,0.2064720094203949,83
+minilm,Mistral Medium 3,Grok Fast,bias_check,0.15452538430690765,83
+minilm,Mistral Medium 3,Grok Fast,community,0.1698157787322998,83
+minilm,Mistral Medium 3,Grok Fast,emotion,0.23739127814769745,83
+minilm,Mistral Medium 3,Grok Fast,impact,0.1896146982908249,84
+minilm,Mistral Medium 3,Grok Fast,policy_action,0.18281106650829315,84
+minilm,Mistral Medium 3,Grok Fast,significance,0.20997194945812225,83
+minilm,Mistral Medium 3,Grok Fast,worldview,0.271017462015152,83
+minilm,Mistral Medium 3,3.5 Flash-Lite,bias_check,0.10932740569114685,83
+minilm,Mistral Medium 3,3.5 Flash-Lite,community,0.18063123524188995,83
+minilm,Mistral Medium 3,3.5 Flash-Lite,emotion,0.20545069873332977,83
+minilm,Mistral Medium 3,3.5 Flash-Lite,impact,0.1834813803434372,84
+minilm,Mistral Medium 3,3.5 Flash-Lite,policy_action,0.20059360563755035,84
+minilm,Mistral Medium 3,3.5 Flash-Lite,significance,0.2213238924741745,83
+minilm,Mistral Medium 3,3.5 Flash-Lite,worldview,0.22543959319591522,83
+minilm,Grok Fast,3.5 Flash-Lite,bias_check,0.1521768867969513,83
+minilm,Grok Fast,3.5 Flash-Lite,community,0.1950259655714035,83
+minilm,Grok Fast,3.5 Flash-Lite,emotion,0.24064156413078308,83
+minilm,Grok Fast,3.5 Flash-Lite,impact,0.20108409225940704,84
+minilm,Grok Fast,3.5 Flash-Lite,policy_action,0.21827802062034607,84
+minilm,Grok Fast,3.5 Flash-Lite,significance,0.21753573417663574,83
+minilm,Grok Fast,3.5 Flash-Lite,worldview,0.2365281879901886,83
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,bias_check,0.10124184936285019,83
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,community,0.1313551664352417,83
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,emotion,0.1746588498353958,83
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,impact,0.14982987940311432,84
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,policy_action,0.13779306411743164,84
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,significance,0.1481018364429474,83
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,worldview,0.15909187495708466,83
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,bias_check,0.16326741874217987,83
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,community,0.1695975661277771,83
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,emotion,0.2007482796907425,83
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,impact,0.15724998712539673,84
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,policy_action,0.17651697993278503,84
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,significance,0.18536248803138733,83
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,worldview,0.19048364460468292,83
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,bias_check,0.18281395733356476,83
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,community,0.18162159621715546,83
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,emotion,0.2099127471446991,83
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,impact,0.18146522343158722,84
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,policy_action,0.19284802675247192,84
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,significance,0.18461674451828003,83
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,worldview,0.1828090399503708,83
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,bias_check,0.22057856619358063,83
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,community,0.24933001399040222,83
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,emotion,0.24941766262054443,83
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,impact,0.22140419483184814,84
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,policy_action,0.23503512144088745,84
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,significance,0.19007307291030884,83
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,worldview,0.2019432932138443,83
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,bias_check,0.19498440623283386,83
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,community,0.23502761125564575,83
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,emotion,0.23582832515239716,83
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,impact,0.231410413980484,84
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,policy_action,0.22570082545280457,84
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,significance,0.20591841638088226,83
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,worldview,0.1836075782775879,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,bias_check,0.17792908847332,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,community,0.19736604392528534,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,emotion,0.2127215415239334,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,impact,0.17480796575546265,84
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,policy_action,0.19998428225517273,84
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,significance,0.1667925864458084,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,worldview,0.1981620490550995,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,bias_check,0.1606176495552063,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,community,0.18497277796268463,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,emotion,0.2196977287530899,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,impact,0.19219300150871277,84
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,policy_action,0.2007729411125183,84
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,significance,0.1827884167432785,83
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,worldview,0.19189347326755524,83
+mpnet_masked,GPT 5.4,Mistral Large 3,bias_check,0.17841343581676483,83
+mpnet_masked,GPT 5.4,Mistral Large 3,community,0.17279963195323944,83
+mpnet_masked,GPT 5.4,Mistral Large 3,emotion,0.2081310749053955,83
+mpnet_masked,GPT 5.4,Mistral Large 3,impact,0.18145275115966797,84
+mpnet_masked,GPT 5.4,Mistral Large 3,policy_action,0.1650925874710083,84
+mpnet_masked,GPT 5.4,Mistral Large 3,significance,0.17650431394577026,83
+mpnet_masked,GPT 5.4,Mistral Large 3,worldview,0.18004201352596283,83
+mpnet_masked,GPT 5.4,Mistral Medium 3,bias_check,0.1378425657749176,83
+mpnet_masked,GPT 5.4,Mistral Medium 3,community,0.18459062278270721,83
+mpnet_masked,GPT 5.4,Mistral Medium 3,emotion,0.19524721801280975,83
+mpnet_masked,GPT 5.4,Mistral Medium 3,impact,0.18170388042926788,84
+mpnet_masked,GPT 5.4,Mistral Medium 3,policy_action,0.18694259226322174,84
+mpnet_masked,GPT 5.4,Mistral Medium 3,significance,0.1754940152168274,83
+mpnet_masked,GPT 5.4,Mistral Medium 3,worldview,0.18071281909942627,83
+mpnet_masked,GPT 5.4,Grok Fast,bias_check,0.11356468498706818,83
+mpnet_masked,GPT 5.4,Grok Fast,community,0.16606900095939636,83
+mpnet_masked,GPT 5.4,Grok Fast,emotion,0.21719098091125488,83
+mpnet_masked,GPT 5.4,Grok Fast,impact,0.17667806148529053,84
+mpnet_masked,GPT 5.4,Grok Fast,policy_action,0.18795983493328094,84
+mpnet_masked,GPT 5.4,Grok Fast,significance,0.18489259481430054,83
+mpnet_masked,GPT 5.4,Grok Fast,worldview,0.19199955463409424,83
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,bias_check,0.13294139504432678,83
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,community,0.1826062649488449,83
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,emotion,0.20985794067382812,83
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,impact,0.1910560429096222,84
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,policy_action,0.20944443345069885,84
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,significance,0.2228717803955078,83
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,worldview,0.18127425014972687,83
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,bias_check,0.1718515008687973,83
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,community,0.15802355110645294,83
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,emotion,0.21014687418937683,83
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,impact,0.1599869728088379,84
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,policy_action,0.17066533863544464,84
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,significance,0.1943284422159195,83
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,worldview,0.19783808290958405,83
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,bias_check,0.1823263168334961,83
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,community,0.16416609287261963,83
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,emotion,0.21645507216453552,83
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,impact,0.16996029019355774,84
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,policy_action,0.1804404854774475,84
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,significance,0.17696399986743927,83
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,worldview,0.18284660577774048,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bias_check,0.22081011533737183,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,community,0.21231596171855927,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,emotion,0.23045043647289276,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,impact,0.20015153288841248,84
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,policy_action,0.22066402435302734,84
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,significance,0.1822807341814041,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,worldview,0.19951100647449493,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,bias_check,0.19404149055480957,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,community,0.19511684775352478,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,emotion,0.2200108766555786,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,impact,0.20837320387363434,84
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,policy_action,0.21501033008098602,84
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,significance,0.2039622962474823,83
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,worldview,0.1912434995174408,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,bias_check,0.17711801826953888,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,community,0.17374558746814728,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,emotion,0.23322393000125885,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,impact,0.1587698608636856,84
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,policy_action,0.1995416134595871,84
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,significance,0.1771940290927887,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,worldview,0.19910463690757751,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,bias_check,0.17197251319885254,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,community,0.17629291117191315,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,emotion,0.21618500351905823,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,impact,0.18609173595905304,84
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,policy_action,0.1937040090560913,84
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,significance,0.19665807485580444,83
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,worldview,0.20398488640785217,83
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,bias_check,0.17816326022148132,83
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,community,0.16170920431613922,83
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,emotion,0.21622924506664276,83
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,impact,0.17348182201385498,84
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,policy_action,0.1707320213317871,84
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,significance,0.16097092628479004,83
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,worldview,0.17881862819194794,83
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,bias_check,0.1374848335981369,83
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,community,0.17220067977905273,83
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,emotion,0.18248777091503143,83
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,impact,0.16587722301483154,84
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,policy_action,0.19174939393997192,84
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,significance,0.16511982679367065,83
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,worldview,0.1751112937927246,83
+mpnet_masked,GPT 5.4 Mini,Grok Fast,bias_check,0.1336376667022705,83
+mpnet_masked,GPT 5.4 Mini,Grok Fast,community,0.15850751101970673,83
+mpnet_masked,GPT 5.4 Mini,Grok Fast,emotion,0.22115333378314972,83
+mpnet_masked,GPT 5.4 Mini,Grok Fast,impact,0.1764889657497406,84
+mpnet_masked,GPT 5.4 Mini,Grok Fast,policy_action,0.18997275829315186,84
+mpnet_masked,GPT 5.4 Mini,Grok Fast,significance,0.19627270102500916,83
+mpnet_masked,GPT 5.4 Mini,Grok Fast,worldview,0.21541570127010345,83
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,bias_check,0.15006043016910553,83
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,community,0.18189838528633118,83
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,emotion,0.2176695466041565,83
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,impact,0.18006959557533264,84
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,policy_action,0.2044503539800644,84
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,significance,0.21776215732097626,83
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,worldview,0.18438491225242615,83
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,bias_check,0.10902100056409836,83
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,community,0.11591345071792603,83
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,emotion,0.14671051502227783,83
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,impact,0.14520634710788727,84
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,policy_action,0.15548540651798248,84
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,significance,0.13500337302684784,83
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,worldview,0.1477939784526825,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bias_check,0.12927602231502533,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,community,0.16884680092334747,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,emotion,0.20815125107765198,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,impact,0.19453920423984528,84
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,policy_action,0.203547403216362,84
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,significance,0.20283059775829315,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,worldview,0.19850939512252808,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,bias_check,0.11793655157089233,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,community,0.15962786972522736,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,emotion,0.2005118429660797,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,impact,0.20008069276809692,84
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,policy_action,0.1963384747505188,84
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,significance,0.2126166969537735,83
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,worldview,0.18755820393562317,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,bias_check,0.1238074004650116,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,community,0.13130265474319458,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,emotion,0.18366947770118713,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,impact,0.1630701720714569,84
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,policy_action,0.18266411125659943,84
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,significance,0.16731230914592743,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,worldview,0.17018049955368042,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,bias_check,0.1365213692188263,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,community,0.1495017260313034,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,emotion,0.19141574203968048,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,impact,0.18180778622627258,84
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,policy_action,0.1627405434846878,84
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,significance,0.20193134248256683,83
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,worldview,0.19078287482261658,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,bias_check,0.1044183298945427,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,community,0.1463031768798828,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,emotion,0.17759980261325836,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,impact,0.1755007654428482,84
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,policy_action,0.16513922810554504,84
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,significance,0.15751665830612183,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,worldview,0.1702227145433426,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,bias_check,0.09976287931203842,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,community,0.14552420377731323,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,emotion,0.16424423456192017,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,impact,0.15592768788337708,84
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,policy_action,0.16552387177944183,84
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,significance,0.1775790899991989,83
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,worldview,0.17444494366645813,83
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,bias_check,0.14603927731513977,83
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,community,0.15796247124671936,83
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,emotion,0.20957797765731812,83
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,impact,0.16913554072380066,84
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,policy_action,0.17048127949237823,84
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,significance,0.17559465765953064,83
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,worldview,0.2025148719549179,83
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,bias_check,0.12682119011878967,83
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,community,0.1672958880662918,83
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,emotion,0.1687861680984497,83
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,impact,0.16715624928474426,84
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,policy_action,0.18322083353996277,84
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,significance,0.1810857355594635,83
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,worldview,0.17272652685642242,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bias_check,0.13264350593090057,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,community,0.16666746139526367,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,emotion,0.1924687772989273,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,impact,0.17819175124168396,84
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,policy_action,0.19120371341705322,84
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,significance,0.19418174028396606,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,worldview,0.19655872881412506,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,bias_check,0.1274268478155136,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,community,0.17011144757270813,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,emotion,0.18507444858551025,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,impact,0.1834101527929306,84
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,policy_action,0.18948854506015778,84
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,significance,0.20891770720481873,83
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,worldview,0.18015040457248688,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,bias_check,0.131212055683136,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,community,0.13984757661819458,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,emotion,0.17753560841083527,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,impact,0.166152223944664,84
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,policy_action,0.1741882562637329,84
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,significance,0.15565304458141327,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,worldview,0.15942037105560303,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,bias_check,0.15610535442829132,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,community,0.1670984923839569,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,emotion,0.19650433957576752,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,impact,0.19240181148052216,84
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,policy_action,0.1840469092130661,84
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,significance,0.1987401694059372,83
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,worldview,0.1823575645685196,83
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,bias_check,0.11199601739645004,83
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,community,0.1513201743364334,83
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,emotion,0.16383294761180878,83
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,impact,0.15379008650779724,84
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,policy_action,0.1587887704372406,84
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,significance,0.13720892369747162,83
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,worldview,0.14908438920974731,83
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,bias_check,0.10716656595468521,83
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,community,0.14836238324642181,83
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,emotion,0.1548343449831009,83
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,impact,0.15100252628326416,84
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,policy_action,0.16585186123847961,84
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,significance,0.1556508094072342,83
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,worldview,0.15930452942848206,83
+mpnet_masked,Claude Haiku 4.5,Grok Fast,bias_check,0.17061255872249603,83
+mpnet_masked,Claude Haiku 4.5,Grok Fast,community,0.16681857407093048,83
+mpnet_masked,Claude Haiku 4.5,Grok Fast,emotion,0.19865655899047852,83
+mpnet_masked,Claude Haiku 4.5,Grok Fast,impact,0.18202325701713562,84
+mpnet_masked,Claude Haiku 4.5,Grok Fast,policy_action,0.1937943398952484,84
+mpnet_masked,Claude Haiku 4.5,Grok Fast,significance,0.18743354082107544,83
+mpnet_masked,Claude Haiku 4.5,Grok Fast,worldview,0.18500104546546936,83
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,bias_check,0.1506780982017517,83
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,community,0.18171915411949158,83
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,emotion,0.17378267645835876,83
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,impact,0.17336010932922363,84
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,policy_action,0.1893477588891983,84
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,significance,0.19008052349090576,83
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,worldview,0.15892253816127777,83
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bias_check,0.08606737852096558,83
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,community,0.12213420867919922,83
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,emotion,0.1270122081041336,83
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,impact,0.12367445230484009,84
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,policy_action,0.1268162578344345,84
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,significance,0.1292314976453781,83
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,worldview,0.1157233938574791,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bias_check,0.1342669278383255,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,community,0.1629289984703064,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,emotion,0.2006387859582901,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,impact,0.18265818059444427,84
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,policy_action,0.2033601552248001,84
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,significance,0.16734524071216583,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,worldview,0.1889079511165619,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bias_check,0.17346525192260742,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,community,0.18318234384059906,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,emotion,0.21796265244483948,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,impact,0.22380192577838898,84
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,policy_action,0.21625596284866333,84
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,significance,0.18999508023262024,83
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,worldview,0.2037286013364792,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,bias_check,0.11964588612318039,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,community,0.17636476457118988,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,emotion,0.18870943784713745,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,impact,0.18978655338287354,84
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,policy_action,0.20136599242687225,84
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,significance,0.18908090889453888,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,worldview,0.17956943809986115,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,bias_check,0.10909257084131241,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,community,0.16314230859279633,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,emotion,0.15552584826946259,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,impact,0.16456778347492218,84
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,policy_action,0.18554197251796722,84
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,significance,0.17057667672634125,83
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,worldview,0.18327775597572327,83
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,bias_check,0.21029233932495117,83
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,community,0.2097742259502411,83
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,emotion,0.24561066925525665,83
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,impact,0.2096451371908188,84
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,policy_action,0.2308483123779297,84
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,significance,0.20372352004051208,83
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,worldview,0.23155920207500458,83
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bias_check,0.17532946169376373,83
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,community,0.21531502902507782,83
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,emotion,0.20011189579963684,83
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,impact,0.1946296989917755,84
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,policy_action,0.20394150912761688,84
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,significance,0.21495327353477478,83
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,worldview,0.1909353882074356,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,bias_check,0.11890951544046402,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,community,0.16822269558906555,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,emotion,0.1858709156513214,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,impact,0.18029974400997162,84
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,policy_action,0.19043245911598206,84
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,significance,0.19077855348587036,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,worldview,0.1734161078929901,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,bias_check,0.15416695177555084,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,community,0.16822125017642975,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,emotion,0.1998950093984604,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,impact,0.21716195344924927,84
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,policy_action,0.20202845335006714,84
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,significance,0.20941327512264252,83
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,worldview,0.20630738139152527,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,bias_check,0.10804072767496109,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,community,0.17371484637260437,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,emotion,0.18044213950634003,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,impact,0.18233191967010498,84
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,policy_action,0.18469618260860443,84
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,significance,0.20786818861961365,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,worldview,0.16315653920173645,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,bias_check,0.10067281126976013,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,community,0.17273297905921936,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,emotion,0.15759694576263428,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,impact,0.16754738986492157,84
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,policy_action,0.18035677075386047,84
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,significance,0.19417554140090942,83
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,worldview,0.1758236438035965,83
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,bias_check,0.17903555929660797,83
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,community,0.19583508372306824,83
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,emotion,0.22552186250686646,83
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,impact,0.217413067817688,84
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,policy_action,0.22631089389324188,84
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,significance,0.21549338102340698,83
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,worldview,0.22774671018123627,83
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,bias_check,0.1529383361339569,83
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,community,0.19670316576957703,83
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,emotion,0.18903876841068268,83
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,impact,0.20859795808792114,84
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,policy_action,0.2115984708070755,84
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,significance,0.22603878378868103,83
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,worldview,0.1816985160112381,83
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,bias_check,0.1481793224811554,83
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,community,0.1495928317308426,83
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,emotion,0.18492048978805542,83
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,impact,0.16599011421203613,84
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,policy_action,0.17797663807868958,84
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,significance,0.15671832859516144,83
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,worldview,0.1722961664199829,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,bias_check,0.13130147755146027,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,community,0.17264288663864136,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,emotion,0.16326172649860382,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,impact,0.18254020810127258,84
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,policy_action,0.17726866900920868,84
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,significance,0.164901465177536,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,worldview,0.1479293704032898,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,bias_check,0.11422897130250931,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,community,0.1626283824443817,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,emotion,0.16762258112430573,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,impact,0.15158778429031372,84
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,policy_action,0.1734914779663086,84
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,significance,0.14833693206310272,83
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,worldview,0.1488242894411087,83
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,bias_check,0.16723676025867462,83
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,community,0.1591668576002121,83
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,emotion,0.2115539163351059,83
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,impact,0.17530879378318787,84
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,policy_action,0.19835831224918365,84
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,significance,0.18119323253631592,83
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,worldview,0.21326006948947906,83
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,bias_check,0.1421630084514618,83
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,community,0.17934098839759827,83
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,emotion,0.18351483345031738,83
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,impact,0.17327335476875305,84
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,policy_action,0.19609768688678741,84
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,significance,0.18527482450008392,83
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,worldview,0.15794910490512848,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,bias_check,0.14333467185497284,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,community,0.18923825025558472,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,emotion,0.21790534257888794,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,impact,0.18923069536685944,84
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,policy_action,0.1872243583202362,84
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,significance,0.20257285237312317,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,worldview,0.18825584650039673,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,bias_check,0.13187621533870697,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,community,0.1749333143234253,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,emotion,0.1716073751449585,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,impact,0.17518948018550873,84
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,policy_action,0.19144894182682037,84
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,significance,0.18957404792308807,83
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,worldview,0.18000353872776031,83
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,bias_check,0.16024160385131836,83
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,community,0.17264769971370697,83
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,emotion,0.2105671465396881,83
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,impact,0.19210898876190186,84
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,policy_action,0.19401352107524872,84
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,significance,0.18819546699523926,83
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,worldview,0.21851693093776703,83
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,bias_check,0.14485140144824982,83
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,community,0.17423276603221893,83
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,emotion,0.204096719622612,83
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,impact,0.20208995044231415,84
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,policy_action,0.17798730731010437,84
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,significance,0.2221958041191101,83
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,worldview,0.19051815569400787,83
+mpnet_masked,Mistral Large 3,Mistral Medium 3,bias_check,0.08751409500837326,83
+mpnet_masked,Mistral Large 3,Mistral Medium 3,community,0.11710411310195923,83
+mpnet_masked,Mistral Large 3,Mistral Medium 3,emotion,0.13996821641921997,83
+mpnet_masked,Mistral Large 3,Mistral Medium 3,impact,0.14834684133529663,84
+mpnet_masked,Mistral Large 3,Mistral Medium 3,policy_action,0.16930556297302246,84
+mpnet_masked,Mistral Large 3,Mistral Medium 3,significance,0.11002735793590546,83
+mpnet_masked,Mistral Large 3,Mistral Medium 3,worldview,0.12174739688634872,83
+mpnet_masked,Mistral Large 3,Grok Fast,bias_check,0.15852922201156616,83
+mpnet_masked,Mistral Large 3,Grok Fast,community,0.16456502676010132,83
+mpnet_masked,Mistral Large 3,Grok Fast,emotion,0.2144346386194229,83
+mpnet_masked,Mistral Large 3,Grok Fast,impact,0.19833096861839294,84
+mpnet_masked,Mistral Large 3,Grok Fast,policy_action,0.2044139802455902,84
+mpnet_masked,Mistral Large 3,Grok Fast,significance,0.19079577922821045,83
+mpnet_masked,Mistral Large 3,Grok Fast,worldview,0.20758676528930664,83
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,bias_check,0.14034020900726318,83
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,community,0.19275499880313873,83
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,emotion,0.18671844899654388,83
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,impact,0.18946193158626556,84
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,policy_action,0.195541113615036,84
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,significance,0.20500996708869934,83
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,worldview,0.16590246558189392,83
+mpnet_masked,Mistral Medium 3,Grok Fast,bias_check,0.14225611090660095,83
+mpnet_masked,Mistral Medium 3,Grok Fast,community,0.15525442361831665,83
+mpnet_masked,Mistral Medium 3,Grok Fast,emotion,0.19822438061237335,83
+mpnet_masked,Mistral Medium 3,Grok Fast,impact,0.17473375797271729,84
+mpnet_masked,Mistral Medium 3,Grok Fast,policy_action,0.17848369479179382,84
+mpnet_masked,Mistral Medium 3,Grok Fast,significance,0.19656960666179657,83
+mpnet_masked,Mistral Medium 3,Grok Fast,worldview,0.215675950050354,83
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,bias_check,0.10805905610322952,83
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,community,0.20046156644821167,83
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,emotion,0.1673623025417328,83
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,impact,0.1685391217470169,84
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,policy_action,0.182970330119133,84
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,significance,0.21359112858772278,83
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,worldview,0.16410310566425323,83
+mpnet_masked,Grok Fast,3.5 Flash-Lite,bias_check,0.13259278237819672,83
+mpnet_masked,Grok Fast,3.5 Flash-Lite,community,0.17505201697349548,83
+mpnet_masked,Grok Fast,3.5 Flash-Lite,emotion,0.21314527094364166,83
+mpnet_masked,Grok Fast,3.5 Flash-Lite,impact,0.17411060631275177,84
+mpnet_masked,Grok Fast,3.5 Flash-Lite,policy_action,0.21000346541404724,84
+mpnet_masked,Grok Fast,3.5 Flash-Lite,significance,0.18659836053848267,83
+mpnet_masked,Grok Fast,3.5 Flash-Lite,worldview,0.18399754166603088,83
+tfidf,GPT 5.4,GPT 5.4 Mini,bias_check,0.7979169240762495,83
+tfidf,GPT 5.4,GPT 5.4 Mini,community,0.8307461868278277,83
+tfidf,GPT 5.4,GPT 5.4 Mini,emotion,0.8488406076241688,83
+tfidf,GPT 5.4,GPT 5.4 Mini,impact,0.8395393396029224,84
+tfidf,GPT 5.4,GPT 5.4 Mini,policy_action,0.822913119793029,84
+tfidf,GPT 5.4,GPT 5.4 Mini,significance,0.8475665431957674,83
+tfidf,GPT 5.4,GPT 5.4 Mini,worldview,0.8417767875851566,83
+tfidf,GPT 5.4,Claude Sonnet 4.5,bias_check,0.8513482351697484,83
+tfidf,GPT 5.4,Claude Sonnet 4.5,community,0.8797795341211955,83
+tfidf,GPT 5.4,Claude Sonnet 4.5,emotion,0.9006713577865412,83
+tfidf,GPT 5.4,Claude Sonnet 4.5,impact,0.8870399811375064,84
+tfidf,GPT 5.4,Claude Sonnet 4.5,policy_action,0.8877379481675518,84
+tfidf,GPT 5.4,Claude Sonnet 4.5,significance,0.9037417406385755,83
+tfidf,GPT 5.4,Claude Sonnet 4.5,worldview,0.9054162905484905,83
+tfidf,GPT 5.4,Claude Haiku 4.5,bias_check,0.8492370598122411,83
+tfidf,GPT 5.4,Claude Haiku 4.5,community,0.8875240091352273,83
+tfidf,GPT 5.4,Claude Haiku 4.5,emotion,0.9146762565421165,83
+tfidf,GPT 5.4,Claude Haiku 4.5,impact,0.896093405540421,84
+tfidf,GPT 5.4,Claude Haiku 4.5,policy_action,0.8881970185516344,84
+tfidf,GPT 5.4,Claude Haiku 4.5,significance,0.9108790693312265,83
+tfidf,GPT 5.4,Claude Haiku 4.5,worldview,0.9077477183775661,83
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,bias_check,0.8355517952883411,83
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,community,0.9006615632946752,83
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,emotion,0.9173783699044729,83
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,impact,0.9010944943160277,84
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,policy_action,0.8963830434829467,84
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,significance,0.9164659889640487,83
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,worldview,0.9187225523530044,83
+tfidf,GPT 5.4,Meta Llama Maverick 4,bias_check,0.8431017627166312,83
+tfidf,GPT 5.4,Meta Llama Maverick 4,community,0.9002881247481992,83
+tfidf,GPT 5.4,Meta Llama Maverick 4,emotion,0.9066497215868139,83
+tfidf,GPT 5.4,Meta Llama Maverick 4,impact,0.9005523694671025,84
+tfidf,GPT 5.4,Meta Llama Maverick 4,policy_action,0.8857253128229394,84
+tfidf,GPT 5.4,Meta Llama Maverick 4,significance,0.9122460529267824,83
+tfidf,GPT 5.4,Meta Llama Maverick 4,worldview,0.9067851441745353,83
+tfidf,GPT 5.4,Gemini 2.5 Flash,bias_check,0.8612872715737392,83
+tfidf,GPT 5.4,Gemini 2.5 Flash,community,0.9005343020685909,83
+tfidf,GPT 5.4,Gemini 2.5 Flash,emotion,0.9089369542235877,83
+tfidf,GPT 5.4,Gemini 2.5 Flash,impact,0.8978594207919599,84
+tfidf,GPT 5.4,Gemini 2.5 Flash,policy_action,0.884255999968415,84
+tfidf,GPT 5.4,Gemini 2.5 Flash,significance,0.9118856713120543,83
+tfidf,GPT 5.4,Gemini 2.5 Flash,worldview,0.9123909728013646,83
+tfidf,GPT 5.4,Gemini 2.5 Pro,bias_check,0.8495642057031078,83
+tfidf,GPT 5.4,Gemini 2.5 Pro,community,0.8975747880557449,83
+tfidf,GPT 5.4,Gemini 2.5 Pro,emotion,0.9043026266993486,83
+tfidf,GPT 5.4,Gemini 2.5 Pro,impact,0.8994469324375852,84
+tfidf,GPT 5.4,Gemini 2.5 Pro,policy_action,0.8830959544931267,84
+tfidf,GPT 5.4,Gemini 2.5 Pro,significance,0.9078547899338335,83
+tfidf,GPT 5.4,Gemini 2.5 Pro,worldview,0.904807634799685,83
+tfidf,GPT 5.4,Mistral Large 3,bias_check,0.8399936973620081,83
+tfidf,GPT 5.4,Mistral Large 3,community,0.887677280480196,83
+tfidf,GPT 5.4,Mistral Large 3,emotion,0.9073917862670366,83
+tfidf,GPT 5.4,Mistral Large 3,impact,0.8933706995558707,84
+tfidf,GPT 5.4,Mistral Large 3,policy_action,0.8903615278326236,84
+tfidf,GPT 5.4,Mistral Large 3,significance,0.9086861833796402,83
+tfidf,GPT 5.4,Mistral Large 3,worldview,0.9014233456072541,83
+tfidf,GPT 5.4,Mistral Medium 3,bias_check,0.8350775259184792,83
+tfidf,GPT 5.4,Mistral Medium 3,community,0.8841076543016098,83
+tfidf,GPT 5.4,Mistral Medium 3,emotion,0.903149917794219,83
+tfidf,GPT 5.4,Mistral Medium 3,impact,0.8856198427706342,84
+tfidf,GPT 5.4,Mistral Medium 3,policy_action,0.8776678399724466,84
+tfidf,GPT 5.4,Mistral Medium 3,significance,0.9086699989509978,83
+tfidf,GPT 5.4,Mistral Medium 3,worldview,0.897032904605665,83
+tfidf,GPT 5.4,Grok Fast,bias_check,0.845678667547954,83
+tfidf,GPT 5.4,Grok Fast,community,0.8718031132394805,83
+tfidf,GPT 5.4,Grok Fast,emotion,0.8989814544771367,83
+tfidf,GPT 5.4,Grok Fast,impact,0.87895519165542,84
+tfidf,GPT 5.4,Grok Fast,policy_action,0.8630109830381314,84
+tfidf,GPT 5.4,Grok Fast,significance,0.8827560842456781,83
+tfidf,GPT 5.4,Grok Fast,worldview,0.8982806051940324,83
+tfidf,GPT 5.4,3.5 Flash-Lite,bias_check,0.8540120290910949,83
+tfidf,GPT 5.4,3.5 Flash-Lite,community,0.893860483824863,83
+tfidf,GPT 5.4,3.5 Flash-Lite,emotion,0.9093387955133585,83
+tfidf,GPT 5.4,3.5 Flash-Lite,impact,0.8954851720556101,84
+tfidf,GPT 5.4,3.5 Flash-Lite,policy_action,0.8910355624191366,84
+tfidf,GPT 5.4,3.5 Flash-Lite,significance,0.9063891917560556,83
+tfidf,GPT 5.4,3.5 Flash-Lite,worldview,0.9046216730392003,83
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,bias_check,0.8506716357684541,83
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,community,0.8845069629306074,83
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,emotion,0.9054653289490299,83
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,impact,0.8869746894704992,84
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,policy_action,0.8853055759038719,84
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,significance,0.9100519835789179,83
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,worldview,0.911129517238434,83
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,bias_check,0.8438695182773693,83
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,community,0.8856738491197547,83
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,emotion,0.9156588594440037,83
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,impact,0.8932786116308326,84
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,policy_action,0.8827560644647383,84
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,significance,0.9128946997117705,83
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,worldview,0.9154845893574367,83
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bias_check,0.8303051605717167,83
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,community,0.8879282515041569,83
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,emotion,0.9081546187649931,83
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,impact,0.8835899390075042,84
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,policy_action,0.8839745226673985,84
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,significance,0.9070150017210065,83
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,worldview,0.9053344144303127,83
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,bias_check,0.8345302510744864,83
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,community,0.8906944552151388,83
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,emotion,0.8989681519958361,83
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,impact,0.8919888366788127,84
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,policy_action,0.8794872788645672,84
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,significance,0.9097519973486382,83
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,worldview,0.8989853223355355,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,bias_check,0.8591348659018535,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,community,0.9029612999783133,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,emotion,0.9120493027393788,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,impact,0.8951866278730081,84
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,policy_action,0.8901971948301475,84
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,significance,0.913096468799939,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,worldview,0.9081003473124578,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,bias_check,0.8530966396326107,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,community,0.9009339401124605,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,emotion,0.9079049742082926,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,impact,0.8944085297296389,84
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,policy_action,0.8851654763072067,84
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,significance,0.9093669213173156,83
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,worldview,0.9063147056660339,83
+tfidf,GPT 5.4 Mini,Mistral Large 3,bias_check,0.8428275707147135,83
+tfidf,GPT 5.4 Mini,Mistral Large 3,community,0.8856331514089104,83
+tfidf,GPT 5.4 Mini,Mistral Large 3,emotion,0.9050218901095667,83
+tfidf,GPT 5.4 Mini,Mistral Large 3,impact,0.8912132381067905,84
+tfidf,GPT 5.4 Mini,Mistral Large 3,policy_action,0.8936715787766658,84
+tfidf,GPT 5.4 Mini,Mistral Large 3,significance,0.9023569888374184,83
+tfidf,GPT 5.4 Mini,Mistral Large 3,worldview,0.9020445437883444,83
+tfidf,GPT 5.4 Mini,Mistral Medium 3,bias_check,0.8276183872011789,83
+tfidf,GPT 5.4 Mini,Mistral Medium 3,community,0.8789416764842974,83
+tfidf,GPT 5.4 Mini,Mistral Medium 3,emotion,0.8961481686876615,83
+tfidf,GPT 5.4 Mini,Mistral Medium 3,impact,0.880589427613503,84
+tfidf,GPT 5.4 Mini,Mistral Medium 3,policy_action,0.8725251129300756,84
+tfidf,GPT 5.4 Mini,Mistral Medium 3,significance,0.9024356785400209,83
+tfidf,GPT 5.4 Mini,Mistral Medium 3,worldview,0.8964745287437282,83
+tfidf,GPT 5.4 Mini,Grok Fast,bias_check,0.8562915898418646,83
+tfidf,GPT 5.4 Mini,Grok Fast,community,0.8920991635833029,83
+tfidf,GPT 5.4 Mini,Grok Fast,emotion,0.906769383543057,83
+tfidf,GPT 5.4 Mini,Grok Fast,impact,0.8934746537723509,84
+tfidf,GPT 5.4 Mini,Grok Fast,policy_action,0.8823751152149791,84
+tfidf,GPT 5.4 Mini,Grok Fast,significance,0.8982327253836858,83
+tfidf,GPT 5.4 Mini,Grok Fast,worldview,0.9107731913837682,83
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,bias_check,0.8618428318127697,83
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,community,0.9014911451483638,83
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,emotion,0.9144963670698676,83
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,impact,0.9013052338883105,84
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,policy_action,0.8965611564969223,84
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,significance,0.9130045952106123,83
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,worldview,0.9160928895576325,83
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,bias_check,0.7770929537376863,83
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,community,0.8192935092646358,83
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,emotion,0.8486870269183033,83
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,impact,0.8417383890433764,84
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,policy_action,0.8364433399806999,84
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,significance,0.8533407773100031,83
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,worldview,0.8522923157612531,83
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bias_check,0.8053338864063015,83
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,community,0.8564387918658102,83
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,emotion,0.8966633875962385,83
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,impact,0.880647667987333,84
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,policy_action,0.8548342984256893,84
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,significance,0.9047271518584292,83
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,worldview,0.9175444798927042,83
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,bias_check,0.8069415693006593,83
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,community,0.8669228120302184,83
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,emotion,0.8930493501606217,83
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,impact,0.8932280779963584,84
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,policy_action,0.8508637619818535,84
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,significance,0.9016188085091529,83
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,worldview,0.9071524707844982,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,bias_check,0.8212540044676535,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,community,0.864944458348058,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,emotion,0.8874483566680306,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,impact,0.8817473103921565,84
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,policy_action,0.8611994968619567,84
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,significance,0.8974314737120295,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,worldview,0.8906397171019815,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,bias_check,0.8198842888124952,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,community,0.8730046763838355,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,emotion,0.8837095025394994,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,impact,0.8801294519093067,84
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,policy_action,0.8500909669164338,84
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,significance,0.9038646661707942,83
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,worldview,0.8956760170700866,83
+tfidf,Claude Sonnet 4.5,Mistral Large 3,bias_check,0.8060686008770643,83
+tfidf,Claude Sonnet 4.5,Mistral Large 3,community,0.8628047322014646,83
+tfidf,Claude Sonnet 4.5,Mistral Large 3,emotion,0.8853429641903483,83
+tfidf,Claude Sonnet 4.5,Mistral Large 3,impact,0.8743659210467063,84
+tfidf,Claude Sonnet 4.5,Mistral Large 3,policy_action,0.870501801072039,84
+tfidf,Claude Sonnet 4.5,Mistral Large 3,significance,0.8831874655270849,83
+tfidf,Claude Sonnet 4.5,Mistral Large 3,worldview,0.8887454646477718,83
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,bias_check,0.791356437022154,83
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,community,0.8602244786955403,83
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,emotion,0.8711037984826309,83
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,impact,0.864089266685466,84
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,policy_action,0.8536036225042616,84
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,significance,0.8909993215111147,83
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,worldview,0.8906225450577694,83
+tfidf,Claude Sonnet 4.5,Grok Fast,bias_check,0.8642809773117752,83
+tfidf,Claude Sonnet 4.5,Grok Fast,community,0.8891352726707724,83
+tfidf,Claude Sonnet 4.5,Grok Fast,emotion,0.9115681018996703,83
+tfidf,Claude Sonnet 4.5,Grok Fast,impact,0.8998466038293715,84
+tfidf,Claude Sonnet 4.5,Grok Fast,policy_action,0.8800929710495818,84
+tfidf,Claude Sonnet 4.5,Grok Fast,significance,0.9014712168387948,83
+tfidf,Claude Sonnet 4.5,Grok Fast,worldview,0.9161881449427938,83
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,bias_check,0.8200619644776516,83
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,community,0.8719162335437182,83
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,emotion,0.87697434059446,83
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,impact,0.8789012602622622,84
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,policy_action,0.8602074619372534,84
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,significance,0.8823527138896532,83
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,worldview,0.898830024498117,83
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bias_check,0.8144808205358758,83
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,community,0.8633254102534016,83
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,emotion,0.9064735818248595,83
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,impact,0.8766804930955281,84
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,policy_action,0.8634257845181347,84
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,significance,0.9077152743260727,83
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,worldview,0.9122765429316861,83
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,bias_check,0.8149913895734042,83
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,community,0.8710167639797346,83
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,emotion,0.9005970074374658,83
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,impact,0.8881646295417464,84
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,policy_action,0.865690308898102,84
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,significance,0.9086840132709221,83
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,worldview,0.9056231113596666,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,bias_check,0.8331105714414879,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,community,0.8694762527635302,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,emotion,0.8989089411501814,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,impact,0.8810871603069546,84
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,policy_action,0.8743217890924567,84
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,significance,0.8982679540123996,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,worldview,0.8984259039393322,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,bias_check,0.8293605209601282,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,community,0.8810567611098428,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,emotion,0.896210433666719,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,impact,0.8912880981813485,84
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,policy_action,0.8703019722609076,84
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,significance,0.9113348677515111,83
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,worldview,0.9066630642195118,83
+tfidf,Claude Haiku 4.5,Mistral Large 3,bias_check,0.8145879239030658,83
+tfidf,Claude Haiku 4.5,Mistral Large 3,community,0.8720202545972797,83
+tfidf,Claude Haiku 4.5,Mistral Large 3,emotion,0.9000425130379001,83
+tfidf,Claude Haiku 4.5,Mistral Large 3,impact,0.8784661465343665,84
+tfidf,Claude Haiku 4.5,Mistral Large 3,policy_action,0.8706104342710348,84
+tfidf,Claude Haiku 4.5,Mistral Large 3,significance,0.8884258026231481,83
+tfidf,Claude Haiku 4.5,Mistral Large 3,worldview,0.8881278146953122,83
+tfidf,Claude Haiku 4.5,Mistral Medium 3,bias_check,0.7978662219558414,83
+tfidf,Claude Haiku 4.5,Mistral Medium 3,community,0.8647393505296215,83
+tfidf,Claude Haiku 4.5,Mistral Medium 3,emotion,0.8865484890471843,83
+tfidf,Claude Haiku 4.5,Mistral Medium 3,impact,0.8733409742433619,84
+tfidf,Claude Haiku 4.5,Mistral Medium 3,policy_action,0.8554675321033285,84
+tfidf,Claude Haiku 4.5,Mistral Medium 3,significance,0.8885801665925508,83
+tfidf,Claude Haiku 4.5,Mistral Medium 3,worldview,0.8904922395321253,83
+tfidf,Claude Haiku 4.5,Grok Fast,bias_check,0.8572623510278583,83
+tfidf,Claude Haiku 4.5,Grok Fast,community,0.8980948586779959,83
+tfidf,Claude Haiku 4.5,Grok Fast,emotion,0.9198875944586459,83
+tfidf,Claude Haiku 4.5,Grok Fast,impact,0.9122421299977328,84
+tfidf,Claude Haiku 4.5,Grok Fast,policy_action,0.9010077221556795,84
+tfidf,Claude Haiku 4.5,Grok Fast,significance,0.917752769914582,83
+tfidf,Claude Haiku 4.5,Grok Fast,worldview,0.9249152162362303,83
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,bias_check,0.825336354378443,83
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,community,0.8699187611639514,83
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,emotion,0.8932149340128926,83
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,impact,0.8830161800658893,84
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,policy_action,0.8767387684470245,84
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,significance,0.9009606922699255,83
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,worldview,0.8999575620935917,83
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bias_check,0.6496138780347425,83
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,community,0.6900757475311969,83
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,emotion,0.7664927423696888,83
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,impact,0.740284365020168,84
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,policy_action,0.6890083402174353,84
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,significance,0.7892334410664703,83
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,worldview,0.7833442717812765,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bias_check,0.8046135839300449,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,community,0.8283576743264622,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,emotion,0.8863395081831195,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,impact,0.8555050937677082,84
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,policy_action,0.8377296797801379,84
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,significance,0.8790738316081097,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,worldview,0.8966880857888516,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bias_check,0.8103974070495742,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,community,0.8240661874311014,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,emotion,0.8958140036916569,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,impact,0.8769320327795058,84
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,policy_action,0.8348802233658331,84
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,significance,0.8859588483923742,83
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,worldview,0.8976538844105029,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,bias_check,0.8044630240118147,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,community,0.8668272353670043,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,emotion,0.8940852864504494,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,impact,0.8816289835934835,84
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,policy_action,0.878367736088751,84
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,significance,0.9062761395857293,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,worldview,0.8995873536236207,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,bias_check,0.7679965348761865,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,community,0.8377699229043378,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,emotion,0.875278734715245,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,impact,0.8557305147582271,84
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,policy_action,0.8422132108432047,84
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,significance,0.8819192711184536,83
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,worldview,0.8784543361780591,83
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,bias_check,0.8672379008528016,83
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,community,0.903377610461587,83
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,emotion,0.9332030007048197,83
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,impact,0.9169908354971713,84
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,policy_action,0.903071325351812,84
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,significance,0.9179408957435117,83
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,worldview,0.939238903225278,83
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bias_check,0.8195434936177811,83
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,community,0.8412859320243269,83
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,emotion,0.9061989551191749,83
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,impact,0.868478344106729,84
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,policy_action,0.8467738422094038,84
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,significance,0.8951031390653703,83
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,worldview,0.9066478847775636,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,bias_check,0.7943938907986362,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,community,0.8340242374383413,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,emotion,0.8779767218245016,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,impact,0.8639170064408471,84
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,policy_action,0.8353077371868812,84
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,significance,0.8809787601192578,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,worldview,0.8881744611878468,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,bias_check,0.804097539467576,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,community,0.8384552963477208,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,emotion,0.8865028204694041,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,impact,0.8811169437876436,84
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,policy_action,0.8381147549010767,84
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,significance,0.8849066112274989,83
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,worldview,0.8983154268179842,83
+tfidf,Meta Llama Maverick 4,Mistral Large 3,bias_check,0.8028130036755844,83
+tfidf,Meta Llama Maverick 4,Mistral Large 3,community,0.8768841949752294,83
+tfidf,Meta Llama Maverick 4,Mistral Large 3,emotion,0.8931535752306587,83
+tfidf,Meta Llama Maverick 4,Mistral Large 3,impact,0.8901731923798961,84
+tfidf,Meta Llama Maverick 4,Mistral Large 3,policy_action,0.8683221786683982,84
+tfidf,Meta Llama Maverick 4,Mistral Large 3,significance,0.9068292254328245,83
+tfidf,Meta Llama Maverick 4,Mistral Large 3,worldview,0.8910181011477346,83
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,bias_check,0.7701958515967023,83
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,community,0.851937113901989,83
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,emotion,0.8773664239608098,83
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,impact,0.8631681963314357,84
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,policy_action,0.8425331056620984,84
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,significance,0.8858654632077803,83
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,worldview,0.8764856581195481,83
+tfidf,Meta Llama Maverick 4,Grok Fast,bias_check,0.8681083594556981,83
+tfidf,Meta Llama Maverick 4,Grok Fast,community,0.9048546367743613,83
+tfidf,Meta Llama Maverick 4,Grok Fast,emotion,0.924668408362879,83
+tfidf,Meta Llama Maverick 4,Grok Fast,impact,0.9149389131424547,84
+tfidf,Meta Llama Maverick 4,Grok Fast,policy_action,0.8912254825696552,84
+tfidf,Meta Llama Maverick 4,Grok Fast,significance,0.9140640254274008,83
+tfidf,Meta Llama Maverick 4,Grok Fast,worldview,0.9303233383229528,83
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,bias_check,0.8193198487972531,83
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,community,0.8594320584723019,83
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,emotion,0.8995226226586197,83
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,impact,0.8807361761213807,84
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,policy_action,0.8496999165503686,84
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,significance,0.8864940611371811,83
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,worldview,0.9009513213879125,83
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,bias_check,0.7975291946979941,83
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,community,0.8188882482794441,83
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,emotion,0.8495436262842623,83
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,impact,0.845892248894399,84
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,policy_action,0.8192064125076008,84
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,significance,0.8734003470231306,83
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,worldview,0.8654843596315458,83
+tfidf,Gemini 2.5 Flash,Mistral Large 3,bias_check,0.8417003183992319,83
+tfidf,Gemini 2.5 Flash,Mistral Large 3,community,0.8921363884014452,83
+tfidf,Gemini 2.5 Flash,Mistral Large 3,emotion,0.8916898532568038,83
+tfidf,Gemini 2.5 Flash,Mistral Large 3,impact,0.8977333911263345,84
+tfidf,Gemini 2.5 Flash,Mistral Large 3,policy_action,0.8808888086591657,84
+tfidf,Gemini 2.5 Flash,Mistral Large 3,significance,0.9011276776111031,83
+tfidf,Gemini 2.5 Flash,Mistral Large 3,worldview,0.8938861767675279,83
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,bias_check,0.8168299214765234,83
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,community,0.8778464659641815,83
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,emotion,0.8756693952087081,83
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,impact,0.8788815003721625,84
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,policy_action,0.8570771019939646,84
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,significance,0.8897632269454829,83
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,worldview,0.8828192936837682,83
+tfidf,Gemini 2.5 Flash,Grok Fast,bias_check,0.8688478554709202,83
+tfidf,Gemini 2.5 Flash,Grok Fast,community,0.895876110262503,83
+tfidf,Gemini 2.5 Flash,Grok Fast,emotion,0.913221816172784,83
+tfidf,Gemini 2.5 Flash,Grok Fast,impact,0.9014942859993893,84
+tfidf,Gemini 2.5 Flash,Grok Fast,policy_action,0.8869390808428038,84
+tfidf,Gemini 2.5 Flash,Grok Fast,significance,0.9118367341042446,83
+tfidf,Gemini 2.5 Flash,Grok Fast,worldview,0.9253967990767905,83
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,bias_check,0.8149718783679643,83
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,community,0.8478907143456478,83
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,emotion,0.8917485100247727,83
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,impact,0.861307332267947,84
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,policy_action,0.8440540998784842,84
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,significance,0.8871885025220437,83
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,worldview,0.898078016045063,83
+tfidf,Gemini 2.5 Pro,Mistral Large 3,bias_check,0.8345834075857246,83
+tfidf,Gemini 2.5 Pro,Mistral Large 3,community,0.8989998741384985,83
+tfidf,Gemini 2.5 Pro,Mistral Large 3,emotion,0.902690559748419,83
+tfidf,Gemini 2.5 Pro,Mistral Large 3,impact,0.9025049917523692,84
+tfidf,Gemini 2.5 Pro,Mistral Large 3,policy_action,0.8874864678890872,84
+tfidf,Gemini 2.5 Pro,Mistral Large 3,significance,0.9082275762019406,83
+tfidf,Gemini 2.5 Pro,Mistral Large 3,worldview,0.9030879374281341,83
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,bias_check,0.8163560756678457,83
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,community,0.8797372100778322,83
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,emotion,0.8822898044720091,83
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,impact,0.8790961392118042,84
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,policy_action,0.8612010961374222,84
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,significance,0.89852113885866,83
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,worldview,0.8989193617340243,83
+tfidf,Gemini 2.5 Pro,Grok Fast,bias_check,0.8659482049891492,83
+tfidf,Gemini 2.5 Pro,Grok Fast,community,0.8841525240248741,83
+tfidf,Gemini 2.5 Pro,Grok Fast,emotion,0.9123787345587638,83
+tfidf,Gemini 2.5 Pro,Grok Fast,impact,0.8996730092520376,84
+tfidf,Gemini 2.5 Pro,Grok Fast,policy_action,0.8819441925967744,84
+tfidf,Gemini 2.5 Pro,Grok Fast,significance,0.9093641520340165,83
+tfidf,Gemini 2.5 Pro,Grok Fast,worldview,0.9240791423378882,83
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,bias_check,0.8262729229043397,83
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,community,0.8440872950499337,83
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,emotion,0.8830578631270296,83
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,impact,0.8669807597345285,84
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,policy_action,0.8300251392740785,84
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,significance,0.8949217092063994,83
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,worldview,0.9018617242013856,83
+tfidf,Mistral Large 3,Mistral Medium 3,bias_check,0.7488376221795615,83
+tfidf,Mistral Large 3,Mistral Medium 3,community,0.8323099127659459,83
+tfidf,Mistral Large 3,Mistral Medium 3,emotion,0.8417344045573849,83
+tfidf,Mistral Large 3,Mistral Medium 3,impact,0.8441182192453195,84
+tfidf,Mistral Large 3,Mistral Medium 3,policy_action,0.8500129170135091,84
+tfidf,Mistral Large 3,Mistral Medium 3,significance,0.8337874830542278,83
+tfidf,Mistral Large 3,Mistral Medium 3,worldview,0.836592256150887,83
+tfidf,Mistral Large 3,Grok Fast,bias_check,0.8588650038275272,83
+tfidf,Mistral Large 3,Grok Fast,community,0.9078115119812724,83
+tfidf,Mistral Large 3,Grok Fast,emotion,0.927950000702916,83
+tfidf,Mistral Large 3,Grok Fast,impact,0.9144357851049999,84
+tfidf,Mistral Large 3,Grok Fast,policy_action,0.9052702498874619,84
+tfidf,Mistral Large 3,Grok Fast,significance,0.9196133351836566,83
+tfidf,Mistral Large 3,Grok Fast,worldview,0.9267591587023354,83
+tfidf,Mistral Large 3,3.5 Flash-Lite,bias_check,0.8338763635919221,83
+tfidf,Mistral Large 3,3.5 Flash-Lite,community,0.893673395255304,83
+tfidf,Mistral Large 3,3.5 Flash-Lite,emotion,0.9056927461526009,83
+tfidf,Mistral Large 3,3.5 Flash-Lite,impact,0.8963994722068026,84
+tfidf,Mistral Large 3,3.5 Flash-Lite,policy_action,0.8867373169787636,84
+tfidf,Mistral Large 3,3.5 Flash-Lite,significance,0.9102584589660214,83
+tfidf,Mistral Large 3,3.5 Flash-Lite,worldview,0.9016502365993662,83
+tfidf,Mistral Medium 3,Grok Fast,bias_check,0.8576403820078803,83
+tfidf,Mistral Medium 3,Grok Fast,community,0.9027481980099509,83
+tfidf,Mistral Medium 3,Grok Fast,emotion,0.9212000014299817,83
+tfidf,Mistral Medium 3,Grok Fast,impact,0.9043283132005044,84
+tfidf,Mistral Medium 3,Grok Fast,policy_action,0.8922817797612177,84
+tfidf,Mistral Medium 3,Grok Fast,significance,0.921925234730492,83
+tfidf,Mistral Medium 3,Grok Fast,worldview,0.9338257241914962,83
+tfidf,Mistral Medium 3,3.5 Flash-Lite,bias_check,0.8143964496252588,83
+tfidf,Mistral Medium 3,3.5 Flash-Lite,community,0.8837484627065606,83
+tfidf,Mistral Medium 3,3.5 Flash-Lite,emotion,0.8896394849812108,83
+tfidf,Mistral Medium 3,3.5 Flash-Lite,impact,0.880067330668348,84
+tfidf,Mistral Medium 3,3.5 Flash-Lite,policy_action,0.8667720049648076,84
+tfidf,Mistral Medium 3,3.5 Flash-Lite,significance,0.9023070590792647,83
+tfidf,Mistral Medium 3,3.5 Flash-Lite,worldview,0.9013435743930269,83
+tfidf,Grok Fast,3.5 Flash-Lite,bias_check,0.8600712667553055,83
+tfidf,Grok Fast,3.5 Flash-Lite,community,0.8866162258634416,83
+tfidf,Grok Fast,3.5 Flash-Lite,emotion,0.9036131951062458,83
+tfidf,Grok Fast,3.5 Flash-Lite,impact,0.8915573450568643,84
+tfidf,Grok Fast,3.5 Flash-Lite,policy_action,0.8903970953648814,84
+tfidf,Grok Fast,3.5 Flash-Lite,significance,0.8972545190382877,83
+tfidf,Grok Fast,3.5 Flash-Lite,worldview,0.9107205123912336,83

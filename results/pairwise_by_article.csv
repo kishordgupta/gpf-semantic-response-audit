@@ -1,0 +1,529 @@
+encoder,model_a,model_b,x_group_id,mean_distance,n_prompts
+mpnet,GPT 5.4,GPT 5.4 Mini,bbc_brewdog,0.1349470317363739,294
+mpnet,GPT 5.4,GPT 5.4 Mini,reuters_denmark,0.1062818095088005,294
+mpnet,GPT 5.4,Claude Sonnet 4.5,bbc_brewdog,0.15593408048152924,294
+mpnet,GPT 5.4,Claude Sonnet 4.5,reuters_denmark,0.14094682037830353,294
+mpnet,GPT 5.4,Claude Haiku 4.5,bbc_brewdog,0.1656549572944641,294
+mpnet,GPT 5.4,Claude Haiku 4.5,reuters_denmark,0.15633808076381683,294
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,bbc_brewdog,0.18797942996025085,294
+mpnet,GPT 5.4,Meta Llama 3.3 Turbo,reuters_denmark,0.17857018113136292,294
+mpnet,GPT 5.4,Meta Llama Maverick 4,bbc_brewdog,0.17608624696731567,294
+mpnet,GPT 5.4,Meta Llama Maverick 4,reuters_denmark,0.16282108426094055,294
+mpnet,GPT 5.4,Gemini 2.5 Flash,bbc_brewdog,0.1683192104101181,294
+mpnet,GPT 5.4,Gemini 2.5 Flash,reuters_denmark,0.1485632210969925,294
+mpnet,GPT 5.4,Gemini 2.5 Pro,bbc_brewdog,0.17542840540409088,294
+mpnet,GPT 5.4,Gemini 2.5 Pro,reuters_denmark,0.14346611499786377,294
+mpnet,GPT 5.4,Mistral Large 3,bbc_brewdog,0.17010758817195892,294
+mpnet,GPT 5.4,Mistral Large 3,reuters_denmark,0.14696940779685974,294
+mpnet,GPT 5.4,Mistral Medium 3,bbc_brewdog,0.1606772541999817,294
+mpnet,GPT 5.4,Mistral Medium 3,reuters_denmark,0.14562439918518066,294
+mpnet,GPT 5.4,Grok Fast,bbc_brewdog,0.16384334862232208,294
+mpnet,GPT 5.4,Grok Fast,reuters_denmark,0.14450007677078247,294
+mpnet,GPT 5.4,3.5 Flash-Lite,bbc_brewdog,0.1761772185564041,294
+mpnet,GPT 5.4,3.5 Flash-Lite,reuters_denmark,0.15535277128219604,294
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,bbc_brewdog,0.16459788382053375,294
+mpnet,GPT 5.4 Mini,Claude Sonnet 4.5,reuters_denmark,0.13811355829238892,294
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,bbc_brewdog,0.1650804728269577,294
+mpnet,GPT 5.4 Mini,Claude Haiku 4.5,reuters_denmark,0.14507828652858734,294
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bbc_brewdog,0.1741461157798767,294
+mpnet,GPT 5.4 Mini,Meta Llama 3.3 Turbo,reuters_denmark,0.15703968703746796,294
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,bbc_brewdog,0.17010913789272308,294
+mpnet,GPT 5.4 Mini,Meta Llama Maverick 4,reuters_denmark,0.1426554173231125,294
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,bbc_brewdog,0.17424890398979187,294
+mpnet,GPT 5.4 Mini,Gemini 2.5 Flash,reuters_denmark,0.13547159731388092,294
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,bbc_brewdog,0.17976738512516022,294
+mpnet,GPT 5.4 Mini,Gemini 2.5 Pro,reuters_denmark,0.13924141228199005,294
+mpnet,GPT 5.4 Mini,Mistral Large 3,bbc_brewdog,0.1687576323747635,294
+mpnet,GPT 5.4 Mini,Mistral Large 3,reuters_denmark,0.13619105517864227,294
+mpnet,GPT 5.4 Mini,Mistral Medium 3,bbc_brewdog,0.15360486507415771,294
+mpnet,GPT 5.4 Mini,Mistral Medium 3,reuters_denmark,0.13122732937335968,294
+mpnet,GPT 5.4 Mini,Grok Fast,bbc_brewdog,0.17122717201709747,294
+mpnet,GPT 5.4 Mini,Grok Fast,reuters_denmark,0.14274103939533234,294
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,bbc_brewdog,0.17405374348163605,294
+mpnet,GPT 5.4 Mini,3.5 Flash-Lite,reuters_denmark,0.1525205820798874,294
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,bbc_brewdog,0.13059768080711365,294
+mpnet,Claude Sonnet 4.5,Claude Haiku 4.5,reuters_denmark,0.09830392897129059,294
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.15682385861873627,294
+mpnet,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.1364319771528244,294
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,bbc_brewdog,0.14579851925373077,294
+mpnet,Claude Sonnet 4.5,Meta Llama Maverick 4,reuters_denmark,0.13323092460632324,294
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,bbc_brewdog,0.1378113329410553,294
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Flash,reuters_denmark,0.1166190356016159,294
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,bbc_brewdog,0.1539555788040161,294
+mpnet,Claude Sonnet 4.5,Gemini 2.5 Pro,reuters_denmark,0.13508416712284088,294
+mpnet,Claude Sonnet 4.5,Mistral Large 3,bbc_brewdog,0.1435166746377945,294
+mpnet,Claude Sonnet 4.5,Mistral Large 3,reuters_denmark,0.11576638370752335,294
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,bbc_brewdog,0.14252358675003052,294
+mpnet,Claude Sonnet 4.5,Mistral Medium 3,reuters_denmark,0.11255764961242676,294
+mpnet,Claude Sonnet 4.5,Grok Fast,bbc_brewdog,0.15595559775829315,294
+mpnet,Claude Sonnet 4.5,Grok Fast,reuters_denmark,0.14103050529956818,294
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,bbc_brewdog,0.14902549982070923,294
+mpnet,Claude Sonnet 4.5,3.5 Flash-Lite,reuters_denmark,0.13394001126289368,294
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.15264667570590973,294
+mpnet,Claude Haiku 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.12706004083156586,294
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,bbc_brewdog,0.14838381111621857,294
+mpnet,Claude Haiku 4.5,Meta Llama Maverick 4,reuters_denmark,0.1255279779434204,294
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,bbc_brewdog,0.14514125883579254,294
+mpnet,Claude Haiku 4.5,Gemini 2.5 Flash,reuters_denmark,0.1137411817908287,294
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,bbc_brewdog,0.1709548830986023,294
+mpnet,Claude Haiku 4.5,Gemini 2.5 Pro,reuters_denmark,0.13771267235279083,294
+mpnet,Claude Haiku 4.5,Mistral Large 3,bbc_brewdog,0.1323089599609375,294
+mpnet,Claude Haiku 4.5,Mistral Large 3,reuters_denmark,0.10973618924617767,294
+mpnet,Claude Haiku 4.5,Mistral Medium 3,bbc_brewdog,0.13751119375228882,294
+mpnet,Claude Haiku 4.5,Mistral Medium 3,reuters_denmark,0.10815051198005676,294
+mpnet,Claude Haiku 4.5,Grok Fast,bbc_brewdog,0.17291182279586792,294
+mpnet,Claude Haiku 4.5,Grok Fast,reuters_denmark,0.1444743424654007,294
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,bbc_brewdog,0.16569243371486664,294
+mpnet,Claude Haiku 4.5,3.5 Flash-Lite,reuters_denmark,0.13698266446590424,294
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bbc_brewdog,0.09921621531248093,294
+mpnet,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,reuters_denmark,0.08131551742553711,294
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bbc_brewdog,0.16239328682422638,294
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,reuters_denmark,0.12452849745750427,294
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bbc_brewdog,0.18946045637130737,294
+mpnet,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,reuters_denmark,0.14769347012043,294
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,bbc_brewdog,0.1463676244020462,294
+mpnet,Meta Llama 3.3 Turbo,Mistral Large 3,reuters_denmark,0.13489826023578644,294
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,bbc_brewdog,0.13678304851055145,294
+mpnet,Meta Llama 3.3 Turbo,Mistral Medium 3,reuters_denmark,0.11720597743988037,294
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,bbc_brewdog,0.18645913898944855,294
+mpnet,Meta Llama 3.3 Turbo,Grok Fast,reuters_denmark,0.16873718798160553,294
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bbc_brewdog,0.16618141531944275,294
+mpnet,Meta Llama 3.3 Turbo,3.5 Flash-Lite,reuters_denmark,0.1579737663269043,294
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,bbc_brewdog,0.15590190887451172,294
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Flash,reuters_denmark,0.1162092536687851,294
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,bbc_brewdog,0.17446565628051758,294
+mpnet,Meta Llama Maverick 4,Gemini 2.5 Pro,reuters_denmark,0.13948188722133636,294
+mpnet,Meta Llama Maverick 4,Mistral Large 3,bbc_brewdog,0.14797721803188324,294
+mpnet,Meta Llama Maverick 4,Mistral Large 3,reuters_denmark,0.1262594759464264,294
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,bbc_brewdog,0.14331519603729248,294
+mpnet,Meta Llama Maverick 4,Mistral Medium 3,reuters_denmark,0.1135655865073204,294
+mpnet,Meta Llama Maverick 4,Grok Fast,bbc_brewdog,0.17313963174819946,294
+mpnet,Meta Llama Maverick 4,Grok Fast,reuters_denmark,0.15445542335510254,294
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,bbc_brewdog,0.15705806016921997,294
+mpnet,Meta Llama Maverick 4,3.5 Flash-Lite,reuters_denmark,0.15100252628326416,294
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,bbc_brewdog,0.1557413935661316,294
+mpnet,Gemini 2.5 Flash,Gemini 2.5 Pro,reuters_denmark,0.12260545790195465,294
+mpnet,Gemini 2.5 Flash,Mistral Large 3,bbc_brewdog,0.14728179574012756,294
+mpnet,Gemini 2.5 Flash,Mistral Large 3,reuters_denmark,0.12032431364059448,294
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,bbc_brewdog,0.14029733836650848,294
+mpnet,Gemini 2.5 Flash,Mistral Medium 3,reuters_denmark,0.10801684111356735,294
+mpnet,Gemini 2.5 Flash,Grok Fast,bbc_brewdog,0.16997481882572174,294
+mpnet,Gemini 2.5 Flash,Grok Fast,reuters_denmark,0.1380450427532196,294
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,bbc_brewdog,0.15724854171276093,294
+mpnet,Gemini 2.5 Flash,3.5 Flash-Lite,reuters_denmark,0.13188350200653076,294
+mpnet,Gemini 2.5 Pro,Mistral Large 3,bbc_brewdog,0.1838262379169464,294
+mpnet,Gemini 2.5 Pro,Mistral Large 3,reuters_denmark,0.14099246263504028,294
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,bbc_brewdog,0.16459102928638458,294
+mpnet,Gemini 2.5 Pro,Mistral Medium 3,reuters_denmark,0.130426287651062,294
+mpnet,Gemini 2.5 Pro,Grok Fast,bbc_brewdog,0.17887581884860992,294
+mpnet,Gemini 2.5 Pro,Grok Fast,reuters_denmark,0.14305725693702698,294
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,bbc_brewdog,0.17142260074615479,294
+mpnet,Gemini 2.5 Pro,3.5 Flash-Lite,reuters_denmark,0.14947472512722015,294
+mpnet,Mistral Large 3,Mistral Medium 3,bbc_brewdog,0.11191922426223755,294
+mpnet,Mistral Large 3,Mistral Medium 3,reuters_denmark,0.09825082123279572,294
+mpnet,Mistral Large 3,Grok Fast,bbc_brewdog,0.18330810964107513,294
+mpnet,Mistral Large 3,Grok Fast,reuters_denmark,0.15208479762077332,294
+mpnet,Mistral Large 3,3.5 Flash-Lite,bbc_brewdog,0.17797575891017914,294
+mpnet,Mistral Large 3,3.5 Flash-Lite,reuters_denmark,0.14205032587051392,294
+mpnet,Mistral Medium 3,Grok Fast,bbc_brewdog,0.1734829843044281,294
+mpnet,Mistral Medium 3,Grok Fast,reuters_denmark,0.13370098173618317,294
+mpnet,Mistral Medium 3,3.5 Flash-Lite,bbc_brewdog,0.16537237167358398,294
+mpnet,Mistral Medium 3,3.5 Flash-Lite,reuters_denmark,0.13648948073387146,294
+mpnet,Grok Fast,3.5 Flash-Lite,bbc_brewdog,0.16892170906066895,294
+mpnet,Grok Fast,3.5 Flash-Lite,reuters_denmark,0.1539401412010193,294
+minilm,GPT 5.4,GPT 5.4 Mini,bbc_brewdog,0.17974050343036652,294
+minilm,GPT 5.4,GPT 5.4 Mini,reuters_denmark,0.12767833471298218,294
+minilm,GPT 5.4,Claude Sonnet 4.5,bbc_brewdog,0.19570863246917725,294
+minilm,GPT 5.4,Claude Sonnet 4.5,reuters_denmark,0.15258871018886566,294
+minilm,GPT 5.4,Claude Haiku 4.5,bbc_brewdog,0.19827556610107422,294
+minilm,GPT 5.4,Claude Haiku 4.5,reuters_denmark,0.14976142346858978,294
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,bbc_brewdog,0.22018131613731384,294
+minilm,GPT 5.4,Meta Llama 3.3 Turbo,reuters_denmark,0.17871467769145966,294
+minilm,GPT 5.4,Meta Llama Maverick 4,bbc_brewdog,0.21556895971298218,294
+minilm,GPT 5.4,Meta Llama Maverick 4,reuters_denmark,0.1610669195652008,294
+minilm,GPT 5.4,Gemini 2.5 Flash,bbc_brewdog,0.19959695637226105,294
+minilm,GPT 5.4,Gemini 2.5 Flash,reuters_denmark,0.15834277868270874,294
+minilm,GPT 5.4,Gemini 2.5 Pro,bbc_brewdog,0.21110202372074127,294
+minilm,GPT 5.4,Gemini 2.5 Pro,reuters_denmark,0.16647754609584808,294
+minilm,GPT 5.4,Mistral Large 3,bbc_brewdog,0.18999473750591278,294
+minilm,GPT 5.4,Mistral Large 3,reuters_denmark,0.15430250763893127,294
+minilm,GPT 5.4,Mistral Medium 3,bbc_brewdog,0.1850547343492508,294
+minilm,GPT 5.4,Mistral Medium 3,reuters_denmark,0.15411974489688873,294
+minilm,GPT 5.4,Grok Fast,bbc_brewdog,0.21659886837005615,294
+minilm,GPT 5.4,Grok Fast,reuters_denmark,0.1678607165813446,294
+minilm,GPT 5.4,3.5 Flash-Lite,bbc_brewdog,0.22465763986110687,294
+minilm,GPT 5.4,3.5 Flash-Lite,reuters_denmark,0.17963993549346924,294
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,bbc_brewdog,0.2094184011220932,294
+minilm,GPT 5.4 Mini,Claude Sonnet 4.5,reuters_denmark,0.16036120057106018,294
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,bbc_brewdog,0.19904088973999023,294
+minilm,GPT 5.4 Mini,Claude Haiku 4.5,reuters_denmark,0.15571121871471405,294
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bbc_brewdog,0.20010167360305786,294
+minilm,GPT 5.4 Mini,Meta Llama 3.3 Turbo,reuters_denmark,0.1662832796573639,294
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,bbc_brewdog,0.20098496973514557,294
+minilm,GPT 5.4 Mini,Meta Llama Maverick 4,reuters_denmark,0.15375764667987823,294
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,bbc_brewdog,0.21716222167015076,294
+minilm,GPT 5.4 Mini,Gemini 2.5 Flash,reuters_denmark,0.16271772980690002,294
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,bbc_brewdog,0.2159256637096405,294
+minilm,GPT 5.4 Mini,Gemini 2.5 Pro,reuters_denmark,0.16519172489643097,294
+minilm,GPT 5.4 Mini,Mistral Large 3,bbc_brewdog,0.19126492738723755,294
+minilm,GPT 5.4 Mini,Mistral Large 3,reuters_denmark,0.1588944047689438,294
+minilm,GPT 5.4 Mini,Mistral Medium 3,bbc_brewdog,0.18166959285736084,294
+minilm,GPT 5.4 Mini,Mistral Medium 3,reuters_denmark,0.1542496383190155,294
+minilm,GPT 5.4 Mini,Grok Fast,bbc_brewdog,0.2401043176651001,294
+minilm,GPT 5.4 Mini,Grok Fast,reuters_denmark,0.17985576391220093,294
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,bbc_brewdog,0.22431348264217377,294
+minilm,GPT 5.4 Mini,3.5 Flash-Lite,reuters_denmark,0.18477857112884521,294
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,bbc_brewdog,0.16372878849506378,294
+minilm,Claude Sonnet 4.5,Claude Haiku 4.5,reuters_denmark,0.11367899179458618,294
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.21594558656215668,294
+minilm,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.1729470044374466,294
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,bbc_brewdog,0.2100403904914856,294
+minilm,Claude Sonnet 4.5,Meta Llama Maverick 4,reuters_denmark,0.1644466072320938,294
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,bbc_brewdog,0.17691200971603394,294
+minilm,Claude Sonnet 4.5,Gemini 2.5 Flash,reuters_denmark,0.1447947472333908,294
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,bbc_brewdog,0.18479105830192566,294
+minilm,Claude Sonnet 4.5,Gemini 2.5 Pro,reuters_denmark,0.15637162327766418,294
+minilm,Claude Sonnet 4.5,Mistral Large 3,bbc_brewdog,0.18110492825508118,294
+minilm,Claude Sonnet 4.5,Mistral Large 3,reuters_denmark,0.13771425187587738,294
+minilm,Claude Sonnet 4.5,Mistral Medium 3,bbc_brewdog,0.17943085730075836,294
+minilm,Claude Sonnet 4.5,Mistral Medium 3,reuters_denmark,0.1383107751607895,294
+minilm,Claude Sonnet 4.5,Grok Fast,bbc_brewdog,0.20692388713359833,294
+minilm,Claude Sonnet 4.5,Grok Fast,reuters_denmark,0.1784224510192871,294
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,bbc_brewdog,0.19609296321868896,294
+minilm,Claude Sonnet 4.5,3.5 Flash-Lite,reuters_denmark,0.16437122225761414,294
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.21035976707935333,294
+minilm,Claude Haiku 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.16257087886333466,294
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,bbc_brewdog,0.21023815870285034,294
+minilm,Claude Haiku 4.5,Meta Llama Maverick 4,reuters_denmark,0.15407425165176392,294
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,bbc_brewdog,0.19387446343898773,294
+minilm,Claude Haiku 4.5,Gemini 2.5 Flash,reuters_denmark,0.13952721655368805,294
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,bbc_brewdog,0.19963116943836212,294
+minilm,Claude Haiku 4.5,Gemini 2.5 Pro,reuters_denmark,0.1525934636592865,294
+minilm,Claude Haiku 4.5,Mistral Large 3,bbc_brewdog,0.17608226835727692,294
+minilm,Claude Haiku 4.5,Mistral Large 3,reuters_denmark,0.13204914331436157,294
+minilm,Claude Haiku 4.5,Mistral Medium 3,bbc_brewdog,0.17465940117835999,294
+minilm,Claude Haiku 4.5,Mistral Medium 3,reuters_denmark,0.13420213758945465,294
+minilm,Claude Haiku 4.5,Grok Fast,bbc_brewdog,0.2311762124300003,294
+minilm,Claude Haiku 4.5,Grok Fast,reuters_denmark,0.18281830847263336,294
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,bbc_brewdog,0.21517007052898407,294
+minilm,Claude Haiku 4.5,3.5 Flash-Lite,reuters_denmark,0.1660551279783249,294
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bbc_brewdog,0.13254378736019135,294
+minilm,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,reuters_denmark,0.1138344332575798,294
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bbc_brewdog,0.2169710397720337,294
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,reuters_denmark,0.16727396845817566,294
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bbc_brewdog,0.22087177634239197,294
+minilm,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,reuters_denmark,0.16938459873199463,294
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,bbc_brewdog,0.19664700329303741,294
+minilm,Meta Llama 3.3 Turbo,Mistral Large 3,reuters_denmark,0.1679680198431015,294
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,bbc_brewdog,0.18946121633052826,294
+minilm,Meta Llama 3.3 Turbo,Mistral Medium 3,reuters_denmark,0.1560666859149933,294
+minilm,Meta Llama 3.3 Turbo,Grok Fast,bbc_brewdog,0.2615790367126465,294
+minilm,Meta Llama 3.3 Turbo,Grok Fast,reuters_denmark,0.21856717765331268,294
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bbc_brewdog,0.2114383578300476,294
+minilm,Meta Llama 3.3 Turbo,3.5 Flash-Lite,reuters_denmark,0.19922985136508942,294
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,bbc_brewdog,0.20356382429599762,294
+minilm,Meta Llama Maverick 4,Gemini 2.5 Flash,reuters_denmark,0.14449162781238556,294
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,bbc_brewdog,0.21698039770126343,294
+minilm,Meta Llama Maverick 4,Gemini 2.5 Pro,reuters_denmark,0.1617087572813034,294
+minilm,Meta Llama Maverick 4,Mistral Large 3,bbc_brewdog,0.1960955560207367,294
+minilm,Meta Llama Maverick 4,Mistral Large 3,reuters_denmark,0.16005493700504303,294
+minilm,Meta Llama Maverick 4,Mistral Medium 3,bbc_brewdog,0.19759514927864075,294
+minilm,Meta Llama Maverick 4,Mistral Medium 3,reuters_denmark,0.1421559453010559,294
+minilm,Meta Llama Maverick 4,Grok Fast,bbc_brewdog,0.23905888199806213,294
+minilm,Meta Llama Maverick 4,Grok Fast,reuters_denmark,0.192544087767601,294
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,bbc_brewdog,0.20633722841739655,294
+minilm,Meta Llama Maverick 4,3.5 Flash-Lite,reuters_denmark,0.18778125941753387,294
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,bbc_brewdog,0.17876221239566803,294
+minilm,Gemini 2.5 Flash,Gemini 2.5 Pro,reuters_denmark,0.137727290391922,294
+minilm,Gemini 2.5 Flash,Mistral Large 3,bbc_brewdog,0.18657054007053375,294
+minilm,Gemini 2.5 Flash,Mistral Large 3,reuters_denmark,0.15032462775707245,294
+minilm,Gemini 2.5 Flash,Mistral Medium 3,bbc_brewdog,0.18011657893657684,294
+minilm,Gemini 2.5 Flash,Mistral Medium 3,reuters_denmark,0.1385464072227478,294
+minilm,Gemini 2.5 Flash,Grok Fast,bbc_brewdog,0.21052245795726776,294
+minilm,Gemini 2.5 Flash,Grok Fast,reuters_denmark,0.17031311988830566,294
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,bbc_brewdog,0.2053011804819107,294
+minilm,Gemini 2.5 Flash,3.5 Flash-Lite,reuters_denmark,0.16808274388313293,294
+minilm,Gemini 2.5 Pro,Mistral Large 3,bbc_brewdog,0.20616503059864044,294
+minilm,Gemini 2.5 Pro,Mistral Large 3,reuters_denmark,0.16398830711841583,294
+minilm,Gemini 2.5 Pro,Mistral Medium 3,bbc_brewdog,0.18748125433921814,294
+minilm,Gemini 2.5 Pro,Mistral Medium 3,reuters_denmark,0.14764510095119476,294
+minilm,Gemini 2.5 Pro,Grok Fast,bbc_brewdog,0.2234496772289276,294
+minilm,Gemini 2.5 Pro,Grok Fast,reuters_denmark,0.17857567965984344,294
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,bbc_brewdog,0.20506566762924194,294
+minilm,Gemini 2.5 Pro,3.5 Flash-Lite,reuters_denmark,0.18134813010692596,294
+minilm,Mistral Large 3,Mistral Medium 3,bbc_brewdog,0.14973677694797516,294
+minilm,Mistral Large 3,Mistral Medium 3,reuters_denmark,0.11925389617681503,294
+minilm,Mistral Large 3,Grok Fast,bbc_brewdog,0.21871966123580933,294
+minilm,Mistral Large 3,Grok Fast,reuters_denmark,0.19192007184028625,294
+minilm,Mistral Large 3,3.5 Flash-Lite,bbc_brewdog,0.21588972210884094,294
+minilm,Mistral Large 3,3.5 Flash-Lite,reuters_denmark,0.17808155715465546,294
+minilm,Mistral Medium 3,Grok Fast,bbc_brewdog,0.2232586294412613,294
+minilm,Mistral Medium 3,Grok Fast,reuters_denmark,0.18166488409042358,294
+minilm,Mistral Medium 3,3.5 Flash-Lite,bbc_brewdog,0.21032540500164032,294
+minilm,Mistral Medium 3,3.5 Flash-Lite,reuters_denmark,0.17489735782146454,294
+minilm,Grok Fast,3.5 Flash-Lite,bbc_brewdog,0.22723105549812317,294
+minilm,Grok Fast,3.5 Flash-Lite,reuters_denmark,0.19698746502399445,294
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,bbc_brewdog,0.15875010192394257,294
+mpnet_masked,GPT 5.4,GPT 5.4 Mini,reuters_denmark,0.12765146791934967,294
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,bbc_brewdog,0.18488381803035736,294
+mpnet_masked,GPT 5.4,Claude Sonnet 4.5,reuters_denmark,0.1699485331773758,294
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,bbc_brewdog,0.19084082543849945,294
+mpnet_masked,GPT 5.4,Claude Haiku 4.5,reuters_denmark,0.1851591318845749,294
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,bbc_brewdog,0.2277829647064209,294
+mpnet_masked,GPT 5.4,Meta Llama 3.3 Turbo,reuters_denmark,0.2193983644247055,294
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,bbc_brewdog,0.22418804466724396,294
+mpnet_masked,GPT 5.4,Meta Llama Maverick 4,reuters_denmark,0.20706263184547424,294
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,bbc_brewdog,0.20001356303691864,294
+mpnet_masked,GPT 5.4,Gemini 2.5 Flash,reuters_denmark,0.17949746549129486,294
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,bbc_brewdog,0.20917153358459473,294
+mpnet_masked,GPT 5.4,Gemini 2.5 Pro,reuters_denmark,0.17079071700572968,294
+mpnet_masked,GPT 5.4,Mistral Large 3,bbc_brewdog,0.19210700690746307,294
+mpnet_masked,GPT 5.4,Mistral Large 3,reuters_denmark,0.16812901198863983,294
+mpnet_masked,GPT 5.4,Mistral Medium 3,bbc_brewdog,0.18297787010669708,294
+mpnet_masked,GPT 5.4,Mistral Medium 3,reuters_denmark,0.17206881940364838,294
+mpnet_masked,GPT 5.4,Grok Fast,bbc_brewdog,0.18565122783184052,294
+mpnet_masked,GPT 5.4,Grok Fast,reuters_denmark,0.16831442713737488,294
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,bbc_brewdog,0.20218364894390106,294
+mpnet_masked,GPT 5.4,3.5 Flash-Lite,reuters_denmark,0.18194495141506195,294
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,bbc_brewdog,0.19585785269737244,294
+mpnet_masked,GPT 5.4 Mini,Claude Sonnet 4.5,reuters_denmark,0.1649884283542633,294
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,bbc_brewdog,0.193656787276268,294
+mpnet_masked,GPT 5.4 Mini,Claude Haiku 4.5,reuters_denmark,0.17029868066310883,294
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bbc_brewdog,0.22232742607593536,294
+mpnet_masked,GPT 5.4 Mini,Meta Llama 3.3 Turbo,reuters_denmark,0.1966550350189209,294
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,bbc_brewdog,0.2220868468284607,294
+mpnet_masked,GPT 5.4 Mini,Meta Llama Maverick 4,reuters_denmark,0.18647348880767822,294
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,bbc_brewdog,0.21097807586193085,294
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Flash,reuters_denmark,0.16621074080467224,294
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,bbc_brewdog,0.21710507571697235,294
+mpnet_masked,GPT 5.4 Mini,Gemini 2.5 Pro,reuters_denmark,0.16705664992332458,294
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,bbc_brewdog,0.1971488744020462,294
+mpnet_masked,GPT 5.4 Mini,Mistral Large 3,reuters_denmark,0.1575402319431305,294
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,bbc_brewdog,0.1824791431427002,294
+mpnet_masked,GPT 5.4 Mini,Mistral Medium 3,reuters_denmark,0.15758207440376282,294
+mpnet_masked,GPT 5.4 Mini,Grok Fast,bbc_brewdog,0.20060032606124878,294
+mpnet_masked,GPT 5.4 Mini,Grok Fast,reuters_denmark,0.1687040776014328,294
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,bbc_brewdog,0.2055901288986206,294
+mpnet_masked,GPT 5.4 Mini,3.5 Flash-Lite,reuters_denmark,0.1802389770746231,294
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,bbc_brewdog,0.15257392823696136,294
+mpnet_masked,Claude Sonnet 4.5,Claude Haiku 4.5,reuters_denmark,0.12013638764619827,294
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.1973542720079422,294
+mpnet_masked,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.1748942732810974,294
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,bbc_brewdog,0.19117721915245056,294
+mpnet_masked,Claude Sonnet 4.5,Meta Llama Maverick 4,reuters_denmark,0.1720072627067566,294
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,bbc_brewdog,0.17201972007751465,294
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Flash,reuters_denmark,0.1479087620973587,294
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,bbc_brewdog,0.18641366064548492,294
+mpnet_masked,Claude Sonnet 4.5,Gemini 2.5 Pro,reuters_denmark,0.1599990725517273,294
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,bbc_brewdog,0.17416098713874817,294
+mpnet_masked,Claude Sonnet 4.5,Mistral Large 3,reuters_denmark,0.13894222676753998,294
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,bbc_brewdog,0.17123432457447052,294
+mpnet_masked,Claude Sonnet 4.5,Mistral Medium 3,reuters_denmark,0.1381598263978958,294
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,bbc_brewdog,0.18243646621704102,294
+mpnet_masked,Claude Sonnet 4.5,Grok Fast,reuters_denmark,0.1688724011182785,294
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,bbc_brewdog,0.17886614799499512,294
+mpnet_masked,Claude Sonnet 4.5,3.5 Flash-Lite,reuters_denmark,0.15852080285549164,294
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.1892937868833542,294
+mpnet_masked,Claude Haiku 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.16904622316360474,294
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,bbc_brewdog,0.18931393325328827,294
+mpnet_masked,Claude Haiku 4.5,Meta Llama Maverick 4,reuters_denmark,0.16628994047641754,294
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,bbc_brewdog,0.17451892793178558,294
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Flash,reuters_denmark,0.14147710800170898,294
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,bbc_brewdog,0.20063595473766327,294
+mpnet_masked,Claude Haiku 4.5,Gemini 2.5 Pro,reuters_denmark,0.16381607949733734,294
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,bbc_brewdog,0.16079646348953247,294
+mpnet_masked,Claude Haiku 4.5,Mistral Large 3,reuters_denmark,0.13319683074951172,294
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,bbc_brewdog,0.16331985592842102,294
+mpnet_masked,Claude Haiku 4.5,Mistral Medium 3,reuters_denmark,0.1347329020500183,294
+mpnet_masked,Claude Haiku 4.5,Grok Fast,bbc_brewdog,0.1967802494764328,294
+mpnet_masked,Claude Haiku 4.5,Grok Fast,reuters_denmark,0.17016004025936127,294
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,bbc_brewdog,0.19256606698036194,294
+mpnet_masked,Claude Haiku 4.5,3.5 Flash-Lite,reuters_denmark,0.15997196733951569,294
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bbc_brewdog,0.13200142979621887,294
+mpnet_masked,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,reuters_denmark,0.10542738437652588,294
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bbc_brewdog,0.198807954788208,294
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,reuters_denmark,0.15544916689395905,294
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bbc_brewdog,0.22554825246334076,294
+mpnet_masked,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,reuters_denmark,0.17651167511940002,294
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,bbc_brewdog,0.18547821044921875,294
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Large 3,reuters_denmark,0.16957144439220428,294
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,bbc_brewdog,0.17551326751708984,294
+mpnet_masked,Meta Llama 3.3 Turbo,Mistral Medium 3,reuters_denmark,0.14778383076190948,294
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,bbc_brewdog,0.22620928287506104,294
+mpnet_masked,Meta Llama 3.3 Turbo,Grok Fast,reuters_denmark,0.2142675817012787,294
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bbc_brewdog,0.2105855643749237,294
+mpnet_masked,Meta Llama 3.3 Turbo,3.5 Flash-Lite,reuters_denmark,0.19079916179180145,294
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,bbc_brewdog,0.19169935584068298,294
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Flash,reuters_denmark,0.15318115055561066,294
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,bbc_brewdog,0.21337486803531647,294
+mpnet_masked,Meta Llama Maverick 4,Gemini 2.5 Pro,reuters_denmark,0.17375661432743073,294
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,bbc_brewdog,0.18199165165424347,294
+mpnet_masked,Meta Llama Maverick 4,Mistral Large 3,reuters_denmark,0.16027982532978058,294
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,bbc_brewdog,0.18280641734600067,294
+mpnet_masked,Meta Llama Maverick 4,Mistral Medium 3,reuters_denmark,0.14552359282970428,294
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,bbc_brewdog,0.22099514305591583,294
+mpnet_masked,Meta Llama Maverick 4,Grok Fast,reuters_denmark,0.2042253613471985,294
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,bbc_brewdog,0.20932181179523468,294
+mpnet_masked,Meta Llama Maverick 4,3.5 Flash-Lite,reuters_denmark,0.18511635065078735,294
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,bbc_brewdog,0.1837630718946457,294
+mpnet_masked,Gemini 2.5 Flash,Gemini 2.5 Pro,reuters_denmark,0.14616280794143677,294
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,bbc_brewdog,0.17666663229465485,294
+mpnet_masked,Gemini 2.5 Flash,Mistral Large 3,reuters_denmark,0.14878037571907043,294
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,bbc_brewdog,0.1677735447883606,294
+mpnet_masked,Gemini 2.5 Flash,Mistral Medium 3,reuters_denmark,0.13760757446289062,294
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,bbc_brewdog,0.2046927660703659,294
+mpnet_masked,Gemini 2.5 Flash,Grok Fast,reuters_denmark,0.16900822520256042,294
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,bbc_brewdog,0.19368837773799896,294
+mpnet_masked,Gemini 2.5 Flash,3.5 Flash-Lite,reuters_denmark,0.1577976793050766,294
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,bbc_brewdog,0.21388612687587738,294
+mpnet_masked,Gemini 2.5 Pro,Mistral Large 3,reuters_denmark,0.16217319667339325,294
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,bbc_brewdog,0.1926652044057846,294
+mpnet_masked,Gemini 2.5 Pro,Mistral Medium 3,reuters_denmark,0.1542564481496811,294
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,bbc_brewdog,0.21138174831867218,294
+mpnet_masked,Gemini 2.5 Pro,Grok Fast,reuters_denmark,0.16996897757053375,294
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,bbc_brewdog,0.20865361392498016,294
+mpnet_masked,Gemini 2.5 Pro,3.5 Flash-Lite,reuters_denmark,0.17130564153194427,294
+mpnet_masked,Mistral Large 3,Mistral Medium 3,bbc_brewdog,0.13698464632034302,294
+mpnet_masked,Mistral Large 3,Mistral Medium 3,reuters_denmark,0.11839086562395096,294
+mpnet_masked,Mistral Large 3,Grok Fast,bbc_brewdog,0.2071281224489212,294
+mpnet_masked,Mistral Large 3,Grok Fast,reuters_denmark,0.17593002319335938,294
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,bbc_brewdog,0.2033940851688385,294
+mpnet_masked,Mistral Large 3,3.5 Flash-Lite,reuters_denmark,0.16378910839557648,294
+mpnet_masked,Mistral Medium 3,Grok Fast,bbc_brewdog,0.2001660168170929,294
+mpnet_masked,Mistral Medium 3,Grok Fast,reuters_denmark,0.16050554811954498,294
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,bbc_brewdog,0.18969707190990448,294
+mpnet_masked,Mistral Medium 3,3.5 Flash-Lite,reuters_denmark,0.1581844687461853,294
+mpnet_masked,Grok Fast,3.5 Flash-Lite,bbc_brewdog,0.19341202080249786,294
+mpnet_masked,Grok Fast,3.5 Flash-Lite,reuters_denmark,0.17613090574741364,294
+tfidf,GPT 5.4,GPT 5.4 Mini,bbc_brewdog,0.8434730968783796,294
+tfidf,GPT 5.4,GPT 5.4 Mini,reuters_denmark,0.8227314600280342,294
+tfidf,GPT 5.4,Claude Sonnet 4.5,bbc_brewdog,0.8911818664278485,294
+tfidf,GPT 5.4,Claude Sonnet 4.5,reuters_denmark,0.8845894168061494,294
+tfidf,GPT 5.4,Claude Haiku 4.5,bbc_brewdog,0.8981121475865247,294
+tfidf,GPT 5.4,Claude Haiku 4.5,reuters_denmark,0.8889471875814884,294
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,bbc_brewdog,0.9050185008804527,294
+tfidf,GPT 5.4,Meta Llama 3.3 Turbo,reuters_denmark,0.8911753251447623,294
+tfidf,GPT 5.4,Meta Llama Maverick 4,bbc_brewdog,0.8991161352003713,294
+tfidf,GPT 5.4,Meta Llama Maverick 4,reuters_denmark,0.8881085529864814,294
+tfidf,GPT 5.4,Gemini 2.5 Flash,bbc_brewdog,0.899649679651165,294
+tfidf,GPT 5.4,Gemini 2.5 Flash,reuters_denmark,0.8937889069352206,294
+tfidf,GPT 5.4,Gemini 2.5 Pro,bbc_brewdog,0.8978680468758681,294
+tfidf,GPT 5.4,Gemini 2.5 Pro,reuters_denmark,0.886926295279558,294
+tfidf,GPT 5.4,Mistral Large 3,bbc_brewdog,0.8930889203629738,294
+tfidf,GPT 5.4,Mistral Large 3,reuters_denmark,0.8866138835335117,294
+tfidf,GPT 5.4,Mistral Medium 3,bbc_brewdog,0.888146367798661,294
+tfidf,GPT 5.4,Mistral Medium 3,reuters_denmark,0.8808219138539712,294
+tfidf,GPT 5.4,Grok Fast,bbc_brewdog,0.8748710999684215,294
+tfidf,GPT 5.4,Grok Fast,reuters_denmark,0.8794457315543289,294
+tfidf,GPT 5.4,3.5 Flash-Lite,bbc_brewdog,0.8998573290523737,294
+tfidf,GPT 5.4,3.5 Flash-Lite,reuters_denmark,0.888261325311832,294
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,bbc_brewdog,0.8966983667982142,294
+tfidf,GPT 5.4 Mini,Claude Sonnet 4.5,reuters_denmark,0.8847200926007505,294
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,bbc_brewdog,0.8991408802618086,294
+tfidf,GPT 5.4 Mini,Claude Haiku 4.5,reuters_denmark,0.8867477538539431,294
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,bbc_brewdog,0.8938106204054632,294
+tfidf,GPT 5.4 Mini,Meta Llama 3.3 Turbo,reuters_denmark,0.8795911413471507,294
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,bbc_brewdog,0.8938723605555332,294
+tfidf,GPT 5.4 Mini,Meta Llama Maverick 4,reuters_denmark,0.8790181487101627,294
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,bbc_brewdog,0.9041032055926254,294
+tfidf,GPT 5.4 Mini,Gemini 2.5 Flash,reuters_denmark,0.8904605226803528,294
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,bbc_brewdog,0.901020091347496,294
+tfidf,GPT 5.4 Mini,Gemini 2.5 Pro,reuters_denmark,0.8869675773908696,294
+tfidf,GPT 5.4 Mini,Mistral Large 3,bbc_brewdog,0.8936617073396851,294
+tfidf,GPT 5.4 Mini,Mistral Large 3,reuters_denmark,0.8842015187828417,294
+tfidf,GPT 5.4 Mini,Mistral Medium 3,bbc_brewdog,0.8826114230484757,294
+tfidf,GPT 5.4 Mini,Mistral Medium 3,reuters_denmark,0.8761394928109103,294
+tfidf,GPT 5.4 Mini,Grok Fast,bbc_brewdog,0.8961891720945827,294
+tfidf,GPT 5.4 Mini,Grok Fast,reuters_denmark,0.8869301506222111,294
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,bbc_brewdog,0.9085100879327874,294
+tfidf,GPT 5.4 Mini,3.5 Flash-Lite,reuters_denmark,0.8938926352344109,294
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,bbc_brewdog,0.8420069906082278,294
+tfidf,Claude Sonnet 4.5,Claude Haiku 4.5,reuters_denmark,0.8234258819354091,294
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.8820475116471603,294
+tfidf,Claude Sonnet 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.8654968190539033,294
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,bbc_brewdog,0.8800831522259257,294
+tfidf,Claude Sonnet 4.5,Meta Llama Maverick 4,reuters_denmark,0.8683275220646716,294
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,bbc_brewdog,0.8752177812871037,294
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Flash,reuters_denmark,0.868901365278069,294
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,bbc_brewdog,0.8764939210179467,294
+tfidf,Claude Sonnet 4.5,Gemini 2.5 Pro,reuters_denmark,0.8681356368066503,294
+tfidf,Claude Sonnet 4.5,Mistral Large 3,bbc_brewdog,0.8778435880684672,294
+tfidf,Claude Sonnet 4.5,Mistral Large 3,reuters_denmark,0.8567018116774461,294
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,bbc_brewdog,0.8687683420963128,294
+tfidf,Claude Sonnet 4.5,Mistral Medium 3,reuters_denmark,0.8516427054218791,294
+tfidf,Claude Sonnet 4.5,Grok Fast,bbc_brewdog,0.8927622468045263,294
+tfidf,Claude Sonnet 4.5,Grok Fast,reuters_denmark,0.8963595333680983,294
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,bbc_brewdog,0.8753691296252454,294
+tfidf,Claude Sonnet 4.5,3.5 Flash-Lite,reuters_denmark,0.8658595758808747,294
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,bbc_brewdog,0.8865545440149049,294
+tfidf,Claude Haiku 4.5,Meta Llama 3.3 Turbo,reuters_denmark,0.8694374933351715,294
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,bbc_brewdog,0.8844615701347812,294
+tfidf,Claude Haiku 4.5,Meta Llama Maverick 4,reuters_denmark,0.8741108701622121,294
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,bbc_brewdog,0.8840214939224476,294
+tfidf,Claude Haiku 4.5,Gemini 2.5 Flash,reuters_denmark,0.8741648260513727,294
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,bbc_brewdog,0.8906042861883893,294
+tfidf,Claude Haiku 4.5,Gemini 2.5 Pro,reuters_denmark,0.8769490230674162,294
+tfidf,Claude Haiku 4.5,Mistral Large 3,bbc_brewdog,0.8803726634157978,294
+tfidf,Claude Haiku 4.5,Mistral Large 3,reuters_denmark,0.8663160388820659,294
+tfidf,Claude Haiku 4.5,Mistral Medium 3,bbc_brewdog,0.8740723137329176,294
+tfidf,Claude Haiku 4.5,Mistral Medium 3,reuters_denmark,0.856596922414871,294
+tfidf,Claude Haiku 4.5,Grok Fast,bbc_brewdog,0.9087748905072486,294
+tfidf,Claude Haiku 4.5,Grok Fast,reuters_denmark,0.9003213481703559,294
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,bbc_brewdog,0.8883080806348602,294
+tfidf,Claude Haiku 4.5,3.5 Flash-Lite,reuters_denmark,0.8699273858597876,294
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,bbc_brewdog,0.7460531744875591,294
+tfidf,Meta Llama 3.3 Turbo,Meta Llama Maverick 4,reuters_denmark,0.7144988985531442,294
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,bbc_brewdog,0.8670123096988271,294
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Flash,reuters_denmark,0.8441646494039106,294
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,bbc_brewdog,0.8660140468806582,294
+tfidf,Meta Llama 3.3 Turbo,Gemini 2.5 Pro,reuters_denmark,0.8558657075206546,294
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,bbc_brewdog,0.8813436243952963,294
+tfidf,Meta Llama 3.3 Turbo,Mistral Large 3,reuters_denmark,0.8703095467255801,294
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,bbc_brewdog,0.8508955802479479,294
+tfidf,Meta Llama 3.3 Turbo,Mistral Medium 3,reuters_denmark,0.8462661440708525,294
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,bbc_brewdog,0.9131724445467229,294
+tfidf,Meta Llama 3.3 Turbo,Grok Fast,reuters_denmark,0.9100689863205799,294
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,bbc_brewdog,0.8726373417386889,294
+tfidf,Meta Llama 3.3 Turbo,3.5 Flash-Lite,reuters_denmark,0.86723825503455,294
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,bbc_brewdog,0.8625767171788742,294
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Flash,reuters_denmark,0.8445146124991145,294
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,bbc_brewdog,0.8664007677289457,294
+tfidf,Meta Llama Maverick 4,Gemini 2.5 Pro,reuters_denmark,0.8571990714161941,294
+tfidf,Meta Llama Maverick 4,Mistral Large 3,bbc_brewdog,0.8798771407282238,294
+tfidf,Meta Llama Maverick 4,Mistral Large 3,reuters_denmark,0.8711580033818022,294
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,bbc_brewdog,0.856890494879667,294
+tfidf,Meta Llama Maverick 4,Mistral Medium 3,reuters_denmark,0.8485573867350803,294
+tfidf,Meta Llama Maverick 4,Grok Fast,bbc_brewdog,0.9054476757948975,294
+tfidf,Meta Llama Maverick 4,Grok Fast,reuters_denmark,0.9084404414642882,294
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,bbc_brewdog,0.8746773102604346,294
+tfidf,Meta Llama Maverick 4,3.5 Flash-Lite,reuters_denmark,0.8682979788437069,294
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,bbc_brewdog,0.8428777679377919,294
+tfidf,Gemini 2.5 Flash,Gemini 2.5 Pro,reuters_denmark,0.8347442191048768,294
+tfidf,Gemini 2.5 Flash,Mistral Large 3,bbc_brewdog,0.8876942936039941,294
+tfidf,Gemini 2.5 Flash,Mistral Large 3,reuters_denmark,0.8834600633759906,294
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,bbc_brewdog,0.8721770973281568,294
+tfidf,Gemini 2.5 Flash,Mistral Medium 3,reuters_denmark,0.8649732594667441,294
+tfidf,Gemini 2.5 Flash,Grok Fast,bbc_brewdog,0.8993382503352441,294
+tfidf,Gemini 2.5 Flash,Grok Fast,reuters_denmark,0.901704302198273,294
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,bbc_brewdog,0.8756499627830776,294
+tfidf,Gemini 2.5 Flash,3.5 Flash-Lite,reuters_denmark,0.8529649505616548,294
+tfidf,Gemini 2.5 Pro,Mistral Large 3,bbc_brewdog,0.8980009572313908,294
+tfidf,Gemini 2.5 Pro,Mistral Large 3,reuters_denmark,0.8843523052536086,294
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,bbc_brewdog,0.8780060730447989,294
+tfidf,Gemini 2.5 Pro,Mistral Medium 3,reuters_denmark,0.8693847947955061,294
+tfidf,Gemini 2.5 Pro,Grok Fast,bbc_brewdog,0.8952738228521679,294
+tfidf,Gemini 2.5 Pro,Grok Fast,reuters_denmark,0.8981747714063328,294
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,bbc_brewdog,0.8715061929831123,294
+tfidf,Gemini 2.5 Pro,3.5 Flash-Lite,reuters_denmark,0.8575603773050176,294
+tfidf,Mistral Large 3,Mistral Medium 3,bbc_brewdog,0.831826739891795,294
+tfidf,Mistral Large 3,Mistral Medium 3,reuters_denmark,0.8219849485582574,294
+tfidf,Mistral Large 3,Grok Fast,bbc_brewdog,0.9118835577865407,294
+tfidf,Mistral Large 3,Grok Fast,reuters_denmark,0.9054717380391021,294
+tfidf,Mistral Large 3,3.5 Flash-Lite,bbc_brewdog,0.8962243767487071,294
+tfidf,Mistral Large 3,3.5 Flash-Lite,reuters_denmark,0.884449133756248,294
+tfidf,Mistral Medium 3,Grok Fast,bbc_brewdog,0.9068463548943273,294
+tfidf,Mistral Medium 3,Grok Fast,reuters_denmark,0.9028848616381884,294
+tfidf,Mistral Medium 3,3.5 Flash-Lite,bbc_brewdog,0.8819259437685597,294
+tfidf,Mistral Medium 3,3.5 Flash-Lite,reuters_denmark,0.8732363601954799,294
+tfidf,Grok Fast,3.5 Flash-Lite,bbc_brewdog,0.8925747617789174,294
+tfidf,Grok Fast,3.5 Flash-Lite,reuters_denmark,0.8915334802462176,294

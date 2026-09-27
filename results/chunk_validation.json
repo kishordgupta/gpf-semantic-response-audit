@@ -1,0 +1,71 @@
+{
+  "status": "pass",
+  "method": "Local cached AutoTokenizer only; reconstruct original nonoverlapping token chunks, decode, then retokenize including special tokens with truncation disabled. No embedding inference or network calls.",
+  "interpretation": "No over-limit retokenized chunks means no truncation from model maximum length under this exact procedure. Mid-word chunk boundaries can change tokenization during decode/retokenize; this is separately counted and is not a semantic-equivalence guarantee.",
+  "passes": [
+    {
+      "pass": "mpnet",
+      "encoder": "sentence-transformers/all-mpnet-base-v2",
+      "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+      "texts": 7056,
+      "text_sha256": "4b7c5930f74e0de79e17994da854c2d04fe8c630a384121b0bb0b30a845132ee",
+      "model_max_seq_length": 384,
+      "token_budget": 220,
+      "chunks": 7750,
+      "multi_chunk_texts": 682,
+      "max_original_text_tokens": 579,
+      "max_retokenized_chunk_tokens_including_specials": 222,
+      "chunks_with_changed_tokenization_after_decode": 64,
+      "over_limit_chunks": [],
+      "saved_embedding_metadata_available": true
+    },
+    {
+      "pass": "minilm",
+      "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+      "texts": 7056,
+      "text_sha256": "4b7c5930f74e0de79e17994da854c2d04fe8c630a384121b0bb0b30a845132ee",
+      "model_max_seq_length": 256,
+      "token_budget": 220,
+      "chunks": 7750,
+      "multi_chunk_texts": 682,
+      "max_original_text_tokens": 579,
+      "max_retokenized_chunk_tokens_including_specials": 222,
+      "chunks_with_changed_tokenization_after_decode": 64,
+      "over_limit_chunks": [],
+      "saved_embedding_metadata_available": true
+    },
+    {
+      "pass": "mpnet_masked",
+      "encoder": "sentence-transformers/all-mpnet-base-v2",
+      "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+      "texts": 7056,
+      "text_sha256": "fe425fe8f1e00919ae4d80c312416f28d18b4efd3db88cf364b29e19a5a30f0b",
+      "model_max_seq_length": 384,
+      "token_budget": 220,
+      "chunks": 7809,
+      "multi_chunk_texts": 741,
+      "max_original_text_tokens": 581,
+      "max_retokenized_chunk_tokens_including_specials": 222,
+      "chunks_with_changed_tokenization_after_decode": 56,
+      "over_limit_chunks": [],
+      "saved_embedding_metadata_available": true
+    },
+    {
+      "pass": "articles_mpnet",
+      "encoder": "sentence-transformers/all-mpnet-base-v2",
+      "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+      "texts": 2,
+      "text_sha256": "3970f7c996014c34e2813d9cd0aad0bb7434fe8c6f0999858c89098cf6e0f35a",
+      "model_max_seq_length": 384,
+      "token_budget": 220,
+      "chunks": 6,
+      "multi_chunk_texts": 2,
+      "max_original_text_tokens": 855,
+      "max_retokenized_chunk_tokens_including_specials": 222,
+      "chunks_with_changed_tokenization_after_decode": 1,
+      "over_limit_chunks": [],
+      "saved_embedding_metadata_available": true
+    }
+  ]
+}

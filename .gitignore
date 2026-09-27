@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+.DS_Store
+embeddings/
+data/responses.csv
+upload-staging/
+*.zip
+!GPF_Analysis_Complete.zip
+*.tex
+report/build_report.py

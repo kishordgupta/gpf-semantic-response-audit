@@ -1,0 +1,170 @@
+{
+  "rows": 7056,
+  "columns": 28,
+  "models": [
+    "GPT 5.4",
+    "GPT 5.4 Mini",
+    "Claude Sonnet 4.5",
+    "Claude Haiku 4.5",
+    "Meta Llama 3.3 Turbo",
+    "Meta Llama Maverick 4",
+    "Gemini 2.5 Flash",
+    "Gemini 2.5 Pro",
+    "Mistral Large 3",
+    "Mistral Medium 3",
+    "Grok Fast",
+    "3.5 Flash-Lite"
+  ],
+  "companies": {
+    "GPT 5.4": "OpenAI",
+    "GPT 5.4 Mini": "OpenAI",
+    "Claude Sonnet 4.5": "Anthropic",
+    "Claude Haiku 4.5": "Anthropic",
+    "Meta Llama 3.3 Turbo": "Meta",
+    "Meta Llama Maverick 4": "Meta",
+    "Gemini 2.5 Flash": "Google",
+    "Gemini 2.5 Pro": "Google",
+    "Mistral Large 3": "Mistral",
+    "Mistral Medium 3": "Mistral",
+    "Grok Fast": "xAI",
+    "3.5 Flash-Lite": "Google"
+  },
+  "n_models": 12,
+  "n_companies": 6,
+  "n_prompts": 588,
+  "n_identities": 42,
+  "n_articles": 2,
+  "n_families": 7,
+  "n_model_pairs": 66,
+  "prompt_pairs_per_encoder": 38808,
+  "capture_min": "2026-09-19T07:22:38.221Z",
+  "capture_max": "2026-09-27T05:34:44Z",
+  "source_sha256": "c459043e9fb30eb653541d3a0ebaddb10735512025ed57190c0cb12966dd89da",
+  "dimensions": {
+    "gender_sexuality": [
+      "Bisexual",
+      "Gay Male",
+      "LGBTQ+",
+      "Lesbian",
+      "Nonbinary",
+      "Straight Female",
+      "Straight Male",
+      "Transgender / Nonbinary"
+    ],
+    "geography": [
+      "Coastal Elite",
+      "Midwest working-class White",
+      "Rural American",
+      "Southeastern Black",
+      "Southwestern Hispanic",
+      "Urban American"
+    ],
+    "political": [
+      "Conservative",
+      "Democrat",
+      "Independent",
+      "Liberal",
+      "Socialist"
+    ],
+    "race_ethnicity": [
+      "Arab American",
+      "Asian American",
+      "Black American",
+      "Hispanic American",
+      "Indian American",
+      "Native American",
+      "White American"
+    ],
+    "religion": [
+      "Atheist",
+      "Buddhist",
+      "Catholic",
+      "Hindu",
+      "Jewish",
+      "Muslim",
+      "Protestant"
+    ],
+    "socioeconomic": [
+      "Disabled",
+      "Lower middle class",
+      "Middle class",
+      "Senior Citizen",
+      "Student",
+      "Ultra-rich",
+      "Upper middle class",
+      "Veteran",
+      "Working poor"
+    ]
+  },
+  "families": [
+    "bias_check",
+    "community",
+    "emotion",
+    "impact",
+    "policy_action",
+    "significance",
+    "worldview"
+  ],
+  "encoder_metadata": {
+    "mpnet": {
+      "encoder": "sentence-transformers/all-mpnet-base-v2",
+      "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+      "text_sha256": "4b7c5930f74e0de79e17994da854c2d04fe8c630a384121b0bb0b30a845132ee",
+      "rows": 7056,
+      "dimensions": 768,
+      "max_seq_length": 384,
+      "chunk_token_budget": 220,
+      "chunks": 7750,
+      "multi_chunk_rows": 682,
+      "maximum_tokens": 579,
+      "device": "cpu",
+      "aggregation": "token-count weighted mean of L2-normalized chunk embeddings, L2-normalized again",
+      "special_prefix_cleaning": true
+    },
+    "minilm": {
+      "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+      "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+      "text_sha256": "4b7c5930f74e0de79e17994da854c2d04fe8c630a384121b0bb0b30a845132ee",
+      "rows": 7056,
+      "dimensions": 384,
+      "max_seq_length": 256,
+      "chunk_token_budget": 220,
+      "chunks": 7750,
+      "multi_chunk_rows": 682,
+      "maximum_tokens": 579,
+      "device": "cpu",
+      "aggregation": "token-count weighted mean of L2-normalized chunk embeddings, L2-normalized again",
+      "special_prefix_cleaning": true
+    },
+    "mpnet_masked": {
+      "encoder": "sentence-transformers/all-mpnet-base-v2",
+      "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+      "text_sha256": "fe425fe8f1e00919ae4d80c312416f28d18b4efd3db88cf364b29e19a5a30f0b",
+      "rows": 7056,
+      "dimensions": 768,
+      "max_seq_length": 384,
+      "chunk_token_budget": 220,
+      "chunks": 7809,
+      "multi_chunk_rows": 741,
+      "maximum_tokens": 581,
+      "device": "cpu",
+      "aggregation": "token-count weighted mean of L2-normalized chunk embeddings, L2-normalized again",
+      "special_prefix_cleaning": true
+    }
+  },
+  "bootstrap": {
+    "seed": 20260927,
+    "replicates": 2000,
+    "resampling_unit": "42 identity clusters for matched-model means; all 14 article-family observations retained per identity; conditional on two fixed articles",
+    "identity_sensitivity": "14 article-family block means; exploratory conditional uncertainty"
+  },
+  "warnings": [
+    "Distances are not proof of harmful bias, factual accuracy, or a quality ranking.",
+    "Single sampled response per prompt/model; no generation variance estimate.",
+    "Model version/tier/platform comparisons are cross-sectional, not longitudinal improvement.",
+    "Google Gemini web model label and Grok Fast backend are not independent checkpoint verifications.",
+    "Original model_provider includes hosting routers; company mapping uses model family, not host.",
+    "No neutral-persona control: identity sensitivity is relative to other supplied identity labels.",
+    "Six dimensions are heterogeneous labels, not demographic ground truth."
+  ]
+}

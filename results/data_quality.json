@@ -1,0 +1,536 @@
+{
+  "input_file": "data/responses.csv",
+  "input_sha256": "c459043e9fb30eb653541d3a0ebaddb10735512025ed57190c0cb12966dd89da",
+  "rows": 7056,
+  "columns": [
+    "run_id",
+    "cell_id",
+    "experiment_stage",
+    "repeat",
+    "model_name",
+    "model_id",
+    "model_provider",
+    "prompt_family",
+    "prompt_question",
+    "full_prompt",
+    "x_group_id",
+    "x_group_name",
+    "news_source",
+    "news_source_link",
+    "news_author",
+    "news_published_utc",
+    "news_modified_utc",
+    "news_retrieved_utc",
+    "news_word_count",
+    "y_group_dimension",
+    "y_group_id",
+    "y_group_name",
+    "response",
+    "response_word_count",
+    "captured_utc",
+    "requested_word_range",
+    "length_status",
+    "thread_deleted"
+  ],
+  "column_count": 28,
+  "model_count": 12,
+  "models": [
+    "GPT 5.4",
+    "GPT 5.4 Mini",
+    "Claude Sonnet 4.5",
+    "Claude Haiku 4.5",
+    "Meta Llama 3.3 Turbo",
+    "Meta Llama Maverick 4",
+    "Gemini 2.5 Flash",
+    "Gemini 2.5 Pro",
+    "Mistral Large 3",
+    "Mistral Medium 3",
+    "Grok Fast",
+    "3.5 Flash-Lite"
+  ],
+  "unique_cell_count": 588,
+  "unique_prompt_sha256_count": 588,
+  "unique_run_id_count": 6468,
+  "run_id_multiplicities": {
+    "2": 588,
+    "1": 5880
+  },
+  "model_cell_duplicates": [],
+  "cell_coverage_counts": {
+    "12": 588
+  },
+  "missing_model_cell_pairs": [],
+  "prompt_field_inconsistent_cells": {
+    "full_prompt": [],
+    "prompt_question": [],
+    "x_group_id": [],
+    "y_group_id": [],
+    "prompt_family": []
+  },
+  "identity_prompt_mismatch_rows": [],
+  "empty_field_counts": {
+    "run_id": 0,
+    "cell_id": 0,
+    "experiment_stage": 0,
+    "repeat": 0,
+    "model_name": 0,
+    "model_id": 0,
+    "model_provider": 0,
+    "prompt_family": 0,
+    "prompt_question": 0,
+    "full_prompt": 0,
+    "x_group_id": 0,
+    "x_group_name": 0,
+    "news_source": 0,
+    "news_source_link": 0,
+    "news_author": 0,
+    "news_published_utc": 0,
+    "news_modified_utc": 3528,
+    "news_retrieved_utc": 0,
+    "news_word_count": 0,
+    "y_group_dimension": 0,
+    "y_group_id": 0,
+    "y_group_name": 0,
+    "response": 0,
+    "response_word_count": 0,
+    "captured_utc": 0,
+    "requested_word_range": 0,
+    "length_status": 0,
+    "thread_deleted": 6468
+  },
+  "repeat_counts": {
+    "1": 7056
+  },
+  "stage_counts": {
+    "primary": 6468,
+    "external_platform_extension": 588
+  },
+  "article_counts": {
+    "bbc_brewdog": 3528,
+    "reuters_denmark": 3528
+  },
+  "family_counts": {
+    "significance": 1008,
+    "emotion": 1008,
+    "bias_check": 1008,
+    "worldview": 1008,
+    "community": 1008,
+    "policy_action": 1008,
+    "impact": 1008
+  },
+  "dimension_counts": {
+    "socioeconomic": 1512,
+    "gender_sexuality": 1344,
+    "geography": 1008,
+    "race_ethnicity": 1176,
+    "political": 840,
+    "religion": 1176
+  },
+  "identities_by_dimension": {
+    "socioeconomic": [
+      "Disabled",
+      "Lower middle class",
+      "Middle class",
+      "Senior Citizen",
+      "Student",
+      "Ultra-rich",
+      "Upper middle class",
+      "Veteran",
+      "Working poor"
+    ],
+    "gender_sexuality": [
+      "Bisexual",
+      "Gay Male",
+      "LGBTQ+",
+      "Lesbian",
+      "Nonbinary",
+      "Straight Female",
+      "Straight Male",
+      "Transgender / Nonbinary"
+    ],
+    "geography": [
+      "Coastal Elite",
+      "Midwest working-class White",
+      "Rural American",
+      "Southeastern Black",
+      "Southwestern Hispanic",
+      "Urban American"
+    ],
+    "race_ethnicity": [
+      "Arab American",
+      "Asian American",
+      "Black American",
+      "Hispanic American",
+      "Indian American",
+      "Native American",
+      "White American"
+    ],
+    "political": [
+      "Conservative",
+      "Democrat",
+      "Independent",
+      "Liberal",
+      "Socialist"
+    ],
+    "religion": [
+      "Atheist",
+      "Buddhist",
+      "Catholic",
+      "Hindu",
+      "Jewish",
+      "Muslim",
+      "Protestant"
+    ]
+  },
+  "raw_exact_duplicate_response_groups": [],
+  "normalized_duplicate_response_groups": [],
+  "word_count_metadata_mismatch_rows": [],
+  "raw_outside_requested_range": 2135,
+  "clean_outside_requested_range": 2137,
+  "model_summaries": {
+    "GPT 5.4": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "openai": 588
+      },
+      "model_id_labels": {
+        "openai/gpt-5.4": 588
+      },
+      "captured_utc_min": "2026-09-19T07:22:38.221Z",
+      "captured_utc_max": "2026-09-25T01:55:09Z",
+      "raw_word_count_mean": 143.34183673469389,
+      "clean_word_count_mean": 143.34183673469389,
+      "clean_word_count_min": 124,
+      "clean_word_count_max": 166,
+      "raw_outside_requested_range": 67,
+      "clean_outside_requested_range": 67,
+      "leading_gemini_said_headers": 0
+    },
+    "GPT 5.4 Mini": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "openai": 588
+      },
+      "model_id_labels": {
+        "openai/gpt-5.4-mini": 588
+      },
+      "captured_utc_min": "2026-09-19T07:23:05.453Z",
+      "captured_utc_max": "2026-09-25T01:56:36Z",
+      "raw_word_count_mean": 118.43877551020408,
+      "clean_word_count_mean": 118.43877551020408,
+      "clean_word_count_min": 63,
+      "clean_word_count_max": 152,
+      "raw_outside_requested_range": 59,
+      "clean_outside_requested_range": 59,
+      "leading_gemini_said_headers": 0
+    },
+    "Claude Sonnet 4.5": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "anthropic": 588
+      },
+      "model_id_labels": {
+        "anthropic/claude-sonnet-4-5": 588
+      },
+      "captured_utc_min": "2026-09-19T07:25:33.322Z",
+      "captured_utc_max": "2026-09-25T01:56:36Z",
+      "raw_word_count_mean": 151.1122448979592,
+      "clean_word_count_mean": 151.1122448979592,
+      "clean_word_count_min": 93,
+      "clean_word_count_max": 178,
+      "raw_outside_requested_range": 333,
+      "clean_outside_requested_range": 333,
+      "leading_gemini_said_headers": 0
+    },
+    "Claude Haiku 4.5": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "anthropic": 588
+      },
+      "model_id_labels": {
+        "anthropic/claude-haiku-4-5": 588
+      },
+      "captured_utc_min": "2026-09-19T07:26:19.447Z",
+      "captured_utc_max": "2026-09-25T01:58:11Z",
+      "raw_word_count_mean": 139.45068027210885,
+      "clean_word_count_mean": 139.45068027210885,
+      "clean_word_count_min": 85,
+      "clean_word_count_max": 171,
+      "raw_outside_requested_range": 112,
+      "clean_outside_requested_range": 112,
+      "leading_gemini_said_headers": 0
+    },
+    "Meta Llama 3.3 Turbo": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "together_ai": 588
+      },
+      "model_id_labels": {
+        "together_ai/meta-llama/Llama-3.3-70B-Instruct-Turbo": 588
+      },
+      "captured_utc_min": "2026-09-19T07:26:52.363Z",
+      "captured_utc_max": "2026-09-25T01:58:11Z",
+      "raw_word_count_mean": 94.81462585034014,
+      "clean_word_count_mean": 94.81462585034014,
+      "clean_word_count_min": 61,
+      "clean_word_count_max": 147,
+      "raw_outside_requested_range": 346,
+      "clean_outside_requested_range": 346,
+      "leading_gemini_said_headers": 0
+    },
+    "Meta Llama Maverick 4": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "openrouter": 588
+      },
+      "model_id_labels": {
+        "openrouter/meta-llama/llama-4-maverick": 588
+      },
+      "captured_utc_min": "2026-09-19T07:27:30.133Z",
+      "captured_utc_max": "2026-09-25T02:03:31Z",
+      "raw_word_count_mean": 118.59183673469387,
+      "clean_word_count_mean": 118.59183673469387,
+      "clean_word_count_min": 85,
+      "clean_word_count_max": 186,
+      "raw_outside_requested_range": 78,
+      "clean_outside_requested_range": 78,
+      "leading_gemini_said_headers": 0
+    },
+    "Gemini 2.5 Flash": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "gemini": 588
+      },
+      "model_id_labels": {
+        "gemini/gemini-2.5-flash": 588
+      },
+      "captured_utc_min": "2026-09-19T07:28:51.745Z",
+      "captured_utc_max": "2026-09-25T02:03:31Z",
+      "raw_word_count_mean": 144.91326530612244,
+      "clean_word_count_mean": 144.91326530612244,
+      "clean_word_count_min": 81,
+      "clean_word_count_max": 218,
+      "raw_outside_requested_range": 211,
+      "clean_outside_requested_range": 211,
+      "leading_gemini_said_headers": 0
+    },
+    "Gemini 2.5 Pro": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "gemini": 588
+      },
+      "model_id_labels": {
+        "gemini/gemini-2.5-pro": 588
+      },
+      "captured_utc_min": "2026-09-19T07:30:04.575Z",
+      "captured_utc_max": "2026-09-25T01:53:36Z",
+      "raw_word_count_mean": 128.34013605442178,
+      "clean_word_count_mean": 128.34013605442178,
+      "clean_word_count_min": 66,
+      "clean_word_count_max": 163,
+      "raw_outside_requested_range": 10,
+      "clean_outside_requested_range": 10,
+      "leading_gemini_said_headers": 0
+    },
+    "Mistral Large 3": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "mistral": 588
+      },
+      "model_id_labels": {
+        "mistral/mistral-large-latest": 588
+      },
+      "captured_utc_min": "2026-09-19T07:31:09.661Z",
+      "captured_utc_max": "2026-09-25T01:53:36Z",
+      "raw_word_count_mean": 179.79931972789115,
+      "clean_word_count_mean": 179.79931972789115,
+      "clean_word_count_min": 46,
+      "clean_word_count_max": 403,
+      "raw_outside_requested_range": 440,
+      "clean_outside_requested_range": 440,
+      "leading_gemini_said_headers": 0
+    },
+    "Mistral Medium 3": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "mistral": 588
+      },
+      "model_id_labels": {
+        "mistral/mistral-medium-latest": 588
+      },
+      "captured_utc_min": "2026-09-19T07:34:28.135Z",
+      "captured_utc_max": "2026-09-25T01:55:09Z",
+      "raw_word_count_mean": 126.07482993197279,
+      "clean_word_count_mean": 126.07482993197279,
+      "clean_word_count_min": 67,
+      "clean_word_count_max": 227,
+      "raw_outside_requested_range": 138,
+      "clean_outside_requested_range": 138,
+      "leading_gemini_said_headers": 0
+    },
+    "Grok Fast": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "grok.com": 588
+      },
+      "model_id_labels": {
+        "grok.com/fast-ui-alias": 588
+      },
+      "captured_utc_min": "2026-09-23T05:18:03Z",
+      "captured_utc_max": "2026-09-24T05:57:43Z",
+      "raw_word_count_mean": 149.44897959183675,
+      "clean_word_count_mean": 149.44897959183675,
+      "clean_word_count_min": 102,
+      "clean_word_count_max": 234,
+      "raw_outside_requested_range": 264,
+      "clean_outside_requested_range": 264,
+      "leading_gemini_said_headers": 0
+    },
+    "3.5 Flash-Lite": {
+      "rows": 588,
+      "unique_cells": 588,
+      "provider_labels": {
+        "Google": 588
+      },
+      "model_id_labels": {
+        "unknown": 588
+      },
+      "captured_utc_min": "2026-09-25T03:19:07Z",
+      "captured_utc_max": "2026-09-27T05:34:44Z",
+      "raw_word_count_mean": 125.54931972789116,
+      "clean_word_count_mean": 124.23639455782313,
+      "clean_word_count_min": 31,
+      "clean_word_count_max": 197,
+      "raw_outside_requested_range": 77,
+      "clean_outside_requested_range": 79,
+      "leading_gemini_said_headers": 386
+    }
+  },
+  "suspected_alignment_rows": [
+    {
+      "row_index": 6469,
+      "csv_record_number_including_header": 6471,
+      "model_name": "3.5 Flash-Lite",
+      "cell_id": "bbc_brewdog__gender_sexuality__07__significance",
+      "evidence": "As a disabled individual",
+      "requested_identity": "Nonbinary",
+      "response_identity": "Disabled",
+      "response_family": "significance",
+      "gemini_queue_position": 1,
+      "reason": "Explicitly addresses Disabled, although prompt requests Nonbinary; only 31 words."
+    },
+    {
+      "row_index": 6657,
+      "csv_record_number_including_header": 6659,
+      "model_name": "3.5 Flash-Lite",
+      "cell_id": "reuters_denmark__religion__06__worldview",
+      "evidence": "directly influence your life as a nonbinary individual",
+      "requested_identity": "Atheist",
+      "response_identity": "Nonbinary",
+      "response_family": "policy_action",
+      "gemini_queue_position": 189,
+      "reason": "Response addresses Nonbinary/policy_action; assigned prompt is Atheist/worldview."
+    },
+    {
+      "row_index": 6658,
+      "csv_record_number_including_header": 6660,
+      "model_name": "3.5 Flash-Lite",
+      "cell_id": "bbc_brewdog__political__00__bias_check",
+      "evidence": "As a Coastal Elite, you can interpret",
+      "requested_identity": "Conservative",
+      "response_identity": "Coastal Elite",
+      "response_family": "worldview",
+      "gemini_queue_position": 190,
+      "reason": "Response addresses Coastal Elite/worldview; assigned prompt is Conservative/bias_check."
+    },
+    {
+      "row_index": 6659,
+      "csv_record_number_including_header": 6661,
+      "model_name": "3.5 Flash-Lite",
+      "cell_id": "bbc_brewdog__geography__05__community",
+      "evidence": "As a transgender or nonbinary individual",
+      "requested_identity": "Coastal Elite",
+      "response_identity": "Transgender / Nonbinary",
+      "response_family": "emotion",
+      "gemini_queue_position": 191,
+      "reason": "Response addresses Transgender/Nonbinary emotion and discusses both articles, although assigned prompt requests Coastal Elite/BBC community."
+    },
+    {
+      "row_index": 6660,
+      "csv_record_number_including_header": 6662,
+      "model_name": "3.5 Flash-Lite",
+      "cell_id": "reuters_denmark__gender_sexuality__00__emotion",
+      "evidence": "stereotypes about Native Americans",
+      "requested_identity": "Straight Male",
+      "response_identity": "Native American",
+      "response_family": "bias_check",
+      "gemini_queue_position": 192,
+      "reason": "Response addresses Native American/bias_check; assigned prompt is Straight Male/emotion."
+    }
+  ],
+  "other_article_content_rows": [
+    6659
+  ],
+  "citation_domain_not_in_supplied_source_rows": [
+    6777,
+    6807,
+    6827,
+    6842,
+    6916
+  ],
+  "flagged_row_count": 393,
+  "flag_counts": {
+    "very_short_answer_under_50_words": 3,
+    "suspected_prompt_response_alignment": 5,
+    "other_article_content": 1,
+    "leading_ui_header": 386,
+    "citation_domain_not_in_supplied_source": 5
+  },
+  "repeated_capture_timestamp_count": 1113,
+  "maximum_rows_sharing_capture_timestamp": 29,
+  "sensitivity": {
+    "primary": "Preserve every raw row; remove only the leading browser header for text analysis.",
+    "alignment_sensitivity_excluded_row_indices": [
+      6469,
+      6657,
+      6658,
+      6659,
+      6660
+    ],
+    "alignment_sensitivity_excluded_cells": [
+      "bbc_brewdog__gender_sexuality__07__significance",
+      "bbc_brewdog__geography__05__community",
+      "bbc_brewdog__political__00__bias_check",
+      "reuters_denmark__gender_sexuality__00__emotion",
+      "reuters_denmark__religion__06__worldview"
+    ],
+    "rowwise_remaining": 7051,
+    "balanced_complete_cell_remaining": 583,
+    "balanced_complete_cell_row_count": 6996,
+    "interpretation": "Five high-confidence content/target inconsistencies, not proven capture failures. Do not relabel, reassign, replace, or delete them from canonical data. Compare full versus flagged-excluded estimates."
+  },
+  "limitations": [
+    "One recorded generation per model and prompt; no empirical estimate of sampling variability or stable personality.",
+    "Two articles only; news source is completely confounded with article/topic. Do not generalize to BBC versus Reuters.",
+    "42 identity labels in six dimensions are overlapping/non-exhaustive, including geographic labels that incorporate race/class; no causal or population-representative identity effect.",
+    "Semantic distance measures text variation, not discrimination, factual correctness, fairness, or causal bias.",
+    "Family/question wording changes the task. Match the exact cell_id for between-model comparisons, and hold article/family fixed for identity contrasts.",
+    "Provider labels mix model developer, router/provider, and web product. Normalize company explicitly with provenance; preserve the recorded label.",
+    "Model labels are UI/reported names; backend checkpoint and generation settings are not identified by this selected CSV.",
+    "The names of different versions/tier labels do not establish longitudinal model evolution; compare same-company labeled products descriptively.",
+    "AUC versus web platform and collection time may affect responses; Google 2.5 versus 3.5 comparisons are confounded by platform and date.",
+    "Repeated capture timestamps indicate batch-recording metadata and cannot establish response duration or independent generations.",
+    "Full prompts contain publisher article text. A repository should be private unless redistribution rights are established."
+  ]
+}
